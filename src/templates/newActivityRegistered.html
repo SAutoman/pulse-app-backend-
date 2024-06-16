@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>New Activity Registered</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        color: #333333;
+        margin: 0;
+        padding: 0;
+      }
+      .container {
+        max-width: 600px;
+        margin: 0 auto;
+        background-color: #ffffff;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+      .header {
+        text-align: center;
+        margin-bottom: 20px;
+      }
+      .header img {
+        max-width: 150px;
+      }
+      .content {
+        text-align: center;
+        margin-bottom: 20px;
+      }
+      .activity-points {
+        display: inline-block;
+        font-size: 18px;
+        font-weight: bold;
+        color: #ffffff;
+        background-color: #257157; /* Primary color */
+        padding: 10px 20px;
+        border-radius: 5px;
+        margin-top: 10px;
+      }
+      .validation-message {
+        color: #ff0000;
+        margin-top: 10px;
+      }
+      .footer {
+        text-align: center;
+        margin-top: 20px;
+        font-size: 12px;
+        color: #777777;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <img
+          src="https://tmateapp.com/wp-content/uploads/2024/01/Logo-Webpage3.png"
+          alt="App Logo"
+        />
+      </div>
+      <div class="content">
+        <h2>New Activity Registered 🎉</h2>
+        <p>Hi {{firstName}} {{lastName}},</p>
+        <p>
+          Your activity <strong>{{activityName}}</strong> has been saved with
+          <div class="activity-points">{{calculatedPoints}} points</div>
+        </p>
+        {{#if validationMessage}}
+        <p class="validation-message">{{validationMessage}}</p>
+        {{/if}}
+        <p>
+          Keep up the great work and continue to track your activities to earn more points!
+        </p>
+      </div>
+      <div class="footer">
+        <p>© 2024 T-Mate App. All rights reserved.</p>
+      </div>
+    </div>
+  </body>
+</html>

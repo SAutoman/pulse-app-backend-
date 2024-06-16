@@ -1,0 +1,506 @@
+[
+  {
+    "id": "65de94f667739da79bea8fb2",
+    "progress_made": 95.5261,
+    "created_at": "2024-02-28T02:05:42.119Z",
+    "mission_attempt_id": "65de9308cd9245ee6b2d75fc",
+    "activity_id": "65de94f567739da79bea8fb0"
+  },
+  {
+    "id": "65de94f667739da79bea8fb3",
+    "progress_made": 1,
+    "created_at": "2024-02-28T02:05:42.986Z",
+    "mission_attempt_id": "65de930fcd9245ee6b2d75fd",
+    "activity_id": "65de94f567739da79bea8fb0"
+  },
+  {
+    "id": "65de94f767739da79bea8fb4",
+    "progress_made": 180.6666666666667,
+    "created_at": "2024-02-28T02:05:43.883Z",
+    "mission_attempt_id": "65de9315cd9245ee6b2d75fe",
+    "activity_id": "65de94f567739da79bea8fb0"
+  },
+  {
+    "id": "65e08e0aa8ee6c6c05f4ebe6",
+    "progress_made": 11.8511,
+    "created_at": "2024-02-29T14:00:42.307Z",
+    "mission_attempt_id": "65e0009ba8ee6c6c05f4ebdc",
+    "activity_id": "65e08e09a8ee6c6c05f4ebe4"
+  },
+  {
+    "id": "65e08e0aa8ee6c6c05f4ebe7",
+    "progress_made": 11.8511,
+    "created_at": "2024-02-29T14:00:42.895Z",
+    "mission_attempt_id": "65e000a2a8ee6c6c05f4ebdd",
+    "activity_id": "65e08e09a8ee6c6c05f4ebe4"
+  },
+  {
+    "id": "6634c3d9bf3880c0fbcd927b",
+    "progress_made": 2.3023,
+    "created_at": "2024-05-03T11:00:41.254Z",
+    "mission_attempt_id": "66338207bf3880c0fbcd9262",
+    "activity_id": "6634c3d8bf3880c0fbcd9279"
+  },
+  {
+    "id": "6637aa92bf3880c0fbcd92b8",
+    "progress_made": 10.0733,
+    "created_at": "2024-05-05T15:49:38.941Z",
+    "mission_attempt_id": "66338207bf3880c0fbcd9262",
+    "activity_id": "6637aa91bf3880c0fbcd92b6"
+  },
+  {
+    "id": "663b78f3bf3880c0fbcd93a2",
+    "progress_made": 1.8482,
+    "created_at": "2024-05-08T13:06:59.874Z",
+    "mission_attempt_id": "66338207bf3880c0fbcd9262",
+    "activity_id": "663b78f3bf3880c0fbcd93a0"
+  },
+  {
+    "id": "663b80c2bf3880c0fbcd93aa",
+    "progress_made": 1.0495,
+    "created_at": "2024-05-08T13:40:18.914Z",
+    "mission_attempt_id": "66286950bf3880c0fbcd9135",
+    "activity_id": "663b80c2bf3880c0fbcd93a7"
+  },
+  {
+    "id": "663b93fabf3880c0fbcd93b2",
+    "progress_made": 1.2404,
+    "created_at": "2024-05-08T15:02:18.188Z",
+    "mission_attempt_id": "66286950bf3880c0fbcd9135",
+    "activity_id": "663b93f9bf3880c0fbcd93b0"
+  },
+  {
+    "id": "663cc3f0f4ce0fc45d56bf3f",
+    "progress_made": 6.826899999999999,
+    "created_at": "2024-05-09T12:39:12.035Z",
+    "mission_attempt_id": "66338207bf3880c0fbcd9262",
+    "activity_id": "663cc3eff4ce0fc45d56bf3d"
+  },
+  {
+    "id": "663cd476f4ce0fc45d56bf44",
+    "progress_made": 6.1755,
+    "created_at": "2024-05-09T13:49:42.678Z",
+    "mission_attempt_id": "66286950bf3880c0fbcd9135",
+    "activity_id": "663cd475f4ce0fc45d56bf42"
+  },
+  {
+    "id": "663d86cd02d12bd815971843",
+    "progress_made": 9.777299999999999,
+    "created_at": "2024-05-10T02:30:37.211Z",
+    "mission_attempt_id": "66247c6731f59a7e65d2f4c6",
+    "activity_id": "663d86cc02d12bd815971841"
+  },
+  {
+    "id": "663d86cd02d12bd815971844",
+    "progress_made": 9.777299999999999,
+    "created_at": "2024-05-10T02:30:37.823Z",
+    "mission_attempt_id": "66359cabbf3880c0fbcd9297",
+    "activity_id": "663d86cc02d12bd815971841"
+  },
+  {
+    "id": "663e322102d12bd815971889",
+    "progress_made": 1.1398,
+    "created_at": "2024-05-10T14:41:37.815Z",
+    "mission_attempt_id": "66286950bf3880c0fbcd9135",
+    "activity_id": "663e322102d12bd815971887"
+  },
+  {
+    "id": "663e543e02d12bd815971894",
+    "progress_made": 2.3046,
+    "created_at": "2024-05-10T17:07:10.190Z",
+    "mission_attempt_id": "66338207bf3880c0fbcd9262",
+    "activity_id": "663e543d02d12bd815971892"
+  },
+  {
+    "id": "663e657202d12bd8159718a0",
+    "progress_made": 2.3408,
+    "created_at": "2024-05-10T18:20:34.678Z",
+    "mission_attempt_id": "66247c6731f59a7e65d2f4c6",
+    "activity_id": "663e657102d12bd81597189e"
+  },
+  {
+    "id": "663e657302d12bd8159718a1",
+    "progress_made": 2.3408,
+    "created_at": "2024-05-10T18:20:35.342Z",
+    "mission_attempt_id": "66359cabbf3880c0fbcd9297",
+    "activity_id": "663e657102d12bd81597189e"
+  },
+  {
+    "id": "6640fed2c3ef420531212f53",
+    "progress_made": 10.0175,
+    "created_at": "2024-05-12T17:39:30.753Z",
+    "mission_attempt_id": "66247c6731f59a7e65d2f4c6",
+    "activity_id": "6640fed2c3ef420531212f51"
+  },
+  {
+    "id": "6640fed3c3ef420531212f54",
+    "progress_made": 10.0175,
+    "created_at": "2024-05-12T17:39:31.380Z",
+    "mission_attempt_id": "66359cabbf3880c0fbcd9297",
+    "activity_id": "6640fed2c3ef420531212f51"
+  },
+  {
+    "id": "6642c0309ebcd5dd0b7e97fd",
+    "progress_made": 4.1792,
+    "created_at": "2024-05-14T01:36:48.423Z",
+    "mission_attempt_id": "66338207bf3880c0fbcd9262",
+    "activity_id": "6642c02f9ebcd5dd0b7e97fb"
+  },
+  {
+    "id": "66435b2c9ebcd5dd0b7e9809",
+    "progress_made": 2.1209,
+    "created_at": "2024-05-14T12:38:04.699Z",
+    "mission_attempt_id": "66338207bf3880c0fbcd9262",
+    "activity_id": "66435b2c9ebcd5dd0b7e9807"
+  },
+  {
+    "id": "6643d1ed9ebcd5dd0b7e9834",
+    "progress_made": 3.3732,
+    "created_at": "2024-05-14T21:04:45.031Z",
+    "mission_attempt_id": "663e9ee102d12bd8159718b2",
+    "activity_id": "6643d1ec9ebcd5dd0b7e9832"
+  },
+  {
+    "id": "66456a8897c694f9a434a484",
+    "progress_made": 0.0877,
+    "created_at": "2024-05-16T02:08:08.990Z",
+    "mission_attempt_id": "663e9ee102d12bd8159718b2",
+    "activity_id": "66456a8897c694f9a434a482"
+  },
+  {
+    "id": "66456a8a97c694f9a434a48e",
+    "progress_made": 4.485399999999999,
+    "created_at": "2024-05-16T02:08:10.377Z",
+    "mission_attempt_id": "663e9ee102d12bd8159718b2",
+    "activity_id": "66456a8997c694f9a434a488"
+  },
+  {
+    "id": "66456a8d97c694f9a434a49b",
+    "progress_made": 7.9878,
+    "created_at": "2024-05-16T02:08:13.785Z",
+    "mission_attempt_id": "663e9ee102d12bd8159718b2",
+    "activity_id": "66456a8d97c694f9a434a499"
+  },
+  {
+    "id": "6645f1ad97c694f9a434a4a8",
+    "progress_made": 2.7576,
+    "created_at": "2024-05-16T11:44:45.666Z",
+    "mission_attempt_id": "663e9ee102d12bd8159718b2",
+    "activity_id": "6645f1ac97c694f9a434a4a6"
+  },
+  {
+    "id": "66461a5697c694f9a434a4b5",
+    "progress_made": 5.1403,
+    "created_at": "2024-05-16T14:38:14.225Z",
+    "mission_attempt_id": "663e9ee102d12bd8159718b2",
+    "activity_id": "66461a5597c694f9a434a4b3"
+  },
+  {
+    "id": "66464b8b97c694f9a434a4c0",
+    "progress_made": 2.9415,
+    "created_at": "2024-05-16T18:08:11.448Z",
+    "mission_attempt_id": "663e9ee102d12bd8159718b2",
+    "activity_id": "66464b8a97c694f9a434a4be"
+  },
+  {
+    "id": "664698ee97c694f9a434a4c7",
+    "progress_made": 2.8627,
+    "created_at": "2024-05-16T23:38:22.999Z",
+    "mission_attempt_id": "663e9ee102d12bd8159718b2",
+    "activity_id": "664698ee97c694f9a434a4c5"
+  },
+  {
+    "id": "66476dd04608f238c2367806",
+    "progress_made": 1.9997,
+    "created_at": "2024-05-17T14:46:40.752Z",
+    "mission_attempt_id": "663e9ee102d12bd8159718b2",
+    "activity_id": "66476dd04608f238c2367804"
+  },
+  {
+    "id": "6648cbd94608f238c236782c",
+    "progress_made": 1.8391,
+    "created_at": "2024-05-18T15:40:09.459Z",
+    "mission_attempt_id": "663e9ee102d12bd8159718b2",
+    "activity_id": "6648cbd84608f238c236782a"
+  },
+  {
+    "id": "6648f8654608f238c2367845",
+    "progress_made": 3.0106,
+    "created_at": "2024-05-18T18:50:13.727Z",
+    "mission_attempt_id": "663e9ee102d12bd8159718b2",
+    "activity_id": "6648f8644608f238c2367843"
+  },
+  {
+    "id": "664941f74608f238c236784c",
+    "progress_made": 6.4745,
+    "created_at": "2024-05-19T00:04:07.654Z",
+    "mission_attempt_id": "66338207bf3880c0fbcd9262",
+    "activity_id": "664941f64608f238c236784a"
+  },
+  {
+    "id": "664a1c2c4608f238c236785d",
+    "progress_made": 5.5327,
+    "created_at": "2024-05-19T15:35:08.736Z",
+    "mission_attempt_id": "66286950bf3880c0fbcd9135",
+    "activity_id": "664a1c2c4608f238c236785b"
+  },
+  {
+    "id": "664a1db44608f238c2367860",
+    "progress_made": 1.2281,
+    "created_at": "2024-05-19T15:41:40.585Z",
+    "mission_attempt_id": "66286950bf3880c0fbcd9135",
+    "activity_id": "664a1db44608f238c236785e"
+  },
+  {
+    "id": "664a3a464608f238c236786d",
+    "progress_made": 4.0041,
+    "created_at": "2024-05-19T17:43:34.596Z",
+    "mission_attempt_id": "66338207bf3880c0fbcd9262",
+    "activity_id": "664a3a454608f238c236786b"
+  },
+  {
+    "id": "664a4a7bba6c072275bab62e",
+    "progress_made": 1.7179,
+    "created_at": "2024-05-19T18:52:43.240Z",
+    "mission_attempt_id": "663e9ee102d12bd8159718b2",
+    "activity_id": "664a4a7aba6c072275bab62c"
+  },
+  {
+    "id": "664a72b1429e95d46e25ce1b",
+    "progress_made": 14.0946,
+    "created_at": "2024-05-19T21:44:17.846Z",
+    "mission_attempt_id": "66247c6731f59a7e65d2f4c6",
+    "activity_id": "664a72b0429e95d46e25ce19"
+  },
+  {
+    "id": "664a72b2429e95d46e25ce1c",
+    "progress_made": 14.0946,
+    "created_at": "2024-05-19T21:44:18.730Z",
+    "mission_attempt_id": "66359cabbf3880c0fbcd9297",
+    "activity_id": "664a72b0429e95d46e25ce19"
+  },
+  {
+    "id": "664b6e7138ff261216e094c2",
+    "progress_made": 3.0564,
+    "created_at": "2024-05-20T15:38:25.876Z",
+    "mission_attempt_id": "663e9ee102d12bd8159718b2",
+    "activity_id": "664b6e7138ff261216e094c0"
+  },
+  {
+    "id": "664b868338ff261216e094ca",
+    "progress_made": 3.6584,
+    "created_at": "2024-05-20T17:21:07.876Z",
+    "mission_attempt_id": "663e9ee102d12bd8159718b2",
+    "activity_id": "664b868338ff261216e094c8"
+  },
+  {
+    "id": "664cf5237a28532c859d46e9",
+    "progress_made": 5.2922,
+    "created_at": "2024-05-21T19:25:23.657Z",
+    "mission_attempt_id": "663e9ee102d12bd8159718b2",
+    "activity_id": "664cf5227a28532c859d46e7"
+  },
+  {
+    "id": "664de4f4e57190d925cd508b",
+    "progress_made": 1.2795,
+    "created_at": "2024-05-22T12:28:36.803Z",
+    "mission_attempt_id": "66286950bf3880c0fbcd9135",
+    "activity_id": "664de4f4e57190d925cd5089"
+  },
+  {
+    "id": "664dfcece57190d925cd509b",
+    "progress_made": 1.8583,
+    "created_at": "2024-05-22T14:10:52.290Z",
+    "mission_attempt_id": "66338207bf3880c0fbcd9262",
+    "activity_id": "664dfcebe57190d925cd5099"
+  },
+  {
+    "id": "664dff63e57190d925cd50a8",
+    "progress_made": 2.1816,
+    "created_at": "2024-05-22T14:21:23.610Z",
+    "mission_attempt_id": "66286950bf3880c0fbcd9135",
+    "activity_id": "664dff62e57190d925cd50a6"
+  },
+  {
+    "id": "664e06a7e57190d925cd50ab",
+    "progress_made": 0.5245,
+    "created_at": "2024-05-22T14:52:23.439Z",
+    "mission_attempt_id": "66286950bf3880c0fbcd9135",
+    "activity_id": "664e06a6e57190d925cd50a9"
+  },
+  {
+    "id": "664f38bde57190d925cd50fb",
+    "progress_made": 11.486,
+    "created_at": "2024-05-23T12:38:21.446Z",
+    "mission_attempt_id": "66338207bf3880c0fbcd9262",
+    "activity_id": "664f38bce57190d925cd50f9"
+  },
+  {
+    "id": "664f4bfde57190d925cd50fe",
+    "progress_made": 10.263,
+    "created_at": "2024-05-23T14:00:29.262Z",
+    "mission_attempt_id": "66247c6731f59a7e65d2f4c6",
+    "activity_id": "664f4bfce57190d925cd50fc"
+  },
+  {
+    "id": "664f4bfde57190d925cd50ff",
+    "progress_made": 10.263,
+    "created_at": "2024-05-23T14:00:29.812Z",
+    "mission_attempt_id": "66359cabbf3880c0fbcd9297",
+    "activity_id": "664f4bfce57190d925cd50fc"
+  },
+  {
+    "id": "664f6edee57190d925cd5128",
+    "progress_made": 5.6965,
+    "created_at": "2024-05-23T16:29:18.079Z",
+    "mission_attempt_id": "663e9ee102d12bd8159718b2",
+    "activity_id": "664f6edde57190d925cd5126"
+  },
+  {
+    "id": "664f83eee57190d925cd512d",
+    "progress_made": 2.9388,
+    "created_at": "2024-05-23T17:59:10.861Z",
+    "mission_attempt_id": "663e9ee102d12bd8159718b2",
+    "activity_id": "664f83eee57190d925cd512b"
+  },
+  {
+    "id": "6650724181767b714e7f3a31",
+    "progress_made": 2.3673,
+    "created_at": "2024-05-24T10:56:01.418Z",
+    "mission_attempt_id": "66338207bf3880c0fbcd9262",
+    "activity_id": "6650724081767b714e7f3a2f"
+  },
+  {
+    "id": "66507b4081767b714e7f3a39",
+    "progress_made": 2.3024,
+    "created_at": "2024-05-24T11:34:24.305Z",
+    "mission_attempt_id": "66247c6731f59a7e65d2f4c6",
+    "activity_id": "66507b3f81767b714e7f3a37"
+  },
+  {
+    "id": "66507b4081767b714e7f3a3a",
+    "progress_made": 2.3024,
+    "created_at": "2024-05-24T11:34:24.847Z",
+    "mission_attempt_id": "66359cabbf3880c0fbcd9297",
+    "activity_id": "66507b3f81767b714e7f3a37"
+  },
+  {
+    "id": "6650d47f81767b714e7f3a56",
+    "progress_made": 3.96,
+    "created_at": "2024-05-24T17:55:11.355Z",
+    "mission_attempt_id": "663e9ee102d12bd8159718b2",
+    "activity_id": "6650d47e81767b714e7f3a54"
+  },
+  {
+    "id": "6652456581767b714e7f3a98",
+    "progress_made": 11.9984,
+    "created_at": "2024-05-25T20:09:09.125Z",
+    "mission_attempt_id": "66338207bf3880c0fbcd9262",
+    "activity_id": "6652456481767b714e7f3a96"
+  },
+  {
+    "id": "6654a3aa81767b714e7f3c1d",
+    "progress_made": 0.8862000000000001,
+    "created_at": "2024-05-27T15:15:54.503Z",
+    "mission_attempt_id": "66286950bf3880c0fbcd9135",
+    "activity_id": "6654a3a981767b714e7f3c1b"
+  },
+  {
+    "id": "6655e877254878f6857838ff",
+    "progress_made": 5.6436,
+    "created_at": "2024-05-28T14:21:43.604Z",
+    "mission_attempt_id": "66286950bf3880c0fbcd9135",
+    "activity_id": "6655e876254878f6857838fd"
+  },
+  {
+    "id": "6655f2a6254878f685783909",
+    "progress_made": 1.0398,
+    "created_at": "2024-05-28T15:05:10.450Z",
+    "mission_attempt_id": "66286950bf3880c0fbcd9135",
+    "activity_id": "6655f2a5254878f685783907"
+  },
+  {
+    "id": "665680bf254878f68578392d",
+    "progress_made": 3.88,
+    "created_at": "2024-05-29T01:11:27.361Z",
+    "mission_attempt_id": "663e9ee102d12bd8159718b2",
+    "activity_id": "665680be254878f68578392b"
+  },
+  {
+    "id": "665680d6254878f685783931",
+    "progress_made": 2.464,
+    "created_at": "2024-05-29T01:11:50.098Z",
+    "mission_attempt_id": "663e9ee102d12bd8159718b2",
+    "activity_id": "665680d5254878f68578392f"
+  },
+  {
+    "id": "665680d7254878f685783934",
+    "progress_made": 7.721,
+    "created_at": "2024-05-29T01:11:51.750Z",
+    "mission_attempt_id": "663e9ee102d12bd8159718b2",
+    "activity_id": "665680d7254878f685783932"
+  },
+  {
+    "id": "665719ddfbfa625ab24578b4",
+    "progress_made": 1.7597,
+    "created_at": "2024-05-29T12:04:45.584Z",
+    "mission_attempt_id": "66338207bf3880c0fbcd9262",
+    "activity_id": "665719dcfbfa625ab24578b2"
+  },
+  {
+    "id": "6657342afbfa625ab24578d5",
+    "progress_made": 1.0707,
+    "created_at": "2024-05-29T13:56:58.613Z",
+    "mission_attempt_id": "66286950bf3880c0fbcd9135",
+    "activity_id": "66573429fbfa625ab24578d3"
+  },
+  {
+    "id": "66573b58fbfa625ab24578dc",
+    "progress_made": 3.1697,
+    "created_at": "2024-05-29T14:27:36.705Z",
+    "mission_attempt_id": "66286950bf3880c0fbcd9135",
+    "activity_id": "66573b58fbfa625ab24578da"
+  },
+  {
+    "id": "665740f1fbfa625ab24578e5",
+    "progress_made": 1.1318,
+    "created_at": "2024-05-29T14:51:29.383Z",
+    "mission_attempt_id": "66286950bf3880c0fbcd9135",
+    "activity_id": "665740f0fbfa625ab24578e2"
+  },
+  {
+    "id": "6657794bfbfa625ab24578f2",
+    "progress_made": 7.2987,
+    "created_at": "2024-05-29T18:51:55.020Z",
+    "mission_attempt_id": "663e9ee102d12bd8159718b2",
+    "activity_id": "6657794afbfa625ab24578f0"
+  },
+  {
+    "id": "6658c5cbfbfa625ab2457923",
+    "progress_made": 8.9181,
+    "created_at": "2024-05-30T18:30:35.403Z",
+    "mission_attempt_id": "66247c6731f59a7e65d2f4c6",
+    "activity_id": "6658c5cafbfa625ab2457921"
+  },
+  {
+    "id": "6658c5ccfbfa625ab2457924",
+    "progress_made": 8.9181,
+    "created_at": "2024-05-30T18:30:36.580Z",
+    "mission_attempt_id": "66359cabbf3880c0fbcd9297",
+    "activity_id": "6658c5cafbfa625ab2457921"
+  },
+  {
+    "id": "6658c61efbfa625ab2457927",
+    "progress_made": 5.3979,
+    "created_at": "2024-05-30T18:31:58.378Z",
+    "mission_attempt_id": "66286950bf3880c0fbcd9135",
+    "activity_id": "6658c61dfbfa625ab2457925"
+  },
+  {
+    "id": "6658c65efbfa625ab245792a",
+    "progress_made": 1.2245,
+    "created_at": "2024-05-30T18:33:02.635Z",
+    "mission_attempt_id": "66286950bf3880c0fbcd9135",
+    "activity_id": "6658c65dfbfa625ab2457928"
+  }
+]

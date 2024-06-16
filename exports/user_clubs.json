@@ -1,0 +1,62 @@
+[
+  {
+    "id": "6646a0eece21848cb2e06662",
+    "created_at": "2024-05-17T00:12:30.457Z",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "club_id": "662469ecabcc30dd58830c07"
+  },
+  {
+    "id": "6646ae57c7a9474b3c6d62cc",
+    "created_at": "2024-05-17T01:09:43.293Z",
+    "user_id": "653a6d9f5fc5b77e05f53aa4",
+    "club_id": "662469ecabcc30dd58830c07"
+  },
+  {
+    "id": "6646ae68c7a9474b3c6d62cd",
+    "created_at": "2024-05-17T01:10:00.591Z",
+    "user_id": "653a6847c43667c6704515e3",
+    "club_id": "662469ecabcc30dd58830c07"
+  },
+  {
+    "id": "6646ae6fc7a9474b3c6d62ce",
+    "created_at": "2024-05-17T01:10:07.920Z",
+    "user_id": "653a688bc43667c6704515e4",
+    "club_id": "662469ecabcc30dd58830c07"
+  },
+  {
+    "id": "664a4218ba6c072275bab624",
+    "created_at": "2024-05-19T18:16:56.007Z",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "club_id": "662469c8abcc30dd58830c06"
+  },
+  {
+    "id": "66591a73fbfa625ab245794c",
+    "created_at": "2024-05-31T00:31:47.032Z",
+    "user_id": "653a6847c43667c6704515e3",
+    "club_id": "662469c8abcc30dd58830c06"
+  },
+  {
+    "id": "66591aa1fbfa625ab245794d",
+    "created_at": "2024-05-31T00:32:33.838Z",
+    "user_id": "653c5a31aaea15c4a05afe52",
+    "club_id": "662469c8abcc30dd58830c06"
+  },
+  {
+    "id": "66591ac4fbfa625ab245794e",
+    "created_at": "2024-05-31T00:33:08.054Z",
+    "user_id": "653c5a31aaea15c4a05afe52",
+    "club_id": "662713a6bf3880c0fbcd9101"
+  },
+  {
+    "id": "66591ad6fbfa625ab245794f",
+    "created_at": "2024-05-31T00:33:26.803Z",
+    "user_id": "653c5a31aaea15c4a05afe52",
+    "club_id": "662861debf3880c0fbcd9132"
+  },
+  {
+    "id": "66591aeefbfa625ab2457950",
+    "created_at": "2024-05-31T00:33:50.124Z",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "club_id": "662861debf3880c0fbcd9132"
+  }
+]

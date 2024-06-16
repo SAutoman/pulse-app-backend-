@@ -1,0 +1,638 @@
+[
+  {
+    "id": "66456a8b97c694f9a434a495",
+    "date_earned_epoch_ms": "1715825291430",
+    "user_id": "653a688bc43667c6704515e4",
+    "badge_id": "6642aad71033e9cefb14f5e1"
+  },
+  {
+    "id": "66456a8b97c694f9a434a497",
+    "date_earned_epoch_ms": "1715825291845",
+    "user_id": "653a688bc43667c6704515e4",
+    "badge_id": "6642aad71033e9cefb14f5e1"
+  },
+  {
+    "id": "6645f69397c694f9a434a4ab",
+    "date_earned_epoch_ms": "1715861139231",
+    "user_id": "65a884bb1d7d5851d36a1194",
+    "badge_id": "6642aad71033e9cefb14f5e1"
+  },
+  {
+    "id": "66461f4d97c694f9a434a4b8",
+    "date_earned_epoch_ms": "1715871565156",
+    "user_id": "65a886c71d7d5851d36a1195",
+    "badge_id": "6642aad71033e9cefb14f5e1"
+  },
+  {
+    "id": "66469d4cce21848cb2e06661",
+    "date_earned_epoch_ms": "1715903820504",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "badge_id": "66429557c0eff6c74edb9cc7"
+  },
+  {
+    "id": "664ab7b438ff261216e09384",
+    "date_earned_epoch_ms": "1716172724841",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "badge_id": "664ab6d838ff261216e0937f"
+  },
+  {
+    "id": "664ad8d138ff261216e09389",
+    "date_earned_epoch_ms": "1716181201358",
+    "user_id": "65a886c71d7d5851d36a1195",
+    "badge_id": "6642a0aed364527f492c499d"
+  },
+  {
+    "id": "664ad8d238ff261216e0938d",
+    "date_earned_epoch_ms": "1716181202560",
+    "user_id": "65a884bb1d7d5851d36a1194",
+    "badge_id": "6642a0aed364527f492c499d"
+  },
+  {
+    "id": "664ad8d338ff261216e09391",
+    "date_earned_epoch_ms": "1716181203833",
+    "user_id": "65a737d01d7d5851d36a1163",
+    "badge_id": "6642a0aed364527f492c499d"
+  },
+  {
+    "id": "664ad8d538ff261216e09395",
+    "date_earned_epoch_ms": "1716181205219",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "badge_id": "6642a0aed364527f492c499d"
+  },
+  {
+    "id": "664ad8d638ff261216e09399",
+    "date_earned_epoch_ms": "1716181206478",
+    "user_id": "65a8464a1d7d5851d36a118a",
+    "badge_id": "6642a0aed364527f492c499d"
+  },
+  {
+    "id": "664ad8d738ff261216e0939d",
+    "date_earned_epoch_ms": "1716181207735",
+    "user_id": "653a6847c43667c6704515e3",
+    "badge_id": "6642a0aed364527f492c499d"
+  },
+  {
+    "id": "664ad8d838ff261216e093a1",
+    "date_earned_epoch_ms": "1716181208834",
+    "user_id": "65889d51f745765a16dbae76",
+    "badge_id": "6642a0aed364527f492c499d"
+  },
+  {
+    "id": "664ad8d938ff261216e093a5",
+    "date_earned_epoch_ms": "1716181209935",
+    "user_id": "653a688bc43667c6704515e4",
+    "badge_id": "6642a0aed364527f492c499d"
+  },
+  {
+    "id": "664ad8db38ff261216e093a9",
+    "date_earned_epoch_ms": "1716181211106",
+    "user_id": "65a7d9b81d7d5851d36a1171",
+    "badge_id": "6642a0aed364527f492c499d"
+  },
+  {
+    "id": "664ad8dc38ff261216e093ad",
+    "date_earned_epoch_ms": "1716181212200",
+    "user_id": "653a6d9f5fc5b77e05f53aa4",
+    "badge_id": "6642a0aed364527f492c499d"
+  },
+  {
+    "id": "664ad8dd38ff261216e093b1",
+    "date_earned_epoch_ms": "1716181213285",
+    "user_id": "65db7a74a7b5f062c2d0e666",
+    "badge_id": "6642a0aed364527f492c499d"
+  },
+  {
+    "id": "664c8b977a28532c859d46da",
+    "date_earned_epoch_ms": "1716292503933",
+    "user_id": "653a688bc43667c6704515e4",
+    "badge_id": "664bb90838ff261216e094d8"
+  },
+  {
+    "id": "664c8b977a28532c859d46db",
+    "date_earned_epoch_ms": "1716292503993",
+    "user_id": "653a688bc43667c6704515e4",
+    "badge_id": "664bb90238ff261216e094d7"
+  },
+  {
+    "id": "664dd489e57190d925cd506e",
+    "date_earned_epoch_ms": "1716376713660",
+    "user_id": "65a7d9b81d7d5851d36a1171",
+    "badge_id": "664ab6fc38ff261216e09383"
+  },
+  {
+    "id": "664dd489e57190d925cd5070",
+    "date_earned_epoch_ms": "1716376713734",
+    "user_id": "65a7d9b81d7d5851d36a1171",
+    "badge_id": "664ab6ec38ff261216e09381"
+  },
+  {
+    "id": "664dd489e57190d925cd5071",
+    "date_earned_epoch_ms": "1716376713988",
+    "user_id": "65a7d9b81d7d5851d36a1171",
+    "badge_id": "664ab6d838ff261216e0937f"
+  },
+  {
+    "id": "664dd48ae57190d925cd5072",
+    "date_earned_epoch_ms": "1716376714001",
+    "user_id": "65a7d9b81d7d5851d36a1171",
+    "badge_id": "664ab6e338ff261216e09380"
+  },
+  {
+    "id": "664dd489e57190d925cd506f",
+    "date_earned_epoch_ms": "1716376713720",
+    "user_id": "65a7d9b81d7d5851d36a1171",
+    "badge_id": "664ab6f538ff261216e09382"
+  },
+  {
+    "id": "664de216e57190d925cd507c",
+    "date_earned_epoch_ms": "1716380182212",
+    "user_id": "65a884bb1d7d5851d36a1194",
+    "badge_id": "664ab6fc38ff261216e09383"
+  },
+  {
+    "id": "664de216e57190d925cd507f",
+    "date_earned_epoch_ms": "1716380182220",
+    "user_id": "65a884bb1d7d5851d36a1194",
+    "badge_id": "664ab6e338ff261216e09380"
+  },
+  {
+    "id": "664de216e57190d925cd5080",
+    "date_earned_epoch_ms": "1716380182222",
+    "user_id": "65a884bb1d7d5851d36a1194",
+    "badge_id": "664ab6f538ff261216e09382"
+  },
+  {
+    "id": "664de216e57190d925cd507e",
+    "date_earned_epoch_ms": "1716380182221",
+    "user_id": "65a884bb1d7d5851d36a1194",
+    "badge_id": "664ab6d838ff261216e0937f"
+  },
+  {
+    "id": "664de216e57190d925cd507d",
+    "date_earned_epoch_ms": "1716380182220",
+    "user_id": "65a884bb1d7d5851d36a1194",
+    "badge_id": "664ab6ec38ff261216e09381"
+  },
+  {
+    "id": "664de73fe57190d925cd5091",
+    "date_earned_epoch_ms": "1716381503329",
+    "user_id": "653a6847c43667c6704515e3",
+    "badge_id": "664bb70938ff261216e094cc"
+  },
+  {
+    "id": "664de73fe57190d925cd508f",
+    "date_earned_epoch_ms": "1716381503326",
+    "user_id": "653a6847c43667c6704515e3",
+    "badge_id": "664bb75338ff261216e094d1"
+  },
+  {
+    "id": "664de73fe57190d925cd5090",
+    "date_earned_epoch_ms": "1716381503327",
+    "user_id": "653a6847c43667c6704515e3",
+    "badge_id": "664bb73738ff261216e094ce"
+  },
+  {
+    "id": "664de73fe57190d925cd5092",
+    "date_earned_epoch_ms": "1716381503330",
+    "user_id": "653a6847c43667c6704515e3",
+    "badge_id": "664bb74238ff261216e094cf"
+  },
+  {
+    "id": "664de73fe57190d925cd5093",
+    "date_earned_epoch_ms": "1716381503333",
+    "user_id": "653a6847c43667c6704515e3",
+    "badge_id": "664bb74938ff261216e094d0"
+  },
+  {
+    "id": "664dfcede57190d925cd509c",
+    "date_earned_epoch_ms": "1716387053071",
+    "user_id": "653a6847c43667c6704515e3",
+    "badge_id": "664ab6ec38ff261216e09381"
+  },
+  {
+    "id": "664dfcede57190d925cd509d",
+    "date_earned_epoch_ms": "1716387053079",
+    "user_id": "653a6847c43667c6704515e3",
+    "badge_id": "664ab6d838ff261216e0937f"
+  },
+  {
+    "id": "664dfcede57190d925cd509e",
+    "date_earned_epoch_ms": "1716387053084",
+    "user_id": "653a6847c43667c6704515e3",
+    "badge_id": "664ab6f538ff261216e09382"
+  },
+  {
+    "id": "664dfcede57190d925cd509f",
+    "date_earned_epoch_ms": "1716387053108",
+    "user_id": "653a6847c43667c6704515e3",
+    "badge_id": "664ab6e338ff261216e09380"
+  },
+  {
+    "id": "664e37ebe57190d925cd50b1",
+    "date_earned_epoch_ms": "1716402155763",
+    "user_id": "65d10fdf58133f56118d6348",
+    "badge_id": "664ab6ec38ff261216e09381"
+  },
+  {
+    "id": "664e37ebe57190d925cd50b0",
+    "date_earned_epoch_ms": "1716402155762",
+    "user_id": "65d10fdf58133f56118d6348",
+    "badge_id": "664ab6d838ff261216e0937f"
+  },
+  {
+    "id": "664e37ebe57190d925cd50b2",
+    "date_earned_epoch_ms": "1716402155770",
+    "user_id": "65d10fdf58133f56118d6348",
+    "badge_id": "664ab6e338ff261216e09380"
+  },
+  {
+    "id": "664e3a8ee57190d925cd50b8",
+    "date_earned_epoch_ms": "1716402830242",
+    "user_id": "65d10f9858133f56118d6347",
+    "badge_id": "664ab6e338ff261216e09380"
+  },
+  {
+    "id": "664e3a8ee57190d925cd50b9",
+    "date_earned_epoch_ms": "1716402830252",
+    "user_id": "65d10f9858133f56118d6347",
+    "badge_id": "664ab6d838ff261216e0937f"
+  },
+  {
+    "id": "664e73a1e57190d925cd50c3",
+    "date_earned_epoch_ms": "1716417441180",
+    "user_id": "65a737d01d7d5851d36a1163",
+    "badge_id": "664bb73738ff261216e094ce"
+  },
+  {
+    "id": "664e73a1e57190d925cd50c5",
+    "date_earned_epoch_ms": "1716417441180",
+    "user_id": "65a737d01d7d5851d36a1163",
+    "badge_id": "664bb75338ff261216e094d1"
+  },
+  {
+    "id": "664e73a1e57190d925cd50c6",
+    "date_earned_epoch_ms": "1716417441184",
+    "user_id": "65a737d01d7d5851d36a1163",
+    "badge_id": "664bb70938ff261216e094cc"
+  },
+  {
+    "id": "664e73a1e57190d925cd50c4",
+    "date_earned_epoch_ms": "1716417441180",
+    "user_id": "65a737d01d7d5851d36a1163",
+    "badge_id": "664bb74938ff261216e094d0"
+  },
+  {
+    "id": "664e73a1e57190d925cd50c7",
+    "date_earned_epoch_ms": "1716417441192",
+    "user_id": "65a737d01d7d5851d36a1163",
+    "badge_id": "664bb74238ff261216e094cf"
+  },
+  {
+    "id": "664e7900e57190d925cd50df",
+    "date_earned_epoch_ms": "1716418816290",
+    "user_id": "65db7a74a7b5f062c2d0e666",
+    "badge_id": "664ab6d838ff261216e0937f"
+  },
+  {
+    "id": "664e99a5e57190d925cd50e9",
+    "date_earned_epoch_ms": "1716427173088",
+    "user_id": "65a884bb1d7d5851d36a1194",
+    "badge_id": "664bb7f238ff261216e094d2"
+  },
+  {
+    "id": "664ea238e57190d925cd50ed",
+    "date_earned_epoch_ms": "1716429368526",
+    "user_id": "65a7d9b81d7d5851d36a1171",
+    "badge_id": "664bb73738ff261216e094ce"
+  },
+  {
+    "id": "664ea238e57190d925cd50f0",
+    "date_earned_epoch_ms": "1716429368533",
+    "user_id": "65a7d9b81d7d5851d36a1171",
+    "badge_id": "664bb74238ff261216e094cf"
+  },
+  {
+    "id": "664ea238e57190d925cd50ef",
+    "date_earned_epoch_ms": "1716429368530",
+    "user_id": "65a7d9b81d7d5851d36a1171",
+    "badge_id": "664bb74938ff261216e094d0"
+  },
+  {
+    "id": "664ea238e57190d925cd50ee",
+    "date_earned_epoch_ms": "1716429368530",
+    "user_id": "65a7d9b81d7d5851d36a1171",
+    "badge_id": "664bb70938ff261216e094cc"
+  },
+  {
+    "id": "664f4bfee57190d925cd5100",
+    "date_earned_epoch_ms": "1716472830553",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "badge_id": "664ab6e338ff261216e09380"
+  },
+  {
+    "id": "664f52c3e57190d925cd5106",
+    "date_earned_epoch_ms": "1716474563613",
+    "user_id": "65bd15057be476159f37d3f5",
+    "badge_id": "664bb73738ff261216e094ce"
+  },
+  {
+    "id": "664f52c3e57190d925cd5108",
+    "date_earned_epoch_ms": "1716474563614",
+    "user_id": "65bd15057be476159f37d3f5",
+    "badge_id": "664bb74938ff261216e094d0"
+  },
+  {
+    "id": "664f52c3e57190d925cd5107",
+    "date_earned_epoch_ms": "1716474563612",
+    "user_id": "65bd15057be476159f37d3f5",
+    "badge_id": "664bb74238ff261216e094cf"
+  },
+  {
+    "id": "664f52c3e57190d925cd5109",
+    "date_earned_epoch_ms": "1716474563616",
+    "user_id": "65bd15057be476159f37d3f5",
+    "badge_id": "664bb70938ff261216e094cc"
+  },
+  {
+    "id": "664f5d50e57190d925cd5117",
+    "date_earned_epoch_ms": "1716477264887",
+    "user_id": "65a8464a1d7d5851d36a118a",
+    "badge_id": "664bb73738ff261216e094ce"
+  },
+  {
+    "id": "664f5d50e57190d925cd5118",
+    "date_earned_epoch_ms": "1716477264887",
+    "user_id": "65a8464a1d7d5851d36a118a",
+    "badge_id": "664bb74238ff261216e094cf"
+  },
+  {
+    "id": "664f5d50e57190d925cd5116",
+    "date_earned_epoch_ms": "1716477264886",
+    "user_id": "65a8464a1d7d5851d36a118a",
+    "badge_id": "664bb70938ff261216e094cc"
+  },
+  {
+    "id": "664f6013e57190d925cd511e",
+    "date_earned_epoch_ms": "1716477971423",
+    "user_id": "65a886c71d7d5851d36a1195",
+    "badge_id": "664ab6ec38ff261216e09381"
+  },
+  {
+    "id": "664f6013e57190d925cd511f",
+    "date_earned_epoch_ms": "1716477971424",
+    "user_id": "65a886c71d7d5851d36a1195",
+    "badge_id": "664ab6e338ff261216e09380"
+  },
+  {
+    "id": "664f6013e57190d925cd5120",
+    "date_earned_epoch_ms": "1716477971427",
+    "user_id": "65a886c71d7d5851d36a1195",
+    "badge_id": "664ab6d838ff261216e0937f"
+  },
+  {
+    "id": "6650a6ff81767b714e7f3a4b",
+    "date_earned_epoch_ms": "1716561663081",
+    "user_id": "65a8464a1d7d5851d36a118a",
+    "badge_id": "664ab6d838ff261216e0937f"
+  },
+  {
+    "id": "6650a6ff81767b714e7f3a4c",
+    "date_earned_epoch_ms": "1716561663094",
+    "user_id": "65a8464a1d7d5851d36a118a",
+    "badge_id": "664ab6e338ff261216e09380"
+  },
+  {
+    "id": "6651230781767b714e7f3a62",
+    "date_earned_epoch_ms": "1716593415006",
+    "user_id": "653a6847c43667c6704515e3",
+    "badge_id": "664bb7f238ff261216e094d2"
+  },
+  {
+    "id": "6651230781767b714e7f3a63",
+    "date_earned_epoch_ms": "1716593415006",
+    "user_id": "653a6847c43667c6704515e3",
+    "badge_id": "664bb80438ff261216e094d3"
+  },
+  {
+    "id": "6651230781767b714e7f3a64",
+    "date_earned_epoch_ms": "1716593415007",
+    "user_id": "653a6847c43667c6704515e3",
+    "badge_id": "664bb80c38ff261216e094d4"
+  },
+  {
+    "id": "6651f6a681767b714e7f3a7b",
+    "date_earned_epoch_ms": "1716647590914",
+    "user_id": "65a741871d7d5851d36a1167",
+    "badge_id": "664bb70938ff261216e094cc"
+  },
+  {
+    "id": "6652081f81767b714e7f3a7f",
+    "date_earned_epoch_ms": "1716652063007",
+    "user_id": "65a884bb1d7d5851d36a1194",
+    "badge_id": "664bb70938ff261216e094cc"
+  },
+  {
+    "id": "6652081f81767b714e7f3a80",
+    "date_earned_epoch_ms": "1716652063017",
+    "user_id": "65a884bb1d7d5851d36a1194",
+    "badge_id": "664bb73738ff261216e094ce"
+  },
+  {
+    "id": "6652081f81767b714e7f3a81",
+    "date_earned_epoch_ms": "1716652063019",
+    "user_id": "65a884bb1d7d5851d36a1194",
+    "badge_id": "664bb74238ff261216e094cf"
+  },
+  {
+    "id": "6652456581767b714e7f3a99",
+    "date_earned_epoch_ms": "1716667749925",
+    "user_id": "653a6847c43667c6704515e3",
+    "badge_id": "664ab6fc38ff261216e09383"
+  },
+  {
+    "id": "66534f5781767b714e7f3ac0",
+    "date_earned_epoch_ms": "1716735831215",
+    "user_id": "65a9d88105a0c5d6b6f6b96a",
+    "badge_id": "664ab6e338ff261216e09380"
+  },
+  {
+    "id": "66534f5781767b714e7f3abf",
+    "date_earned_epoch_ms": "1716735831206",
+    "user_id": "65a9d88105a0c5d6b6f6b96a",
+    "badge_id": "664ab6d838ff261216e0937f"
+  },
+  {
+    "id": "6654135281767b714e7f3af2",
+    "date_earned_epoch_ms": "1716786002522",
+    "user_id": "65bd15057be476159f37d3f5",
+    "badge_id": "6642a0aed364527f492c499d"
+  },
+  {
+    "id": "6654135581767b714e7f3afa",
+    "date_earned_epoch_ms": "1716786005236",
+    "user_id": "65a741871d7d5851d36a1167",
+    "badge_id": "6642a0aed364527f492c499d"
+  },
+  {
+    "id": "6654135781767b714e7f3b02",
+    "date_earned_epoch_ms": "1716786007509",
+    "user_id": "65d10f9858133f56118d6347",
+    "badge_id": "6642a0aed364527f492c499d"
+  },
+  {
+    "id": "6654749381767b714e7f3c13",
+    "date_earned_epoch_ms": "1716810899299",
+    "user_id": "65a881291d7d5851d36a1193",
+    "badge_id": "664ab6d838ff261216e0937f"
+  },
+  {
+    "id": "6654749381767b714e7f3c14",
+    "date_earned_epoch_ms": "1716810899320",
+    "user_id": "65a881291d7d5851d36a1193",
+    "badge_id": "664ab6e338ff261216e09380"
+  },
+  {
+    "id": "6655c4bf254878f6857838d3",
+    "date_earned_epoch_ms": "1716896959754",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "badge_id": "664bb7f238ff261216e094d2"
+  },
+  {
+    "id": "6655c553254878f6857838d7",
+    "date_earned_epoch_ms": "1716897107506",
+    "user_id": "65a886c71d7d5851d36a1195",
+    "badge_id": "664ab6f538ff261216e09382"
+  },
+  {
+    "id": "6655c72c254878f6857838e1",
+    "date_earned_epoch_ms": "1716897580926",
+    "user_id": "653a6847c43667c6704515e3",
+    "badge_id": "664bb81538ff261216e094d5"
+  },
+  {
+    "id": "6655c72c254878f6857838e0",
+    "date_earned_epoch_ms": "1716897580923",
+    "user_id": "653a6847c43667c6704515e3",
+    "badge_id": "66429557c0eff6c74edb9cc7"
+  },
+  {
+    "id": "66571a20fbfa625ab24578b8",
+    "date_earned_epoch_ms": "1716984352531",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "badge_id": "664bb70938ff261216e094cc"
+  },
+  {
+    "id": "66571a20fbfa625ab24578ba",
+    "date_earned_epoch_ms": "1716984352535",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "badge_id": "664bb74938ff261216e094d0"
+  },
+  {
+    "id": "66571a20fbfa625ab24578bb",
+    "date_earned_epoch_ms": "1716984352538",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "badge_id": "664bb73738ff261216e094ce"
+  },
+  {
+    "id": "66571a20fbfa625ab24578b9",
+    "date_earned_epoch_ms": "1716984352533",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "badge_id": "664bb74238ff261216e094cf"
+  },
+  {
+    "id": "66571a20fbfa625ab24578be",
+    "date_earned_epoch_ms": "1716984352859",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "badge_id": "664bb75338ff261216e094d1"
+  },
+  {
+    "id": "66571a7ffbfa625ab24578c4",
+    "date_earned_epoch_ms": "1716984447612",
+    "user_id": "65a8464a1d7d5851d36a118a",
+    "badge_id": "664bb7f238ff261216e094d2"
+  },
+  {
+    "id": "6658733bfbfa625ab245790c",
+    "date_earned_epoch_ms": "1717072699281",
+    "user_id": "65db7a74a7b5f062c2d0e666",
+    "badge_id": "664ab6e338ff261216e09380"
+  },
+  {
+    "id": "6658a231fbfa625ab245791f",
+    "date_earned_epoch_ms": "1717084721188",
+    "user_id": "65a869031d7d5851d36a118d",
+    "badge_id": "664ab6d838ff261216e0937f"
+  },
+  {
+    "id": "665b28effbfa625ab24579f3",
+    "date_earned_epoch_ms": "1717250287890",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "badge_id": "664bb70938ff261216e094cc"
+  },
+  {
+    "id": "665b2ff8fbfa625ab24579f9",
+    "date_earned_epoch_ms": "1717252088842",
+    "user_id": "65a9d88105a0c5d6b6f6b96a",
+    "badge_id": "664ab6ec38ff261216e09381"
+  },
+  {
+    "id": "665c8685fbfa625ab2457a1b",
+    "date_earned_epoch_ms": "1717339781611",
+    "user_id": "65889d51f745765a16dbae76",
+    "badge_id": "664bb70938ff261216e094cc"
+  },
+  {
+    "id": "665c8685fbfa625ab2457a1c",
+    "date_earned_epoch_ms": "1717339781636",
+    "user_id": "65889d51f745765a16dbae76",
+    "badge_id": "664bb74238ff261216e094cf"
+  },
+  {
+    "id": "665c8685fbfa625ab2457a1d",
+    "date_earned_epoch_ms": "1717339781844",
+    "user_id": "65889d51f745765a16dbae76",
+    "badge_id": "664bb73738ff261216e094ce"
+  },
+  {
+    "id": "665cb816fbfa625ab2457a3c",
+    "date_earned_epoch_ms": "1717352470638",
+    "user_id": "65a869031d7d5851d36a118d",
+    "badge_id": "664bb70938ff261216e094cc"
+  },
+  {
+    "id": "665d4dd3fbfa625ab2457a5b",
+    "date_earned_epoch_ms": "1717390803729",
+    "user_id": "6637bd93bf3880c0fbcd92b9",
+    "badge_id": "6642a0aed364527f492c499d"
+  },
+  {
+    "id": "666065c1a150ed73fcea608f",
+    "date_earned_epoch_ms": "1717593537010",
+    "user_id": "65a741871d7d5851d36a1167",
+    "badge_id": "664ab6e338ff261216e09380"
+  },
+  {
+    "id": "666065c1a150ed73fcea6090",
+    "date_earned_epoch_ms": "1717593537033",
+    "user_id": "65a741871d7d5851d36a1167",
+    "badge_id": "664ab6d838ff261216e0937f"
+  },
+  {
+    "id": "66609a54a150ed73fcea609e",
+    "date_earned_epoch_ms": "1717606996394",
+    "user_id": "653c5a31aaea15c4a05afe52",
+    "badge_id": "664ab6d838ff261216e0937f"
+  },
+  {
+    "id": "666352f0471d634ae307f985",
+    "date_earned_epoch_ms": "1717785328715",
+    "user_id": "65d10fdf58133f56118d6348",
+    "badge_id": "664ab6f538ff261216e09382"
+  },
+  {
+    "id": "66646f608ae372987c4ab9da",
+    "date_earned_epoch_ms": "1717858144290",
+    "user_id": "65a884bb1d7d5851d36a1194",
+    "badge_id": "664bb74938ff261216e094d0"
+  }
+]

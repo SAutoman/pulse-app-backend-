@@ -1,0 +1,35 @@
+[
+  {
+    "id": "663c25ecb31f0753de1e56a9",
+    "name": "Surprise T-Mate Gift",
+    "description": "Unlock the mystery! Each time you reach a new milestone, you stand a chance to receive an exclusive Surprise T-Mate Gift. This reward is designed to keep you motivated and excited, offering a special surprise to recognize your hard work. Keep pushing your limits and let T-Mate reward your effort in unexpected ways!",
+    "points_cost": 80000,
+    "quantity": 10,
+    "is_active": true,
+    "available_from": "2023-01-01",
+    "available_until": "2023-12-31",
+    "image_url": "https://images.pexels.com/photos/6690691/pexels-photo-6690691.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "max_redemptions_per_user": 2,
+    "is_public": true,
+    "categories": [
+      "DISCOUNT",
+      "FREE_ITEM"
+    ],
+    "badge_requirements": []
+  },
+  {
+    "id": "6642470119412f75014fcd28",
+    "name": "DUROS Gift",
+    "description": "Achieve greatness and earn the DUROS Gift! With every workout, you accumulate points that bring you closer to this reward. The DUROS Gift is a special treat for dedicated people, featuring a surprise to celebrate your commitment. Stay motivated, keep earning points!",
+    "points_cost": 70000,
+    "quantity": 10,
+    "is_active": true,
+    "available_from": "2024-01-01",
+    "available_until": "2024-12-31",
+    "image_url": "https://images.pexels.com/photos/6690691/pexels-photo-6690691.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "max_redemptions_per_user": 10,
+    "is_public": false,
+    "categories": [],
+    "badge_requirements": []
+  }
+]

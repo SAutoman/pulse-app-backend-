@@ -1,0 +1,38 @@
+[
+  {
+    "id": "662469c8abcc30dd58830c06",
+    "name": "Duros Team",
+    "image_url": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/673398/15249280/3/large.jpg",
+    "banner_url": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/673398/15249378/19/large.jpg",
+    "is_private": false,
+    "is_corporate": false,
+    "sport_type_id": "6625bdbfba5a2e6c4f223745"
+  },
+  {
+    "id": "662469ecabcc30dd58830c07",
+    "name": "FP&A Diageo",
+    "image_url": "https://www.amcham.hu/sites/default/files/styles/max_325x325/public/2021-02/Diageo%20logo%20Red.png",
+    "banner_url": "https://platform-ps-files.s3.us-east-2.amazonaws.com/images/origin/Passion_Spirits_DIAGEO_Banner_Desktop_bf51ccedf5.jpg",
+    "is_private": true,
+    "is_corporate": true,
+    "sport_type_id": "6625bdbfba5a2e6c4f223745"
+  },
+  {
+    "id": "662713a6bf3880c0fbcd9101",
+    "name": "10.000 AC Crossfit",
+    "image_url": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "banner_url": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "is_private": false,
+    "is_corporate": false,
+    "sport_type_id": "6625cf42cc02e95521774a3e"
+  },
+  {
+    "id": "662861debf3880c0fbcd9132",
+    "name": "Viernes de Monserrate",
+    "image_url": "https://i0.wp.com/www.freetworoam.com/wp-content/uploads/2019/10/IMG_2812.jpg?resize=1024%2C768&ssl=1",
+    "banner_url": "https://radionacional-v3.s3.amazonaws.com/s3fs-public/styles/portadas_relaciona_4_3/public/node/article/field_image/MONSERRATE.jpg?h=efd05f9e&itok=uaolkzqm",
+    "is_private": false,
+    "is_corporate": false,
+    "sport_type_id": "6625cf5fcc02e95521774a41"
+  }
+]

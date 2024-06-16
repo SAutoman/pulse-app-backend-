@@ -1,0 +1,371 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mongodb"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id                          String              @id @default(auto()) @map("_id") @db.ObjectId
+  created_at                  String
+  latest_login                DateTime?
+  is_active                   Boolean             @default(true)
+  first_name                  String
+  last_name                   String
+  email                       String
+  password                    String
+  strava_connected            Boolean             @default(false)
+  is_device_health_connected  Boolean             @default(false)
+  strava_access_token         String?
+  strava_refresh_token        String?
+  strava_access_expires_at    Int?
+  strava_user_id              Int?
+  garmin_connected            Boolean             @default(false)
+  garmin_access_token         String?
+  garmin_refresh_token        String?
+  garmin_access_expires_at    Int?
+  garmin_user_id              Int?
+  weekly_scores               Json?
+  current_week_score          Int                 @default(0)
+  country                     String
+  timezone                    String
+  coins                       Int                 @default(0)
+  image_url                   String?
+  preferred_sport             String              @default("Triathlete")
+  fcm_token                   String?
+  email_notifications_allowed Boolean             @default(true)
+  push_notifications_allowed  Boolean             @default(false)
+  has_private_activities      Boolean             @default(false)
+  activities                  Activity[]
+  user_notifications          UserNotifications[]
+  mission_attempts            MissionAttempt[]
+  user_clubs                  UserClub[]
+  app_version                 String?
+  device                      String?
+  is_corporate                Boolean             @default(false)
+  corp_area                   String?
+  corp_sub_area               String?
+  sport_type                  SportType?          @relation(fields: [sport_type_id], references: [id])
+  sport_type_id               String?             @db.ObjectId
+  current_league              RankingLeague?      @relation(fields: [league_id], references: [id])
+  league_id                   String?             @db.ObjectId
+  user_rewards                UserReward[]
+  user_badges                 UserBadge[]
+  coin_transactions           CoinTransaction[]
+  reset_token                 String?
+  reset_token_expires         DateTime?
+  app_events                  AppEvent[]
+
+  @@map("users")
+}
+
+model Activity {
+  id                       String            @id @default(auto()) @map("_id") @db.ObjectId
+  created_at               String
+  created_at_user_timezone String
+  strava_id                String
+  name                     String
+  distance                 Float
+  moving_time              Float
+  elapsed_time             Float
+  total_elevation_gain     Float
+  type                     String
+  sport_type               String
+  start_date               String
+  start_date_local         String
+  start_date_user_timezone String
+  timezone                 String
+  utc_offset               Float
+  location_city            String?
+  location_state           String?
+  location_country         String?
+  workout_type             String?
+  achievement_count        Int
+  kudos_count              Int
+  comment_count            Int
+  athlete_count            Int
+  photo_count              Int
+  visibility               String
+  manual                   Boolean
+  is_private               Boolean
+  has_heartrate            Boolean
+  average_heartrate        Float?
+  max_heartrate            Float?
+  calories                 Int?
+  map                      Json?
+  average_speed            Float?
+  max_speed                Float?
+  average_cadence          Float?
+  average_temp             Float?
+  average_watts            Float?
+  weighted_average_watts   Float?
+  kilojoules               Float?
+  device_watts             Boolean?
+  elev_high                Float?
+  elev_low                 Float?
+  device_name              String?
+  start_latlng             Float[]
+  end_latlng               Float[]
+  is_valid                 Boolean           @default(true)
+  invalid_messsage         String?
+  week_user_timezone       Int
+  year_user_timezone       Int
+  calculated_met           Float             @default(0)
+  calculated_points        Int               @default(0)
+  created_at_epoch_ms      String
+  start_date_epoch_ms      String
+  end_date_epoch_ms        String
+  userId                   String            @db.ObjectId
+  user                     User              @relation(fields: [userId], references: [id])
+  mission_progress         MissionProgress[]
+
+  @@map("activities")
+}
+
+model UserNotifications {
+  id                       String  @id @default(auto()) @map("_id") @db.ObjectId
+  created_at               String
+  created_at_user_timezone String
+  importance               Int //1: Very Important, 2: Info, 3: Non-Important
+  type                     String //NEW_ACTIVITY, INVALID_ACTIVITY, UPGRADE_LEAGE, UPGRADE_CATEGORY,DOWNGRADE_LEAGUE, DOWNGRADE_CATEGORY
+  title                    String
+  message                  String
+  isRead                   Boolean @default(false)
+  userId                   String  @db.ObjectId
+  user                     User    @relation(fields: [userId], references: [id])
+
+  @@map("userNotifications")
+}
+
+model Mission {
+  id                String           @id @default(auto()) @map("_id") @db.ObjectId
+  created_at        String
+  name              String
+  description       String
+  goal_type         String // "DISTANCE", "FREQUENCY", "DURATION"
+  goal_value        Float
+  measure_unit      String // "KM", "TIMES", "MINUTES"
+  is_active         Boolean
+  initial_day       String //Format YYYY-MM-DD
+  end_day           String //Format YYYY-MM-DD
+  sport_type        String
+  image_url         String
+  is_public         Boolean
+  missions_attempts MissionAttempt[]
+  mission_clubs     MissionClub[]
+
+  @@map("missions")
+}
+
+model MissionAttempt {
+  id                       String            @id @default(auto()) @map("_id") @db.ObjectId
+  start_date               DateTime
+  end_date                 DateTime
+  start_date_user_timezone String
+  end_date_user_timezone   String
+  progress                 Float             @default(0)
+  status                   String // "ACTIVE", "ACHIEVED", "NOT_ACHIEVED"
+  timezone                 String
+  user_id                  String            @db.ObjectId
+  user                     User              @relation(fields: [user_id], references: [id])
+  mission_id               String            @db.ObjectId
+  mission                  Mission           @relation(fields: [mission_id], references: [id])
+  mission_progress         MissionProgress[]
+
+  @@map("missionAttempt")
+}
+
+model MissionProgress {
+  id                 String         @id @default(auto()) @map("_id") @db.ObjectId
+  progress_made      Float
+  created_at         String
+  mission_attempt_id String         @db.ObjectId
+  mission_attempt    MissionAttempt @relation(fields: [mission_attempt_id], references: [id])
+  activity_id        String         @db.ObjectId
+  activity           Activity       @relation(fields: [activity_id], references: [id])
+
+  @@map("missionProgress")
+}
+
+model Club {
+  id            String        @id @default(auto()) @map("_id") @db.ObjectId
+  name          String
+  image_url     String
+  banner_url    String
+  is_private    Boolean       @default(false)
+  is_corporate  Boolean       @default(false)
+  user_clubs    UserClub[]
+  mission_clubs MissionClub[]
+  sport_type    SportType     @relation(fields: [sport_type_id], references: [id])
+  sport_type_id String        @db.ObjectId
+  reward_clubs  RewardClub[]
+
+  @@map("clubs")
+}
+
+model UserClub {
+  id         String @id @default(auto()) @map("_id") @db.ObjectId
+  created_at String
+  user_id    String @db.ObjectId
+  user       User   @relation(fields: [user_id], references: [id])
+  club_id    String @db.ObjectId
+  club       Club   @relation(fields: [club_id], references: [id])
+
+  @@map("userClubs")
+}
+
+model MissionClub {
+  id         String  @id @default(auto()) @map("_id") @db.ObjectId
+  created_at String
+  club_id    String  @db.ObjectId
+  club       Club    @relation(fields: [club_id], references: [id])
+  mission_id String  @db.ObjectId
+  mission    Mission @relation(fields: [mission_id], references: [id])
+
+  @@map("missionClubs")
+}
+
+model SportType {
+  id          String  @id @default(auto()) @map("_id") @db.ObjectId
+  created_at  String
+  name        String
+  description String?
+  users       User[]
+  club        Club[]
+
+  @@map("sportTypes")
+}
+
+model RankingCategory {
+  id      String          @id @default(auto()) @map("_id") @db.ObjectId
+  name    String
+  leagues RankingLeague[]
+  order   Int
+
+  @@map("rankingCategories")
+}
+
+model RankingLeague {
+  id          String          @id @default(auto()) @map("_id") @db.ObjectId
+  level       Int
+  category_id String          @db.ObjectId
+  category    RankingCategory @relation(fields: [category_id], references: [id])
+  user        User[]
+
+  @@map("rankingLeagues")
+}
+
+model Reward {
+  id                       String       @id @default(auto()) @map("_id") @db.ObjectId
+  name                     String
+  description              String
+  points_cost              Int // The cost in points to redeem the reward
+  quantity                 Int // Number of available units of this reward
+  is_active                Boolean      @default(true) // Whether the reward is currently available for redemption
+  available_from           String
+  available_until          String
+  image_url                String
+  max_redemptions_per_user Int?
+  is_public                Boolean      @default(true)
+  categories               String[]
+  redeemed_by              UserReward[] // Relation to track users who have redeemed this reward
+  badge_requirements       String[]
+  reward_clubs             RewardClub[]
+
+  @@map("rewards")
+}
+
+model UserReward {
+  id          String @id @default(auto()) @map("_id") @db.ObjectId
+  user_id     String @db.ObjectId
+  reward_id   String @db.ObjectId
+  redeemed_at String
+  user        User   @relation(fields: [user_id], references: [id])
+  reward      Reward @relation(fields: [reward_id], references: [id])
+
+  @@map("userRewards")
+}
+
+model Badge {
+  id                  String      @id @default(auto()) @map("_id") @db.ObjectId
+  name                String
+  description         String
+  image_url           String?
+  criteria            Json // Storing conditions for earning the badge as JSON
+  type                String // Type of the badge (achievement, milestone, etc.)
+  level               Int? // Optional level or tier of the badge
+  expires_at          String? // Optional expiration date for the badge
+  visibility          String // Visibility settings (public, private, earned)
+  points_value        Int?        @default(0) // Points associated with earning the badge
+  tags                String[] // Tags for additional categorization
+  created_at_epoch_ms String
+  updated_at_epoch_ms String
+  available_from      String // Format YYYY-MM-DD
+  available_until     String // Format YYYY-MM-DD
+  prerequisites       String[] // List of badge IDs that are prerequisites
+  sport_types         String[] //List of sports for this badge ['Swim','Hike',...]
+  user_badges         UserBadge[]
+
+  @@map("badges")
+}
+
+model UserBadge {
+  id                   String @id @default(auto()) @map("_id") @db.ObjectId
+  date_earned_epoch_ms String
+
+  user     User   @relation(fields: [user_id], references: [id])
+  badge    Badge  @relation(fields: [badge_id], references: [id])
+  user_id  String @db.ObjectId
+  badge_id String @db.ObjectId
+
+  @@map("userBadges")
+}
+
+model CoinTransaction {
+  id                  String @id @default(auto()) @map("_id") @db.ObjectId
+  user_id             String @db.ObjectId
+  amount              Int // Positive for additions, negative for subtractions
+  type                String //WEEKLY_POINTS, REWARD_REDEMPTION, MISSION_ACHIVED
+  description         String //Any details regarding the transaction
+  created_at_epoch_ms String
+
+  user User @relation(fields: [user_id], references: [id])
+
+  @@map("coin_transactions")
+}
+
+model RewardClub {
+  id     String @id @default(auto()) @map("_id") @db.ObjectId
+  reward Reward @relation(fields: [reward_id], references: [id])
+  club   Club   @relation(fields: [club_id], references: [id])
+
+  reward_id String @db.ObjectId
+  club_id   String @db.ObjectId
+
+  @@map("reward_clubs")
+}
+
+model AppSettings {
+  id              String   @id @default(auto()) @map("_id") @db.ObjectId
+  key             String   @unique
+  value           String
+  last_updated_at DateTime @default(now())
+
+  @@map("app_settings")
+}
+
+model AppEvent {
+  id        String   @id @default(auto()) @map("_id") @db.ObjectId
+  user_id   String   @db.ObjectId
+  user      User     @relation(fields: [user_id], references: [id])
+  type      String // Event type, e.g., "LOGIN", "LOGOUT", "PASSWORD_RESET"
+  timestamp DateTime @default(now())
+  metadata  Json?
+
+  @@map("app_events") // Optional field to store any additional event-specific data
+}

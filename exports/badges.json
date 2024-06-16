@@ -1,0 +1,643 @@
+[
+  {
+    "id": "66429557c0eff6c74edb9cc7",
+    "name": "100k Swim",
+    "description": "100k Swim.",
+    "image_url": "https://cdn-icons-png.flaticon.com/128/744/744922.png",
+    "criteria": {
+      "minMetersDistance": 100000
+    },
+    "type": "DISTANCE",
+    "level": 1,
+    "expires_at": null,
+    "visibility": "PUBLIC",
+    "points_value": 100,
+    "tags": [
+      "Swim",
+      "masters",
+      "triatlhon"
+    ],
+    "created_at_epoch_ms": "1715639639193",
+    "updated_at_epoch_ms": "1715639639193",
+    "available_from": "2020-01-01",
+    "available_until": "2024-12-31",
+    "prerequisites": [],
+    "sport_types": [
+      "Swim"
+    ]
+  },
+  {
+    "id": "66429a2b08037295306638ff",
+    "name": "100 Hours Swim",
+    "description": "100 Hours Swim.",
+    "image_url": "https://cdn-icons-png.flaticon.com/128/744/744922.png",
+    "criteria": {
+      "minMinutes": 6000
+    },
+    "type": "TIME",
+    "level": 1,
+    "expires_at": null,
+    "visibility": "PUBLIC",
+    "points_value": 100,
+    "tags": [
+      "Swim",
+      "masters",
+      "triatlhon"
+    ],
+    "created_at_epoch_ms": "1715640875360",
+    "updated_at_epoch_ms": "1715640875360",
+    "available_from": "2024-01-01",
+    "available_until": "2024-12-31",
+    "prerequisites": [],
+    "sport_types": [
+      "Swim"
+    ]
+  },
+  {
+    "id": "6642a0aed364527f492c499d",
+    "name": "LEGEND League #1",
+    "description": "Achieve the LEGEND League #1",
+    "image_url": "https://cdn-icons-png.flaticon.com/128/744/744922.png",
+    "criteria": {
+      "rankingLeagueId": "663be72a2bf659f3caf8f9cb"
+    },
+    "type": "RANKING",
+    "level": 1,
+    "expires_at": null,
+    "visibility": "PUBLIC",
+    "points_value": 100,
+    "tags": [
+      "Swim",
+      "masters",
+      "triatlhon"
+    ],
+    "created_at_epoch_ms": "1715642542897",
+    "updated_at_epoch_ms": "1715642542897",
+    "available_from": "2000-01-01",
+    "available_until": "2999-12-31",
+    "prerequisites": [],
+    "sport_types": [
+      "All"
+    ]
+  },
+  {
+    "id": "6642a6356648c9fd6609752d",
+    "name": "100 Hours Swim",
+    "description": "100 Hours Swim.",
+    "image_url": "https://cdn-icons-png.flaticon.com/128/744/744922.png",
+    "criteria": {
+      "missionId": "65de88cf556bf2719602dfdb"
+    },
+    "type": "MISSION",
+    "level": 1,
+    "expires_at": null,
+    "visibility": "PUBLIC",
+    "points_value": 100,
+    "tags": [
+      "Swim",
+      "masters",
+      "triatlhon"
+    ],
+    "created_at_epoch_ms": "1715643957515",
+    "updated_at_epoch_ms": "1715643957515",
+    "available_from": "2000-01-01",
+    "available_until": "2999-12-31",
+    "prerequisites": [],
+    "sport_types": [
+      "All"
+    ]
+  },
+  {
+    "id": "6642aad71033e9cefb14f5e1",
+    "name": "5 Times per Week during 4 weeks",
+    "description": "100 Hours Swim.",
+    "image_url": "https://cdn-icons-png.flaticon.com/128/744/744922.png",
+    "criteria": {
+      "numberOfWeeks": 8,
+      "minActivities": 5
+    },
+    "type": "DISCIPLINE",
+    "level": 1,
+    "expires_at": null,
+    "visibility": "PUBLIC",
+    "points_value": 100,
+    "tags": [
+      "Swim",
+      "masters",
+      "triatlhon"
+    ],
+    "created_at_epoch_ms": "1715645143403",
+    "updated_at_epoch_ms": "1715645143403",
+    "available_from": "2000-01-01",
+    "available_until": "2999-12-31",
+    "prerequisites": [],
+    "sport_types": [
+      "All"
+    ]
+  },
+  {
+    "id": "664ab6d838ff261216e0937f",
+    "name": "Run 100 Kilometers in Total",
+    "description": "Run a total of 100 kilometers. There is no time limit to achieve this distance.",
+    "image_url": "https://tmateapp.com/wp-content/uploads/2024/05/RUN100ALLTIME.png",
+    "criteria": {
+      "minMetersDistance": 100000
+    },
+    "type": "DISTANCE",
+    "level": 1,
+    "expires_at": null,
+    "visibility": "PUBLIC",
+    "points_value": 100,
+    "tags": [
+      "Run"
+    ],
+    "created_at_epoch_ms": "1716172504379",
+    "updated_at_epoch_ms": "1716172504379",
+    "available_from": "2020-01-01",
+    "available_until": "2999-12-31",
+    "prerequisites": [],
+    "sport_types": [
+      "Run"
+    ]
+  },
+  {
+    "id": "664ab6e338ff261216e09380",
+    "name": "Run 200 Kilometers in Total",
+    "description": "Run a total of 200 kilometers. There is no time limit to achieve this distance.",
+    "image_url": "https://tmateapp.com/wp-content/uploads/2024/05/RUN200ALLTIME.png",
+    "criteria": {
+      "minMetersDistance": 200000
+    },
+    "type": "DISTANCE",
+    "level": 2,
+    "expires_at": null,
+    "visibility": "PUBLIC",
+    "points_value": 200,
+    "tags": [
+      "Run"
+    ],
+    "created_at_epoch_ms": "1716172515354",
+    "updated_at_epoch_ms": "1716172515354",
+    "available_from": "2020-01-01",
+    "available_until": "2999-12-31",
+    "prerequisites": [],
+    "sport_types": [
+      "Run"
+    ]
+  },
+  {
+    "id": "664ab6ec38ff261216e09381",
+    "name": "Run 300 Kilometers in Total",
+    "description": "Run a total of 300 kilometers. There is no time limit to achieve this distance.",
+    "image_url": "https://tmateapp.com/wp-content/uploads/2024/05/RUN300ALLTIME.png",
+    "criteria": {
+      "minMetersDistance": 300000
+    },
+    "type": "DISTANCE",
+    "level": 3,
+    "expires_at": null,
+    "visibility": "PUBLIC",
+    "points_value": 300,
+    "tags": [
+      "Run"
+    ],
+    "created_at_epoch_ms": "1716172524565",
+    "updated_at_epoch_ms": "1716172524565",
+    "available_from": "2020-01-01",
+    "available_until": "2999-12-31",
+    "prerequisites": [],
+    "sport_types": [
+      "Run"
+    ]
+  },
+  {
+    "id": "664ab6f538ff261216e09382",
+    "name": "Run 400 Kilometers in Total",
+    "description": "Run a total of 400 kilometers. There is no time limit to achieve this distance.",
+    "image_url": "https://tmateapp.com/wp-content/uploads/2024/05/RUN400ALLTIME.png",
+    "criteria": {
+      "minMetersDistance": 400000
+    },
+    "type": "DISTANCE",
+    "level": 4,
+    "expires_at": null,
+    "visibility": "PUBLIC",
+    "points_value": 400,
+    "tags": [
+      "Run"
+    ],
+    "created_at_epoch_ms": "1716172533396",
+    "updated_at_epoch_ms": "1716172533396",
+    "available_from": "2020-01-01",
+    "available_until": "2999-12-31",
+    "prerequisites": [],
+    "sport_types": [
+      "Run"
+    ]
+  },
+  {
+    "id": "664ab6fc38ff261216e09383",
+    "name": "Run 500 Kilometers in Total",
+    "description": "Run a total of 500 kilometers. There is no time limit to achieve this distance.",
+    "image_url": "https://tmateapp.com/wp-content/uploads/2024/05/RUN500ALLTIME.png",
+    "criteria": {
+      "minMetersDistance": 500000
+    },
+    "type": "DISTANCE",
+    "level": 5,
+    "expires_at": null,
+    "visibility": "PUBLIC",
+    "points_value": 500,
+    "tags": [
+      "Run"
+    ],
+    "created_at_epoch_ms": "1716172540303",
+    "updated_at_epoch_ms": "1716172540303",
+    "available_from": "2020-01-01",
+    "available_until": "2999-12-31",
+    "prerequisites": [],
+    "sport_types": [
+      "Run"
+    ]
+  },
+  {
+    "id": "664bb70938ff261216e094cc",
+    "name": "Ride 500 Kilometers in Total",
+    "description": "Ride a total of 500 kilometers. There is no time limit to achieve this distance.",
+    "image_url": "https://tmateapp.com/wp-content/uploads/2024/05/BIKE500ALLTIME.png",
+    "criteria": {
+      "minMetersDistance": 500000
+    },
+    "type": "DISTANCE",
+    "level": 1,
+    "expires_at": null,
+    "visibility": "PUBLIC",
+    "points_value": 500,
+    "tags": [
+      "Ride"
+    ],
+    "created_at_epoch_ms": "1716238089000",
+    "updated_at_epoch_ms": "1716238089000",
+    "available_from": "2020-01-01",
+    "available_until": "2999-12-31",
+    "prerequisites": [],
+    "sport_types": [
+      "Ride",
+      "VirtualRide"
+    ]
+  },
+  {
+    "id": "664bb73738ff261216e094ce",
+    "name": "Ride 800 Kilometers in Total",
+    "description": "Ride a total of 800 kilometers. There is no time limit to achieve this distance.",
+    "image_url": "https://tmateapp.com/wp-content/uploads/2024/05/BIKE800ALLTIME.png",
+    "criteria": {
+      "minMetersDistance": 800000
+    },
+    "type": "DISTANCE",
+    "level": 2,
+    "expires_at": null,
+    "visibility": "PUBLIC",
+    "points_value": 800,
+    "tags": [
+      "Ride"
+    ],
+    "created_at_epoch_ms": "1716238135794",
+    "updated_at_epoch_ms": "1716238135794",
+    "available_from": "2020-01-01",
+    "available_until": "2999-12-31",
+    "prerequisites": [],
+    "sport_types": [
+      "Ride",
+      "VirtualRide"
+    ]
+  },
+  {
+    "id": "664bb74238ff261216e094cf",
+    "name": "Ride 1000 Kilometers in Total",
+    "description": "Ride a total of 1000 kilometers. There is no time limit to achieve this distance.",
+    "image_url": "https://tmateapp.com/wp-content/uploads/2024/05/BIKE1000ALLTIME.png",
+    "criteria": {
+      "minMetersDistance": 1000000
+    },
+    "type": "DISTANCE",
+    "level": 3,
+    "expires_at": null,
+    "visibility": "PUBLIC",
+    "points_value": 1000,
+    "tags": [
+      "Ride"
+    ],
+    "created_at_epoch_ms": "1716238146370",
+    "updated_at_epoch_ms": "1716238146370",
+    "available_from": "2020-01-01",
+    "available_until": "2999-12-31",
+    "prerequisites": [],
+    "sport_types": [
+      "Ride",
+      "VirtualRide"
+    ]
+  },
+  {
+    "id": "664bb74938ff261216e094d0",
+    "name": "Ride 1500 Kilometers in Total",
+    "description": "Ride a total of 1500 kilometers. There is no time limit to achieve this distance.",
+    "image_url": "https://tmateapp.com/wp-content/uploads/2024/05/BIKE1500ALLTIME.png",
+    "criteria": {
+      "minMetersDistance": 1500000
+    },
+    "type": "DISTANCE",
+    "level": 4,
+    "expires_at": null,
+    "visibility": "PUBLIC",
+    "points_value": 1500,
+    "tags": [
+      "Ride"
+    ],
+    "created_at_epoch_ms": "1716238153920",
+    "updated_at_epoch_ms": "1716238153920",
+    "available_from": "2020-01-01",
+    "available_until": "2999-12-31",
+    "prerequisites": [],
+    "sport_types": [
+      "Ride",
+      "VirtualRide"
+    ]
+  },
+  {
+    "id": "664bb75338ff261216e094d1",
+    "name": "Ride 2000 Kilometers in Total",
+    "description": "Ride a total of 2000 kilometers. There is no time limit to achieve this distance.",
+    "image_url": "https://tmateapp.com/wp-content/uploads/2024/05/BIKE2000ALLTIME.png",
+    "criteria": {
+      "minMetersDistance": 2000000
+    },
+    "type": "DISTANCE",
+    "level": 5,
+    "expires_at": null,
+    "visibility": "PUBLIC",
+    "points_value": 2000,
+    "tags": [
+      "Ride"
+    ],
+    "created_at_epoch_ms": "1716238163464",
+    "updated_at_epoch_ms": "1716238163464",
+    "available_from": "2020-01-01",
+    "available_until": "2999-12-31",
+    "prerequisites": [],
+    "sport_types": [
+      "Ride",
+      "VirtualRide"
+    ]
+  },
+  {
+    "id": "664bb7f238ff261216e094d2",
+    "name": "Swim 20 Kilometers in Total",
+    "description": "Swim a total of 20 kilometers. There is no time limit to achieve this distance.",
+    "image_url": "https://tmateapp.com/wp-content/uploads/2024/05/SWIM20ALLTIME.png",
+    "criteria": {
+      "minMetersDistance": 20000
+    },
+    "type": "DISTANCE",
+    "level": 1,
+    "expires_at": null,
+    "visibility": "PUBLIC",
+    "points_value": 200,
+    "tags": [
+      "Swim"
+    ],
+    "created_at_epoch_ms": "1716238322462",
+    "updated_at_epoch_ms": "1716238322462",
+    "available_from": "2020-01-01",
+    "available_until": "2999-12-31",
+    "prerequisites": [],
+    "sport_types": [
+      "Swim"
+    ]
+  },
+  {
+    "id": "664bb80438ff261216e094d3",
+    "name": "Swim 50 Kilometers in Total",
+    "description": "Swim a total of 50 kilometers. There is no time limit to achieve this distance.",
+    "image_url": "https://tmateapp.com/wp-content/uploads/2024/05/SWIM50ALLTIME.png",
+    "criteria": {
+      "minMetersDistance": 50000
+    },
+    "type": "DISTANCE",
+    "level": 2,
+    "expires_at": null,
+    "visibility": "PUBLIC",
+    "points_value": 500,
+    "tags": [
+      "Swim"
+    ],
+    "created_at_epoch_ms": "1716238340624",
+    "updated_at_epoch_ms": "1716238340624",
+    "available_from": "2020-01-01",
+    "available_until": "2999-12-31",
+    "prerequisites": [],
+    "sport_types": [
+      "Swim"
+    ]
+  },
+  {
+    "id": "664bb80c38ff261216e094d4",
+    "name": "Swim 80 Kilometers in Total",
+    "description": "Swim a total of 80 kilometers. There is no time limit to achieve this distance.",
+    "image_url": "https://tmateapp.com/wp-content/uploads/2024/05/SWIM80ALLTIME.png",
+    "criteria": {
+      "minMetersDistance": 80000
+    },
+    "type": "DISTANCE",
+    "level": 3,
+    "expires_at": null,
+    "visibility": "PUBLIC",
+    "points_value": 800,
+    "tags": [
+      "Swim"
+    ],
+    "created_at_epoch_ms": "1716238348346",
+    "updated_at_epoch_ms": "1716238348346",
+    "available_from": "2020-01-01",
+    "available_until": "2999-12-31",
+    "prerequisites": [],
+    "sport_types": [
+      "Swim"
+    ]
+  },
+  {
+    "id": "664bb81538ff261216e094d5",
+    "name": "Swim 100 Kilometers in Total",
+    "description": "Swim a total of 100 kilometers. There is no time limit to achieve this distance.",
+    "image_url": "https://tmateapp.com/wp-content/uploads/2024/05/SWIM100ALLTIME.png",
+    "criteria": {
+      "minMetersDistance": 100000
+    },
+    "type": "DISTANCE",
+    "level": 4,
+    "expires_at": null,
+    "visibility": "PUBLIC",
+    "points_value": 1000,
+    "tags": [
+      "Swim"
+    ],
+    "created_at_epoch_ms": "1716238357428",
+    "updated_at_epoch_ms": "1716238357428",
+    "available_from": "2020-01-01",
+    "available_until": "2999-12-31",
+    "prerequisites": [],
+    "sport_types": [
+      "Swim"
+    ]
+  },
+  {
+    "id": "664bb81d38ff261216e094d6",
+    "name": "Swim 150 Kilometers in Total",
+    "description": "Swim a total of 150 kilometers. There is no time limit to achieve this distance.",
+    "image_url": "https://tmateapp.com/wp-content/uploads/2024/05/SWIM150ALLTIME.png",
+    "criteria": {
+      "minMetersDistance": 150000
+    },
+    "type": "DISTANCE",
+    "level": 5,
+    "expires_at": null,
+    "visibility": "PUBLIC",
+    "points_value": 1500,
+    "tags": [
+      "Swim"
+    ],
+    "created_at_epoch_ms": "1716238365010",
+    "updated_at_epoch_ms": "1716238365010",
+    "available_from": "2020-01-01",
+    "available_until": "2999-12-31",
+    "prerequisites": [],
+    "sport_types": [
+      "Swim"
+    ]
+  },
+  {
+    "id": "664bb90238ff261216e094d7",
+    "name": "Workout 80 Hours in Total",
+    "description": "Accumulate a total of 80 hours of workout. There is no time limit to achieve this duration.",
+    "image_url": "https://tmateapp.com/wp-content/uploads/2024/05/WORKOUT80ALLTIME.png",
+    "criteria": {
+      "minMinutes": 4800
+    },
+    "type": "TIME",
+    "level": 1,
+    "expires_at": null,
+    "visibility": "PUBLIC",
+    "points_value": 800,
+    "tags": [
+      "Workout"
+    ],
+    "created_at_epoch_ms": "1716238594726",
+    "updated_at_epoch_ms": "1716238594726",
+    "available_from": "2020-01-01",
+    "available_until": "2999-12-31",
+    "prerequisites": [],
+    "sport_types": [
+      "Workout"
+    ]
+  },
+  {
+    "id": "664bb90838ff261216e094d8",
+    "name": "Workout 100 Hours in Total",
+    "description": "Accumulate a total of 100 hours of workout. There is no time limit to achieve this duration.",
+    "image_url": "https://tmateapp.com/wp-content/uploads/2024/05/WORKOUT100ALLTIME.png",
+    "criteria": {
+      "minMinutes": 6000
+    },
+    "type": "TIME",
+    "level": 2,
+    "expires_at": null,
+    "visibility": "PUBLIC",
+    "points_value": 1000,
+    "tags": [
+      "Workout"
+    ],
+    "created_at_epoch_ms": "1716238600576",
+    "updated_at_epoch_ms": "1716238600576",
+    "available_from": "2020-01-01",
+    "available_until": "2999-12-31",
+    "prerequisites": [],
+    "sport_types": [
+      "Workout"
+    ]
+  },
+  {
+    "id": "664bb92538ff261216e094d9",
+    "name": "Workout 200 Hours in Total",
+    "description": "Accumulate a total of 200 hours of workout. There is no time limit to achieve this duration.",
+    "image_url": "https://tmateapp.com/wp-content/uploads/2024/05/WORKOUT200ALLTIME.png",
+    "criteria": {
+      "minMinutes": 12000
+    },
+    "type": "TIME",
+    "level": 3,
+    "expires_at": null,
+    "visibility": "PUBLIC",
+    "points_value": 2000,
+    "tags": [
+      "Workout"
+    ],
+    "created_at_epoch_ms": "1716238629787",
+    "updated_at_epoch_ms": "1716238629787",
+    "available_from": "2020-01-01",
+    "available_until": "2999-12-31",
+    "prerequisites": [],
+    "sport_types": [
+      "Workout"
+    ]
+  },
+  {
+    "id": "664bb93738ff261216e094da",
+    "name": "Workout 300 Hours in Total",
+    "description": "Accumulate a total of 300 hours of workout. There is no time limit to achieve this duration.",
+    "image_url": "https://tmateapp.com/wp-content/uploads/2024/05/WORKOUT300ALLTIME.png",
+    "criteria": {
+      "minMinutes": 18000
+    },
+    "type": "TIME",
+    "level": 4,
+    "expires_at": null,
+    "visibility": "PUBLIC",
+    "points_value": 3000,
+    "tags": [
+      "Workout"
+    ],
+    "created_at_epoch_ms": "1716238647142",
+    "updated_at_epoch_ms": "1716238647142",
+    "available_from": "2020-01-01",
+    "available_until": "2999-12-31",
+    "prerequisites": [],
+    "sport_types": [
+      "Workout"
+    ]
+  },
+  {
+    "id": "664bb94238ff261216e094db",
+    "name": "Workout 400 Hours in Total",
+    "description": "Accumulate a total of 400 hours of workout. There is no time limit to achieve this duration.",
+    "image_url": "https://tmateapp.com/wp-content/uploads/2024/05/WORKOUT400ALLTIME.png",
+    "criteria": {
+      "minMinutes": 24000
+    },
+    "type": "TIME",
+    "level": 5,
+    "expires_at": null,
+    "visibility": "PUBLIC",
+    "points_value": 4000,
+    "tags": [
+      "Workout"
+    ],
+    "created_at_epoch_ms": "1716238658067",
+    "updated_at_epoch_ms": "1716238658067",
+    "available_from": "2020-01-01",
+    "available_until": "2999-12-31",
+    "prerequisites": [],
+    "sport_types": [
+      "Workout"
+    ]
+  }
+]

@@ -1,0 +1,4132 @@
+[
+  {
+    "id": "664fe30681767b714e7f39f6",
+    "user_id": "6637bd93bf3880c0fbcd92b9",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T00:44:54.193Z",
+    "metadata": {}
+  },
+  {
+    "id": "664ff99781767b714e7f3a0f",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T02:21:11.206Z",
+    "metadata": {}
+  },
+  {
+    "id": "664ffa2381767b714e7f3a10",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T02:23:31.166Z",
+    "metadata": {}
+  },
+  {
+    "id": "664ffa6c81767b714e7f3a11",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T02:24:44.336Z",
+    "metadata": {}
+  },
+  {
+    "id": "664ffc6e81767b714e7f3a12",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T02:33:18.874Z",
+    "metadata": {}
+  },
+  {
+    "id": "664ffca181767b714e7f3a13",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T02:34:09.344Z",
+    "metadata": {}
+  },
+  {
+    "id": "664ffcdb81767b714e7f3a14",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T02:35:07.981Z",
+    "metadata": {}
+  },
+  {
+    "id": "664ffcff81767b714e7f3a15",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T02:35:43.474Z",
+    "metadata": {}
+  },
+  {
+    "id": "664ffd1481767b714e7f3a16",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T02:36:04.493Z",
+    "metadata": {}
+  },
+  {
+    "id": "664ffd2981767b714e7f3a17",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T02:36:25.477Z",
+    "metadata": {}
+  },
+  {
+    "id": "664ffd2e81767b714e7f3a18",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T02:36:30.344Z",
+    "metadata": {}
+  },
+  {
+    "id": "664ffd3a81767b714e7f3a19",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T02:36:42.148Z",
+    "metadata": {}
+  },
+  {
+    "id": "664ffd4181767b714e7f3a1a",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T02:36:49.560Z",
+    "metadata": {}
+  },
+  {
+    "id": "664ffd6a81767b714e7f3a1b",
+    "user_id": "664e74cee57190d925cd50cd",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T02:37:30.271Z",
+    "metadata": {}
+  },
+  {
+    "id": "664ffd8481767b714e7f3a1c",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T02:37:56.722Z",
+    "metadata": {}
+  },
+  {
+    "id": "664ffd9e81767b714e7f3a1d",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T02:38:22.205Z",
+    "metadata": {}
+  },
+  {
+    "id": "664ffeb481767b714e7f3a1e",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T02:43:00.852Z",
+    "metadata": {}
+  },
+  {
+    "id": "6650003a81767b714e7f3a1f",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T02:49:30.183Z",
+    "metadata": {}
+  },
+  {
+    "id": "6650016181767b714e7f3a20",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T02:54:25.694Z",
+    "metadata": {}
+  },
+  {
+    "id": "665001c881767b714e7f3a21",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T02:56:08.695Z",
+    "metadata": {}
+  },
+  {
+    "id": "665001cf81767b714e7f3a22",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T02:56:15.962Z",
+    "metadata": {}
+  },
+  {
+    "id": "665001df81767b714e7f3a23",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T02:56:31.339Z",
+    "metadata": {}
+  },
+  {
+    "id": "6650021781767b714e7f3a24",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T02:57:27.760Z",
+    "metadata": {}
+  },
+  {
+    "id": "665002c181767b714e7f3a25",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T03:00:17.669Z",
+    "metadata": {}
+  },
+  {
+    "id": "665002ca81767b714e7f3a26",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T03:00:26.722Z",
+    "metadata": {}
+  },
+  {
+    "id": "665002ce81767b714e7f3a27",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T03:00:30.922Z",
+    "metadata": {}
+  },
+  {
+    "id": "6650047981767b714e7f3a28",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T03:07:37.054Z",
+    "metadata": {}
+  },
+  {
+    "id": "6650049d81767b714e7f3a29",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T03:08:13.410Z",
+    "metadata": {}
+  },
+  {
+    "id": "665004a481767b714e7f3a2a",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T03:08:20.033Z",
+    "metadata": {}
+  },
+  {
+    "id": "6650054081767b714e7f3a2b",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T03:10:56.733Z",
+    "metadata": {}
+  },
+  {
+    "id": "6650318e81767b714e7f3a2c",
+    "user_id": "664e6466e57190d925cd50c0",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T06:19:58.197Z",
+    "metadata": {}
+  },
+  {
+    "id": "6650774c81767b714e7f3a34",
+    "user_id": "6650773f81767b714e7f3a33",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T11:17:32.491Z",
+    "metadata": {}
+  },
+  {
+    "id": "665078c581767b714e7f3a35",
+    "user_id": "6650773f81767b714e7f3a33",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T11:23:49.607Z",
+    "metadata": {}
+  },
+  {
+    "id": "66507afe81767b714e7f3a36",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T11:33:18.900Z",
+    "metadata": {}
+  },
+  {
+    "id": "66508af981767b714e7f3a3f",
+    "user_id": "65a9d88105a0c5d6b6f6b96a",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T12:41:29.614Z",
+    "metadata": {}
+  },
+  {
+    "id": "66508c6a81767b714e7f3a40",
+    "user_id": "664e6466e57190d925cd50c0",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T12:47:38.984Z",
+    "metadata": {}
+  },
+  {
+    "id": "6650959b81767b714e7f3a46",
+    "user_id": "664e74cee57190d925cd50cd",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T13:26:51.769Z",
+    "metadata": {}
+  },
+  {
+    "id": "6650b54e81767b714e7f3a53",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T15:42:06.415Z",
+    "metadata": {}
+  },
+  {
+    "id": "6650e56d81767b714e7f3a5b",
+    "user_id": "664e6466e57190d925cd50c0",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T19:07:25.801Z",
+    "metadata": {}
+  },
+  {
+    "id": "6650f65581767b714e7f3a5c",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T20:19:33.613Z",
+    "metadata": {}
+  },
+  {
+    "id": "66510a7881767b714e7f3a5d",
+    "user_id": "653a688bc43667c6704515e4",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T21:45:28.387Z",
+    "metadata": {}
+  },
+  {
+    "id": "6651254881767b714e7f3a6a",
+    "user_id": "664e74cee57190d925cd50cd",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T23:39:52.991Z",
+    "metadata": {}
+  },
+  {
+    "id": "6651274681767b714e7f3a6c",
+    "user_id": "6651274581767b714e7f3a6b",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T23:48:22.573Z",
+    "metadata": {}
+  },
+  {
+    "id": "6651275e81767b714e7f3a6d",
+    "user_id": "6651274581767b714e7f3a6b",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T23:48:46.237Z",
+    "metadata": {}
+  },
+  {
+    "id": "665128fb81767b714e7f3a6e",
+    "user_id": "6651274581767b714e7f3a6b",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-24T23:55:39.007Z",
+    "metadata": {}
+  },
+  {
+    "id": "66512fb381767b714e7f3a71",
+    "user_id": "6651274581767b714e7f3a6b",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-25T00:24:19.602Z",
+    "metadata": {}
+  },
+  {
+    "id": "6651eb8981767b714e7f3a74",
+    "user_id": "6651274581767b714e7f3a6b",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-25T13:45:45.536Z",
+    "metadata": {}
+  },
+  {
+    "id": "6652149381767b714e7f3a87",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-25T16:40:51.238Z",
+    "metadata": {}
+  },
+  {
+    "id": "66522c0781767b714e7f3a90",
+    "user_id": "664e74cee57190d925cd50cd",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-25T18:20:55.341Z",
+    "metadata": {}
+  },
+  {
+    "id": "66522f1c81767b714e7f3a91",
+    "user_id": "6650773f81767b714e7f3a33",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-25T18:34:04.919Z",
+    "metadata": {}
+  },
+  {
+    "id": "6652648a81767b714e7f3a9d",
+    "user_id": "6651274581767b714e7f3a6b",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-25T22:22:02.131Z",
+    "metadata": {}
+  },
+  {
+    "id": "665272a481767b714e7f3aa0",
+    "user_id": "6637bd93bf3880c0fbcd92b9",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-25T23:22:12.199Z",
+    "metadata": {}
+  },
+  {
+    "id": "66527a1481767b714e7f3aa1",
+    "user_id": "65a8464a1d7d5851d36a118a",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-25T23:53:56.335Z",
+    "metadata": {}
+  },
+  {
+    "id": "66528a7681767b714e7f3aa5",
+    "user_id": "6651274581767b714e7f3a6b",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-26T01:03:50.569Z",
+    "metadata": {}
+  },
+  {
+    "id": "66534b6e81767b714e7f3abc",
+    "user_id": "6637bd93bf3880c0fbcd92b9",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-26T14:47:10.612Z",
+    "metadata": {}
+  },
+  {
+    "id": "6653712981767b714e7f3ad5",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-26T17:28:09.562Z",
+    "metadata": {}
+  },
+  {
+    "id": "6653737e81767b714e7f3ad6",
+    "user_id": "6650773f81767b714e7f3a33",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-26T17:38:06.972Z",
+    "metadata": {}
+  },
+  {
+    "id": "665378e481767b714e7f3adf",
+    "user_id": "664e6466e57190d925cd50c0",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-26T18:01:08.099Z",
+    "metadata": {}
+  },
+  {
+    "id": "66537f9981767b714e7f3ae0",
+    "user_id": "65a8464a1d7d5851d36a118a",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-26T18:29:45.932Z",
+    "metadata": {}
+  },
+  {
+    "id": "66538be781767b714e7f3ae1",
+    "user_id": "664e74cee57190d925cd50cd",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-26T19:22:15.458Z",
+    "metadata": {}
+  },
+  {
+    "id": "6653a66881767b714e7f3ae2",
+    "user_id": "6650773f81767b714e7f3a33",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-26T21:15:20.284Z",
+    "metadata": {}
+  },
+  {
+    "id": "6653c05581767b714e7f3ae5",
+    "user_id": "664e6466e57190d925cd50c0",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-26T23:05:57.152Z",
+    "metadata": {}
+  },
+  {
+    "id": "6653e0de81767b714e7f3ae6",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-27T01:24:46.265Z",
+    "metadata": {}
+  },
+  {
+    "id": "6653e20281767b714e7f3ae7",
+    "user_id": "6651274581767b714e7f3a6b",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-27T01:29:38.810Z",
+    "metadata": {}
+  },
+  {
+    "id": "6653e35681767b714e7f3ae8",
+    "user_id": "653a688bc43667c6704515e4",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-27T01:35:18.577Z",
+    "metadata": {}
+  },
+  {
+    "id": "6653ed9781767b714e7f3ae9",
+    "user_id": "653a6847c43667c6704515e3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-27T02:19:03.810Z",
+    "metadata": {}
+  },
+  {
+    "id": "6653eda981767b714e7f3aea",
+    "user_id": "664e6466e57190d925cd50c0",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-27T02:19:21.079Z",
+    "metadata": {}
+  },
+  {
+    "id": "665408dc81767b714e7f3aeb",
+    "user_id": "6637bd93bf3880c0fbcd92b9",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-27T04:15:24.500Z",
+    "metadata": {}
+  },
+  {
+    "id": "6654636981767b714e7f3c0f",
+    "user_id": "664e6466e57190d925cd50c0",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-27T10:41:45.252Z",
+    "metadata": {}
+  },
+  {
+    "id": "66546c5e81767b714e7f3c10",
+    "user_id": "6637bd93bf3880c0fbcd92b9",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-27T11:19:58.736Z",
+    "metadata": {}
+  },
+  {
+    "id": "665487aa81767b714e7f3c17",
+    "user_id": "65889d51f745765a16dbae76",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-27T13:16:26.389Z",
+    "metadata": {}
+  },
+  {
+    "id": "66548dbc81767b714e7f3c18",
+    "user_id": "6651274581767b714e7f3a6b",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-27T13:42:20.256Z",
+    "metadata": {}
+  },
+  {
+    "id": "6654a3b481767b714e7f3c1e",
+    "user_id": "653c5a31aaea15c4a05afe52",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-27T15:16:04.064Z",
+    "metadata": {}
+  },
+  {
+    "id": "6654ba6f81767b714e7f3c1f",
+    "user_id": "664e74cee57190d925cd50cd",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-27T16:53:03.928Z",
+    "metadata": {}
+  },
+  {
+    "id": "6654d87381767b714e7f3c21",
+    "user_id": "6654d87281767b714e7f3c20",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-27T19:01:07.522Z",
+    "metadata": {}
+  },
+  {
+    "id": "6654d91681767b714e7f3c22",
+    "user_id": "6654d87281767b714e7f3c20",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-27T19:03:50.997Z",
+    "metadata": {}
+  },
+  {
+    "id": "6654d91781767b714e7f3c23",
+    "user_id": "6654d87281767b714e7f3c20",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-27T19:03:51.432Z",
+    "metadata": {}
+  },
+  {
+    "id": "6654f90581767b714e7f3c24",
+    "user_id": "6637bd93bf3880c0fbcd92b9",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-27T21:20:05.912Z",
+    "metadata": {}
+  },
+  {
+    "id": "6655002181767b714e7f3c25",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-27T21:50:25.524Z",
+    "metadata": {}
+  },
+  {
+    "id": "665500f681767b714e7f3c26",
+    "user_id": "6637bd93bf3880c0fbcd92b9",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-27T21:53:58.050Z",
+    "metadata": {}
+  },
+  {
+    "id": "6655221f81767b714e7f3c2d",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T00:15:27.603Z",
+    "metadata": {}
+  },
+  {
+    "id": "66552ae981767b714e7f3c34",
+    "user_id": "6637bd93bf3880c0fbcd92b9",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T00:52:57.468Z",
+    "metadata": {}
+  },
+  {
+    "id": "66552c3d81767b714e7f3c35",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T00:58:37.276Z",
+    "metadata": {}
+  },
+  {
+    "id": "66552cb281767b714e7f3c36",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T01:00:34.301Z",
+    "metadata": {}
+  },
+  {
+    "id": "66552d6e81767b714e7f3c37",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T01:03:42.242Z",
+    "metadata": {}
+  },
+  {
+    "id": "66552e0281767b714e7f3c38",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T01:06:10.032Z",
+    "metadata": {}
+  },
+  {
+    "id": "66552eee81767b714e7f3c39",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T01:10:06.720Z",
+    "metadata": {}
+  },
+  {
+    "id": "66552f8281767b714e7f3c3a",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T01:12:34.820Z",
+    "metadata": {}
+  },
+  {
+    "id": "66552fb881767b714e7f3c3b",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T01:13:28.163Z",
+    "metadata": {}
+  },
+  {
+    "id": "66552fd581767b714e7f3c3c",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T01:13:57.569Z",
+    "metadata": {}
+  },
+  {
+    "id": "66552fe281767b714e7f3c3d",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T01:14:10.490Z",
+    "metadata": {}
+  },
+  {
+    "id": "66552ff181767b714e7f3c3e",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T01:14:25.174Z",
+    "metadata": {}
+  },
+  {
+    "id": "6655300981767b714e7f3c3f",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T01:14:49.973Z",
+    "metadata": {}
+  },
+  {
+    "id": "665531c681767b714e7f3c40",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T01:22:14.056Z",
+    "metadata": {}
+  },
+  {
+    "id": "665531c981767b714e7f3c41",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T01:22:17.715Z",
+    "metadata": {}
+  },
+  {
+    "id": "665533ee81767b714e7f3c42",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T01:31:26.268Z",
+    "metadata": {}
+  },
+  {
+    "id": "6655340f81767b714e7f3c43",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T01:31:59.027Z",
+    "metadata": {}
+  },
+  {
+    "id": "6655342581767b714e7f3c44",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T01:32:21.440Z",
+    "metadata": {}
+  },
+  {
+    "id": "6655343881767b714e7f3c45",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T01:32:40.756Z",
+    "metadata": {}
+  },
+  {
+    "id": "6655344081767b714e7f3c46",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T01:32:48.202Z",
+    "metadata": {}
+  },
+  {
+    "id": "66553cc381767b714e7f3c47",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T02:09:07.912Z",
+    "metadata": {}
+  },
+  {
+    "id": "66553e7b81767b714e7f3c48",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T02:16:27.044Z",
+    "metadata": {}
+  },
+  {
+    "id": "66553e7d81767b714e7f3c49",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T02:16:29.044Z",
+    "metadata": {}
+  },
+  {
+    "id": "66553ecc81767b714e7f3c4a",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T02:17:48.771Z",
+    "metadata": {}
+  },
+  {
+    "id": "66553fcb81767b714e7f3c4b",
+    "user_id": "6637bd93bf3880c0fbcd92b9",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T02:22:03.099Z",
+    "metadata": {}
+  },
+  {
+    "id": "66553fd581767b714e7f3c4c",
+    "user_id": "6637bd93bf3880c0fbcd92b9",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T02:22:13.749Z",
+    "metadata": {}
+  },
+  {
+    "id": "66553fdc81767b714e7f3c4d",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T02:22:20.487Z",
+    "metadata": {}
+  },
+  {
+    "id": "6655434a2634f744da35d355",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T02:36:58.433Z",
+    "metadata": {}
+  },
+  {
+    "id": "665543932634f744da35d357",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T02:38:11.620Z",
+    "metadata": {}
+  },
+  {
+    "id": "6655441c2634f744da35d35d",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T02:40:28.936Z",
+    "metadata": {}
+  },
+  {
+    "id": "665544372634f744da35d35e",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T02:40:55.355Z",
+    "metadata": {}
+  },
+  {
+    "id": "6655444a2634f744da35d35f",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T02:41:14.602Z",
+    "metadata": {}
+  },
+  {
+    "id": "665544a32634f744da35d360",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T02:42:43.423Z",
+    "metadata": {}
+  },
+  {
+    "id": "665544d82634f744da35d361",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T02:43:36.521Z",
+    "metadata": {}
+  },
+  {
+    "id": "665544f22634f744da35d362",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T02:44:02.867Z",
+    "metadata": {}
+  },
+  {
+    "id": "6655450d2634f744da35d363",
+    "user_id": "6651274581767b714e7f3a6b",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T02:44:29.265Z",
+    "metadata": {}
+  },
+  {
+    "id": "665545142634f744da35d364",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T02:44:36.447Z",
+    "metadata": {}
+  },
+  {
+    "id": "665545592634f744da35d365",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T02:45:45.853Z",
+    "metadata": {}
+  },
+  {
+    "id": "665545712634f744da35d366",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T02:46:09.457Z",
+    "metadata": {}
+  },
+  {
+    "id": "665545872634f744da35d367",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T02:46:31.673Z",
+    "metadata": {}
+  },
+  {
+    "id": "665546ca254878f6857838b7",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T02:51:54.328Z",
+    "metadata": {}
+  },
+  {
+    "id": "66554713254878f6857838bb",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T02:53:07.190Z",
+    "metadata": {}
+  },
+  {
+    "id": "66554812254878f6857838bc",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T02:57:22.885Z",
+    "metadata": {}
+  },
+  {
+    "id": "6655482e254878f6857838bd",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T02:57:50.839Z",
+    "metadata": {}
+  },
+  {
+    "id": "6655487d254878f6857838be",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T02:59:09.449Z",
+    "metadata": {}
+  },
+  {
+    "id": "6655493a254878f6857838bf",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T03:02:18.804Z",
+    "metadata": {}
+  },
+  {
+    "id": "66554afe254878f6857838c0",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T03:09:50.931Z",
+    "metadata": {}
+  },
+  {
+    "id": "66554b0d254878f6857838c1",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T03:10:05.585Z",
+    "metadata": {}
+  },
+  {
+    "id": "66554b6e254878f6857838c2",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T03:11:42.263Z",
+    "metadata": {}
+  },
+  {
+    "id": "66554f37254878f6857838c9",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T03:27:51.080Z",
+    "metadata": {}
+  },
+  {
+    "id": "6655ad72254878f6857838ca",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T10:09:54.612Z",
+    "metadata": {}
+  },
+  {
+    "id": "6655bbf4254878f6857838cb",
+    "user_id": "65a9d88105a0c5d6b6f6b96a",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T11:11:48.179Z",
+    "metadata": {}
+  },
+  {
+    "id": "6655c690254878f6857838db",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T11:57:04.664Z",
+    "metadata": {}
+  },
+  {
+    "id": "6655c6d4254878f6857838dc",
+    "user_id": "653a6847c43667c6704515e3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T11:58:12.689Z",
+    "metadata": {}
+  },
+  {
+    "id": "6655c6ef254878f6857838dd",
+    "user_id": "653a6847c43667c6704515e3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T11:58:39.892Z",
+    "metadata": {}
+  },
+  {
+    "id": "6655d040254878f6857838e6",
+    "user_id": "6650773f81767b714e7f3a33",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T12:38:24.374Z",
+    "metadata": {}
+  },
+  {
+    "id": "6655d17d254878f6857838e7",
+    "user_id": "6651274581767b714e7f3a6b",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T12:43:41.860Z",
+    "metadata": {}
+  },
+  {
+    "id": "6655df11254878f6857838f2",
+    "user_id": "664e6466e57190d925cd50c0",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T13:41:37.183Z",
+    "metadata": {}
+  },
+  {
+    "id": "6655eb7d254878f685783905",
+    "user_id": "653c5a31aaea15c4a05afe52",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T14:34:37.453Z",
+    "metadata": {}
+  },
+  {
+    "id": "6655f0cf254878f685783906",
+    "user_id": "653a6847c43667c6704515e3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T14:57:19.800Z",
+    "metadata": {}
+  },
+  {
+    "id": "6655ff5a254878f68578390a",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T15:59:22.350Z",
+    "metadata": {}
+  },
+  {
+    "id": "665602e8254878f68578390b",
+    "user_id": "6637bd93bf3880c0fbcd92b9",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T16:14:32.351Z",
+    "metadata": {}
+  },
+  {
+    "id": "66562050254878f68578390c",
+    "user_id": "653c5a31aaea15c4a05afe52",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T18:20:00.587Z",
+    "metadata": {}
+  },
+  {
+    "id": "66565bd8254878f685783913",
+    "user_id": "664e6466e57190d925cd50c0",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T22:34:00.511Z",
+    "metadata": {}
+  },
+  {
+    "id": "66566ce8254878f68578391c",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-28T23:46:48.399Z",
+    "metadata": {}
+  },
+  {
+    "id": "66567a04254878f68578391f",
+    "user_id": "6654d87281767b714e7f3c20",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T00:42:44.436Z",
+    "metadata": {}
+  },
+  {
+    "id": "66567e9a254878f685783920",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:02:18.034Z",
+    "metadata": {}
+  },
+  {
+    "id": "66567f4c254878f685783921",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:05:16.866Z",
+    "metadata": {}
+  },
+  {
+    "id": "66567f5e254878f685783922",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:05:34.241Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568047254878f685783923",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:09:27.538Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568055254878f68578392a",
+    "user_id": "653a688bc43667c6704515e4",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:09:41.691Z",
+    "metadata": {}
+  },
+  {
+    "id": "665680cc254878f68578392e",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:11:40.431Z",
+    "metadata": {}
+  },
+  {
+    "id": "665681a4254878f685783937",
+    "user_id": "653a6d9f5fc5b77e05f53aa4",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:15:16.923Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568275254878f685783938",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:18:45.506Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568356fbfa625ab2457822",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:22:30.168Z",
+    "metadata": {}
+  },
+  {
+    "id": "6656835efbfa625ab2457824",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:22:38.117Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568448fbfa625ab2457825",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:26:32.573Z",
+    "metadata": {}
+  },
+  {
+    "id": "6656844efbfa625ab2457826",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:26:38.820Z",
+    "metadata": {}
+  },
+  {
+    "id": "6656847cfbfa625ab2457827",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:27:24.773Z",
+    "metadata": {}
+  },
+  {
+    "id": "6656849ffbfa625ab2457828",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:27:59.225Z",
+    "metadata": {}
+  },
+  {
+    "id": "665684c7fbfa625ab2457829",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:28:39.969Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568590fbfa625ab245782a",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:32:00.155Z",
+    "metadata": {}
+  },
+  {
+    "id": "665685dafbfa625ab245782b",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:33:14.027Z",
+    "metadata": {}
+  },
+  {
+    "id": "665685e4fbfa625ab245782c",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:33:24.648Z",
+    "metadata": {}
+  },
+  {
+    "id": "665685e6fbfa625ab245782d",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:33:26.775Z",
+    "metadata": {}
+  },
+  {
+    "id": "665685e8fbfa625ab245782e",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:33:28.584Z",
+    "metadata": {}
+  },
+  {
+    "id": "6656860bfbfa625ab245782f",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:34:03.000Z",
+    "metadata": {}
+  },
+  {
+    "id": "6656860efbfa625ab2457830",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:34:06.150Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568772fbfa625ab2457831",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:40:02.741Z",
+    "metadata": {}
+  },
+  {
+    "id": "6656877dfbfa625ab2457832",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:40:13.045Z",
+    "metadata": {}
+  },
+  {
+    "id": "6656879bfbfa625ab2457833",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:40:43.147Z",
+    "metadata": {}
+  },
+  {
+    "id": "665688adfbfa625ab245783c",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:45:17.660Z",
+    "metadata": {}
+  },
+  {
+    "id": "665688cdfbfa625ab245783d",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:45:49.318Z",
+    "metadata": {}
+  },
+  {
+    "id": "665688cffbfa625ab245783e",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:45:51.950Z",
+    "metadata": {}
+  },
+  {
+    "id": "665688d0fbfa625ab245783f",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:45:51.999Z",
+    "metadata": {}
+  },
+  {
+    "id": "6656890afbfa625ab2457840",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:46:50.151Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568974fbfa625ab2457841",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:48:36.501Z",
+    "metadata": {}
+  },
+  {
+    "id": "665689a4fbfa625ab2457842",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:49:24.742Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568a0cfbfa625ab2457843",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:51:08.504Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568a22fbfa625ab2457844",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:51:30.977Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568b9bfbfa625ab2457848",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:57:47.146Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568bb6fbfa625ab2457849",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:58:14.679Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568bbcfbfa625ab245784a",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:58:20.374Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568bf3fbfa625ab245784b",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:59:15.053Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568c0bfbfa625ab245784c",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:59:39.615Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568c10fbfa625ab245784d",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:59:44.923Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568c1dfbfa625ab245784e",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T01:59:57.104Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568c22fbfa625ab245784f",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:00:02.980Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568c70fbfa625ab2457850",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:01:20.617Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568c7bfbfa625ab2457851",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:01:31.281Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568c91fbfa625ab2457852",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:01:53.512Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568cadfbfa625ab2457853",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:02:21.957Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568cbbfbfa625ab2457854",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:02:35.572Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568cd6fbfa625ab2457855",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:03:02.916Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568d02fbfa625ab2457856",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:03:46.640Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568d11fbfa625ab2457857",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:04:01.705Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568d51fbfa625ab2457858",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:05:05.768Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568d5bfbfa625ab2457859",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:05:15.991Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568d5ffbfa625ab245785a",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:05:19.442Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568d63fbfa625ab245785b",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:05:23.556Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568d75fbfa625ab245785c",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:05:41.706Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568d91fbfa625ab245785d",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:06:09.174Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568d9dfbfa625ab245785e",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:06:21.006Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568d9ffbfa625ab245785f",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:06:23.163Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568da5fbfa625ab2457860",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:06:29.482Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568dbafbfa625ab2457861",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:06:50.090Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568dfdfbfa625ab2457862",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:07:57.411Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568e21fbfa625ab2457863",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:08:33.464Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568e3bfbfa625ab2457864",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:08:59.628Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568e60fbfa625ab2457865",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:09:36.595Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568e7dfbfa625ab2457866",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:10:05.622Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568f31fbfa625ab2457867",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:13:05.438Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568f62fbfa625ab2457868",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:13:54.968Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568f66fbfa625ab2457869",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:13:58.027Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568f71fbfa625ab245786a",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:14:09.084Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568f81fbfa625ab245786b",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:14:25.065Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568f82fbfa625ab245786c",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:14:26.244Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568fd1fbfa625ab245786d",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:15:45.823Z",
+    "metadata": {}
+  },
+  {
+    "id": "66568fe3fbfa625ab245786e",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:16:03.305Z",
+    "metadata": {}
+  },
+  {
+    "id": "66569002fbfa625ab245786f",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:16:34.217Z",
+    "metadata": {}
+  },
+  {
+    "id": "66569019fbfa625ab2457870",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:16:57.964Z",
+    "metadata": {}
+  },
+  {
+    "id": "6656901efbfa625ab2457871",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:17:02.876Z",
+    "metadata": {}
+  },
+  {
+    "id": "6656902ffbfa625ab2457872",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:17:19.521Z",
+    "metadata": {}
+  },
+  {
+    "id": "6656906afbfa625ab2457873",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:18:18.608Z",
+    "metadata": {}
+  },
+  {
+    "id": "6656907ffbfa625ab2457874",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:18:39.063Z",
+    "metadata": {}
+  },
+  {
+    "id": "66569086fbfa625ab2457875",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:18:46.968Z",
+    "metadata": {}
+  },
+  {
+    "id": "6656908dfbfa625ab2457876",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:18:53.484Z",
+    "metadata": {}
+  },
+  {
+    "id": "6656909ffbfa625ab2457877",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:19:11.647Z",
+    "metadata": {}
+  },
+  {
+    "id": "665690adfbfa625ab2457878",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:19:25.594Z",
+    "metadata": {}
+  },
+  {
+    "id": "665690ccfbfa625ab2457879",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:19:56.356Z",
+    "metadata": {}
+  },
+  {
+    "id": "6656910efbfa625ab245787a",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:21:02.764Z",
+    "metadata": {}
+  },
+  {
+    "id": "66569114fbfa625ab245787b",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:21:08.495Z",
+    "metadata": {}
+  },
+  {
+    "id": "66569142fbfa625ab245787c",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:21:54.458Z",
+    "metadata": {}
+  },
+  {
+    "id": "66569149fbfa625ab245787d",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:22:01.498Z",
+    "metadata": {}
+  },
+  {
+    "id": "66569157fbfa625ab245787e",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:22:15.873Z",
+    "metadata": {}
+  },
+  {
+    "id": "6656915cfbfa625ab245787f",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:22:20.237Z",
+    "metadata": {}
+  },
+  {
+    "id": "66569160fbfa625ab2457880",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:22:24.290Z",
+    "metadata": {}
+  },
+  {
+    "id": "6656916ffbfa625ab2457881",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:22:39.950Z",
+    "metadata": {}
+  },
+  {
+    "id": "66569171fbfa625ab2457882",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:22:41.896Z",
+    "metadata": {}
+  },
+  {
+    "id": "6656918bfbfa625ab2457883",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:23:07.948Z",
+    "metadata": {}
+  },
+  {
+    "id": "66569192fbfa625ab2457884",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:23:14.779Z",
+    "metadata": {}
+  },
+  {
+    "id": "665691a4fbfa625ab2457885",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:23:32.262Z",
+    "metadata": {}
+  },
+  {
+    "id": "665691b3fbfa625ab2457886",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:23:47.528Z",
+    "metadata": {}
+  },
+  {
+    "id": "665691bafbfa625ab2457887",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:23:54.817Z",
+    "metadata": {}
+  },
+  {
+    "id": "665691c9fbfa625ab2457888",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:24:09.521Z",
+    "metadata": {}
+  },
+  {
+    "id": "665691cefbfa625ab2457889",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:24:14.218Z",
+    "metadata": {}
+  },
+  {
+    "id": "66569383fbfa625ab245788a",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:31:31.078Z",
+    "metadata": {}
+  },
+  {
+    "id": "66569383fbfa625ab245788b",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:31:31.491Z",
+    "metadata": {}
+  },
+  {
+    "id": "6656938cfbfa625ab245788c",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:31:40.283Z",
+    "metadata": {}
+  },
+  {
+    "id": "66569441fbfa625ab245788d",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:34:41.962Z",
+    "metadata": {}
+  },
+  {
+    "id": "66569446fbfa625ab245788e",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:34:46.332Z",
+    "metadata": {}
+  },
+  {
+    "id": "6656948cfbfa625ab245788f",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:35:56.248Z",
+    "metadata": {}
+  },
+  {
+    "id": "665694fefbfa625ab2457890",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:37:50.703Z",
+    "metadata": {}
+  },
+  {
+    "id": "665695bffbfa625ab2457891",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:41:03.731Z",
+    "metadata": {}
+  },
+  {
+    "id": "6656977ffbfa625ab2457892",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:48:31.281Z",
+    "metadata": {}
+  },
+  {
+    "id": "665697bcfbfa625ab2457893",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:49:32.545Z",
+    "metadata": {}
+  },
+  {
+    "id": "665697c7fbfa625ab2457894",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:49:43.860Z",
+    "metadata": {}
+  },
+  {
+    "id": "6656989bfbfa625ab245789b",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:53:15.673Z",
+    "metadata": {}
+  },
+  {
+    "id": "665698cffbfa625ab245789c",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:54:07.941Z",
+    "metadata": {}
+  },
+  {
+    "id": "66569972fbfa625ab245789d",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:56:50.921Z",
+    "metadata": {}
+  },
+  {
+    "id": "665699aafbfa625ab24578a4",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T02:57:46.743Z",
+    "metadata": {}
+  },
+  {
+    "id": "66569b01fbfa625ab24578a5",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T03:03:29.753Z",
+    "metadata": {}
+  },
+  {
+    "id": "66569b80fbfa625ab24578a8",
+    "user_id": "6654d87281767b714e7f3c20",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T03:05:36.252Z",
+    "metadata": {}
+  },
+  {
+    "id": "665700e0fbfa625ab24578ad",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T10:18:08.659Z",
+    "metadata": {}
+  },
+  {
+    "id": "66572582fbfa625ab24578ce",
+    "user_id": "6650773f81767b714e7f3a33",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T12:54:26.491Z",
+    "metadata": {}
+  },
+  {
+    "id": "66572748fbfa625ab24578cf",
+    "user_id": "6650773f81767b714e7f3a33",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T13:02:00.194Z",
+    "metadata": {}
+  },
+  {
+    "id": "66572b30fbfa625ab24578d0",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T13:18:40.791Z",
+    "metadata": {}
+  },
+  {
+    "id": "665747d4fbfa625ab24578e6",
+    "user_id": "653c5a31aaea15c4a05afe52",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T15:20:52.945Z",
+    "metadata": {}
+  },
+  {
+    "id": "665767b9fbfa625ab24578e7",
+    "user_id": "6654d87281767b714e7f3c20",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T17:36:57.390Z",
+    "metadata": {}
+  },
+  {
+    "id": "6657a991fbfa625ab24578f6",
+    "user_id": "6657a98ffbfa625ab24578f5",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T22:17:53.044Z",
+    "metadata": {}
+  },
+  {
+    "id": "6657a9a8fbfa625ab24578f7",
+    "user_id": "6657a98ffbfa625ab24578f5",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T22:18:16.205Z",
+    "metadata": {}
+  },
+  {
+    "id": "6657b31ffbfa625ab24578f8",
+    "user_id": "6637bd93bf3880c0fbcd92b9",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-29T22:58:39.771Z",
+    "metadata": {}
+  },
+  {
+    "id": "6657ec0bfbfa625ab2457903",
+    "user_id": "6654d87281767b714e7f3c20",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-30T03:01:31.085Z",
+    "metadata": {}
+  },
+  {
+    "id": "66588938fbfa625ab2457914",
+    "user_id": "65a8464a1d7d5851d36a118a",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-30T14:12:08.515Z",
+    "metadata": {}
+  },
+  {
+    "id": "6658c6a0fbfa625ab245792b",
+    "user_id": "653c5a31aaea15c4a05afe52",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-30T18:34:08.692Z",
+    "metadata": {}
+  },
+  {
+    "id": "6658cc56fbfa625ab245792e",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-30T18:58:30.811Z",
+    "metadata": {}
+  },
+  {
+    "id": "6658d2aafbfa625ab2457931",
+    "user_id": "65a884bb1d7d5851d36a1194",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-30T19:25:30.214Z",
+    "metadata": {}
+  },
+  {
+    "id": "6658d6a0fbfa625ab2457934",
+    "user_id": "65a7d9b81d7d5851d36a1171",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-30T19:42:24.172Z",
+    "metadata": {}
+  },
+  {
+    "id": "6658e50dfbfa625ab2457939",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-30T20:43:57.008Z",
+    "metadata": {}
+  },
+  {
+    "id": "6658e710fbfa625ab245793a",
+    "user_id": "65a8464a1d7d5851d36a118a",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-30T20:52:32.478Z",
+    "metadata": {}
+  },
+  {
+    "id": "66590600fbfa625ab2457941",
+    "user_id": "653a6d9f5fc5b77e05f53aa4",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-30T23:04:32.507Z",
+    "metadata": {}
+  },
+  {
+    "id": "665914a0fbfa625ab2457948",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T00:06:56.435Z",
+    "metadata": {}
+  },
+  {
+    "id": "66591663fbfa625ab2457949",
+    "user_id": "653a688bc43667c6704515e4",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T00:14:27.959Z",
+    "metadata": {}
+  },
+  {
+    "id": "665918f1fbfa625ab245794a",
+    "user_id": "653c5a31aaea15c4a05afe52",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T00:25:21.754Z",
+    "metadata": {}
+  },
+  {
+    "id": "6659193afbfa625ab245794b",
+    "user_id": "653a6847c43667c6704515e3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T00:26:34.101Z",
+    "metadata": {}
+  },
+  {
+    "id": "6659201afbfa625ab2457951",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T00:55:54.711Z",
+    "metadata": {}
+  },
+  {
+    "id": "665922acfbfa625ab2457954",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:06:52.401Z",
+    "metadata": {}
+  },
+  {
+    "id": "665922d5fbfa625ab2457955",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:07:33.717Z",
+    "metadata": {}
+  },
+  {
+    "id": "6659233efbfa625ab2457956",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:09:18.784Z",
+    "metadata": {}
+  },
+  {
+    "id": "6659236efbfa625ab2457957",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:10:06.504Z",
+    "metadata": {}
+  },
+  {
+    "id": "665923a1fbfa625ab2457958",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:10:57.833Z",
+    "metadata": {}
+  },
+  {
+    "id": "665923f3fbfa625ab2457959",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:12:19.341Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592402fbfa625ab245795a",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:12:34.105Z",
+    "metadata": {}
+  },
+  {
+    "id": "6659240ffbfa625ab245795b",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:12:47.769Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592416fbfa625ab245795c",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:12:54.934Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592448fbfa625ab245795d",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:13:44.075Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592469fbfa625ab245795e",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:14:17.507Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592473fbfa625ab245795f",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:14:27.944Z",
+    "metadata": {}
+  },
+  {
+    "id": "6659247efbfa625ab2457960",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:14:38.728Z",
+    "metadata": {}
+  },
+  {
+    "id": "665924cafbfa625ab2457961",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:15:54.148Z",
+    "metadata": {}
+  },
+  {
+    "id": "665924d2fbfa625ab2457962",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:16:02.376Z",
+    "metadata": {}
+  },
+  {
+    "id": "665924dbfbfa625ab2457963",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:16:11.734Z",
+    "metadata": {}
+  },
+  {
+    "id": "665924defbfa625ab2457964",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:16:14.892Z",
+    "metadata": {}
+  },
+  {
+    "id": "665924e6fbfa625ab2457965",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:16:22.487Z",
+    "metadata": {}
+  },
+  {
+    "id": "665924eefbfa625ab2457966",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:16:30.028Z",
+    "metadata": {}
+  },
+  {
+    "id": "665924f8fbfa625ab2457967",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:16:40.668Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592512fbfa625ab2457968",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:17:06.509Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592518fbfa625ab2457969",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:17:12.240Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592520fbfa625ab245796a",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:17:20.680Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592523fbfa625ab245796b",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:17:23.618Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592526fbfa625ab245796c",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:17:26.951Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592558fbfa625ab245796d",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:18:16.071Z",
+    "metadata": {}
+  },
+  {
+    "id": "665925a7fbfa625ab245796e",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:19:35.601Z",
+    "metadata": {}
+  },
+  {
+    "id": "665925b8fbfa625ab245796f",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:19:52.802Z",
+    "metadata": {}
+  },
+  {
+    "id": "665925fcfbfa625ab2457970",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:21:00.781Z",
+    "metadata": {}
+  },
+  {
+    "id": "665927b7fbfa625ab2457971",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:28:23.502Z",
+    "metadata": {}
+  },
+  {
+    "id": "665927e2fbfa625ab2457972",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:29:06.404Z",
+    "metadata": {}
+  },
+  {
+    "id": "665927f7fbfa625ab2457973",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:29:27.713Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592823fbfa625ab2457974",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:30:11.982Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592870fbfa625ab2457975",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:31:28.545Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592876fbfa625ab2457976",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:31:34.627Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592882fbfa625ab2457977",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:31:46.383Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592898fbfa625ab2457978",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:32:08.793Z",
+    "metadata": {}
+  },
+  {
+    "id": "665928bbfbfa625ab2457979",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:32:43.364Z",
+    "metadata": {}
+  },
+  {
+    "id": "665928fafbfa625ab245797a",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:33:46.670Z",
+    "metadata": {}
+  },
+  {
+    "id": "6659293cfbfa625ab245797b",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:34:52.615Z",
+    "metadata": {}
+  },
+  {
+    "id": "665929c4fbfa625ab245797c",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:37:08.806Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592a36fbfa625ab245797d",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:39:02.359Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592a52fbfa625ab245797e",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:39:30.680Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592a6afbfa625ab245797f",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:39:54.910Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592a75fbfa625ab2457980",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:40:05.797Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592a87fbfa625ab2457981",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:40:23.163Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592aabfbfa625ab2457982",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:40:59.390Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592ab2fbfa625ab2457983",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:41:06.248Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592abdfbfa625ab2457984",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:41:17.827Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592ad7fbfa625ab2457985",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:41:43.527Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592b0efbfa625ab2457986",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:42:38.581Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592b1cfbfa625ab2457987",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:42:52.640Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592b34fbfa625ab2457988",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:43:16.710Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592b52fbfa625ab2457989",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:43:46.084Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592babfbfa625ab245798a",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:45:15.199Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592bb0fbfa625ab245798b",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:45:20.144Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592bbffbfa625ab245798c",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:45:35.456Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592bf3fbfa625ab245798d",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:46:27.626Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592c04fbfa625ab245798e",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:46:44.737Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592c12fbfa625ab245798f",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:46:58.997Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592c47fbfa625ab2457990",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:47:51.558Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592c57fbfa625ab2457991",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:48:07.971Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592c61fbfa625ab2457992",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:48:17.552Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592c78fbfa625ab2457993",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:48:40.053Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592c92fbfa625ab2457994",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:49:06.389Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592c94fbfa625ab2457995",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:49:08.743Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592cb9fbfa625ab2457996",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:49:45.874Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592cd8fbfa625ab2457997",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:50:16.308Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592cf0fbfa625ab2457998",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:50:40.296Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592d13fbfa625ab2457999",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:51:15.954Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592d25fbfa625ab245799a",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:51:33.084Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592d6bfbfa625ab245799b",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:52:43.776Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592d73fbfa625ab245799c",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:52:51.495Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592da5fbfa625ab245799d",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:53:41.729Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592e03fbfa625ab245799e",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:55:15.165Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592e27fbfa625ab245799f",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:55:51.381Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592e30fbfa625ab24579a0",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:56:00.179Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592e59fbfa625ab24579a1",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:56:41.084Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592e63fbfa625ab24579a2",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:56:51.548Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592e92fbfa625ab24579a3",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:57:38.190Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592ea6fbfa625ab24579a4",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:57:58.701Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592eb2fbfa625ab24579a5",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:58:10.025Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592ec5fbfa625ab24579a6",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:58:29.313Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592ef1fbfa625ab24579a7",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:59:13.823Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592f1dfbfa625ab24579a8",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T01:59:57.515Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592f4afbfa625ab24579a9",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T02:00:42.021Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592f59fbfa625ab24579aa",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T02:00:57.963Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592f73fbfa625ab24579ab",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T02:01:23.253Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592f81fbfa625ab24579ac",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T02:01:37.239Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592f8ffbfa625ab24579ad",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T02:01:51.956Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592f9bfbfa625ab24579ae",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T02:02:03.394Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592fa9fbfa625ab24579af",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T02:02:17.195Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592fb3fbfa625ab24579b0",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T02:02:27.088Z",
+    "metadata": {}
+  },
+  {
+    "id": "66592fdefbfa625ab24579b1",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T02:03:10.825Z",
+    "metadata": {}
+  },
+  {
+    "id": "665930cdfbfa625ab24579b2",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T02:07:09.995Z",
+    "metadata": {}
+  },
+  {
+    "id": "665930f0fbfa625ab24579b3",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T02:07:44.788Z",
+    "metadata": {}
+  },
+  {
+    "id": "66593119fbfa625ab24579b4",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T02:08:25.184Z",
+    "metadata": {}
+  },
+  {
+    "id": "665932d6fbfa625ab24579b5",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T02:15:50.007Z",
+    "metadata": {}
+  },
+  {
+    "id": "66593402fbfa625ab24579b6",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T02:20:50.953Z",
+    "metadata": {}
+  },
+  {
+    "id": "66593595fbfa625ab24579b7",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T02:27:33.422Z",
+    "metadata": {}
+  },
+  {
+    "id": "6659ceeffbfa625ab24579c0",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T13:21:51.566Z",
+    "metadata": {}
+  },
+  {
+    "id": "665a56f0fbfa625ab24579df",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-05-31T23:02:08.735Z",
+    "metadata": {}
+  },
+  {
+    "id": "665a7abffbfa625ab24579e2",
+    "user_id": "6637bd93bf3880c0fbcd92b9",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-01T01:34:55.154Z",
+    "metadata": {}
+  },
+  {
+    "id": "665a7f10fbfa625ab24579e5",
+    "user_id": "653a688bc43667c6704515e4",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-01T01:53:20.341Z",
+    "metadata": {}
+  },
+  {
+    "id": "665b09ccfbfa625ab24579e6",
+    "user_id": "6651274581767b714e7f3a6b",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-01T11:45:16.704Z",
+    "metadata": {}
+  },
+  {
+    "id": "665b2924fbfa625ab24579f5",
+    "user_id": "664e6466e57190d925cd50c0",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-01T13:59:00.813Z",
+    "metadata": {}
+  },
+  {
+    "id": "665b2cf2fbfa625ab24579f6",
+    "user_id": "6650773f81767b714e7f3a33",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-01T14:15:14.968Z",
+    "metadata": {}
+  },
+  {
+    "id": "665b392ffbfa625ab24579fd",
+    "user_id": "6651274581767b714e7f3a6b",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-01T15:07:27.513Z",
+    "metadata": {}
+  },
+  {
+    "id": "665b5a80fbfa625ab2457a0a",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-01T17:29:36.269Z",
+    "metadata": {}
+  },
+  {
+    "id": "665b87a9fbfa625ab2457a0d",
+    "user_id": "653c5a31aaea15c4a05afe52",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-01T20:42:17.095Z",
+    "metadata": {}
+  },
+  {
+    "id": "665b8f8cfbfa625ab2457a0e",
+    "user_id": "6579089f432bdcce0675e53e",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-01T21:15:56.335Z",
+    "metadata": {}
+  },
+  {
+    "id": "665bbd3bfbfa625ab2457a0f",
+    "user_id": "653a688bc43667c6704515e4",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-02T00:30:51.437Z",
+    "metadata": {}
+  },
+  {
+    "id": "665c6adafbfa625ab2457a12",
+    "user_id": "65a884bb1d7d5851d36a1194",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-02T12:51:38.955Z",
+    "metadata": {}
+  },
+  {
+    "id": "665c7ddefbfa625ab2457a13",
+    "user_id": "653a688bc43667c6704515e4",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-02T14:12:46.079Z",
+    "metadata": {}
+  },
+  {
+    "id": "665c83b2fbfa625ab2457a16",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-02T14:37:38.039Z",
+    "metadata": {}
+  },
+  {
+    "id": "665c87fffbfa625ab2457a22",
+    "user_id": "665c87fefbfa625ab2457a21",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-02T14:55:59.522Z",
+    "metadata": {}
+  },
+  {
+    "id": "665c880efbfa625ab2457a23",
+    "user_id": "665c87fefbfa625ab2457a21",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-02T14:56:14.964Z",
+    "metadata": {}
+  },
+  {
+    "id": "665c9232fbfa625ab2457a28",
+    "user_id": "665c87fefbfa625ab2457a21",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-02T15:39:30.438Z",
+    "metadata": {}
+  },
+  {
+    "id": "665c9578fbfa625ab2457a29",
+    "user_id": "653a6847c43667c6704515e3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-02T15:53:28.263Z",
+    "metadata": {}
+  },
+  {
+    "id": "665c9905fbfa625ab2457a32",
+    "user_id": "665c87fefbfa625ab2457a21",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-02T16:08:37.022Z",
+    "metadata": {}
+  },
+  {
+    "id": "665cb657fbfa625ab2457a39",
+    "user_id": "6651274581767b714e7f3a6b",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-02T18:13:43.298Z",
+    "metadata": {}
+  },
+  {
+    "id": "665cdf2dfbfa625ab2457a4e",
+    "user_id": "653c5a31aaea15c4a05afe52",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-02T21:07:57.224Z",
+    "metadata": {}
+  },
+  {
+    "id": "665d13e6fbfa625ab2457a4f",
+    "user_id": "6637bd93bf3880c0fbcd92b9",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-03T00:52:54.153Z",
+    "metadata": {}
+  },
+  {
+    "id": "665d4daafbfa625ab2457a50",
+    "user_id": "665c87fefbfa625ab2457a21",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-03T04:59:22.469Z",
+    "metadata": {}
+  },
+  {
+    "id": "665d5023fbfa625ab2457b84",
+    "user_id": "65a8464a1d7d5851d36a118a",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-03T05:09:55.119Z",
+    "metadata": {}
+  },
+  {
+    "id": "665d61d0fbfa625ab2457b85",
+    "user_id": "664e74cee57190d925cd50cd",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-03T06:25:20.250Z",
+    "metadata": {}
+  },
+  {
+    "id": "665db82efbfa625ab2457b86",
+    "user_id": "6637bd93bf3880c0fbcd92b9",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-03T12:33:50.877Z",
+    "metadata": {}
+  },
+  {
+    "id": "665dbe5cfbfa625ab2457b87",
+    "user_id": "664e6466e57190d925cd50c0",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-03T13:00:12.459Z",
+    "metadata": {}
+  },
+  {
+    "id": "665df15cfbfa625ab2457bac",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-03T16:37:48.992Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e21d9fbfa625ab2457baf",
+    "user_id": "65a884bb1d7d5851d36a1194",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-03T20:04:41.305Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e58e0fbfa625ab2457bba",
+    "user_id": "65a884bb1d7d5851d36a1194",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-03T23:59:28.385Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e6963fbfa625ab2457bbb",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T01:09:55.117Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e6afffbfa625ab2457bbc",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T01:16:47.814Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e6b02fbfa625ab2457bbd",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T01:16:50.211Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e6bd3fbfa625ab2457bbe",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T01:20:19.615Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e6bd9fbfa625ab2457bbf",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T01:20:25.273Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e6cc7fbfa625ab2457bc0",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T01:24:23.797Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e6d54fbfa625ab2457bc1",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T01:26:44.484Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e6d89fbfa625ab2457bc2",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T01:27:37.304Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e6da1fbfa625ab2457bc3",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T01:28:01.555Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e6e96fbfa625ab2457bc4",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T01:32:06.905Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e6fa9fbfa625ab2457bc5",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T01:36:41.965Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e70defbfa625ab2457bc6",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T01:41:50.636Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e7116fbfa625ab2457bc7",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T01:42:46.805Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e722cfbfa625ab2457bc8",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T01:47:24.542Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e74e9fbfa625ab2457bc9",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T01:59:05.760Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e74f3fbfa625ab2457bca",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T01:59:15.522Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e750bfbfa625ab2457bcb",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T01:59:39.721Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e757afbfa625ab2457bcc",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T02:01:30.293Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e760ffbfa625ab2457bce",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T02:03:59.332Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e760ffbfa625ab2457bcd",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T02:03:59.332Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e7738fbfa625ab2457bcf",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T02:08:56.402Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e7776fbfa625ab2457bd0",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T02:09:58.308Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e77affbfa625ab2457bd1",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T02:10:55.522Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e77b4fbfa625ab2457bd2",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T02:11:00.268Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e788afbfa625ab2457bd3",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T02:14:34.294Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e78effbfa625ab2457bd4",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T02:16:15.386Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e78f0fbfa625ab2457bd5",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T02:16:16.921Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e790cfbfa625ab2457bd6",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T02:16:44.969Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e7930fbfa625ab2457bd7",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T02:17:20.251Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e7944fbfa625ab2457bd8",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T02:17:40.576Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e7952fbfa625ab2457bd9",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T02:17:54.017Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e7a5cfbfa625ab2457bda",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T02:22:19.989Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e886dfbfa625ab2457bdf",
+    "user_id": "653c5a31aaea15c4a05afe52",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T03:22:21.094Z",
+    "metadata": {}
+  },
+  {
+    "id": "665e97dffbfa625ab2457be0",
+    "user_id": "6651274581767b714e7f3a6b",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T04:28:15.412Z",
+    "metadata": {}
+  },
+  {
+    "id": "665f142afbfa625ab2457beb",
+    "user_id": "65a884bb1d7d5851d36a1194",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T13:18:34.713Z",
+    "metadata": {}
+  },
+  {
+    "id": "665f25fcfbfa625ab2457bf4",
+    "user_id": "665c87fefbfa625ab2457a21",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T14:34:36.726Z",
+    "metadata": {}
+  },
+  {
+    "id": "665f2b7ffbfa625ab2457bf7",
+    "user_id": "653c5a31aaea15c4a05afe52",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T14:58:07.838Z",
+    "metadata": {}
+  },
+  {
+    "id": "665f31d8fbfa625ab2457bfc",
+    "user_id": "653c5a31aaea15c4a05afe52",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T15:25:12.116Z",
+    "metadata": {}
+  },
+  {
+    "id": "665f506cfbfa625ab2457bfd",
+    "user_id": "664e6466e57190d925cd50c0",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T17:35:40.922Z",
+    "metadata": {}
+  },
+  {
+    "id": "665f5e95fbfa625ab2457bfe",
+    "user_id": "665c87fefbfa625ab2457a21",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T18:36:05.459Z",
+    "metadata": {}
+  },
+  {
+    "id": "665f6608fbfa625ab2457c07",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T19:07:52.490Z",
+    "metadata": {}
+  },
+  {
+    "id": "665f7408fbfa625ab2457c0c",
+    "user_id": "653a6847c43667c6704515e3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T20:07:36.493Z",
+    "metadata": {}
+  },
+  {
+    "id": "665f7f42fbfa625ab2457c0d",
+    "user_id": "665c87fefbfa625ab2457a21",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T20:55:30.351Z",
+    "metadata": {}
+  },
+  {
+    "id": "665f99bdfbfa625ab2457c16",
+    "user_id": "6637bd93bf3880c0fbcd92b9",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T22:48:29.290Z",
+    "metadata": {}
+  },
+  {
+    "id": "665f9aa0fbfa625ab2457c17",
+    "user_id": "6651274581767b714e7f3a6b",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T22:52:16.629Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fa28bfbfa625ab2457c1c",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-04T23:26:03.043Z",
+    "metadata": {}
+  },
+  {
+    "id": "665facc7fbfa625ab2457c23",
+    "user_id": "664e6466e57190d925cd50c0",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T00:09:43.075Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fbb03fbfa625ab2457c2c",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T01:10:27.278Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fbf75fbfa625ab2457c31",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T01:29:25.992Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fc06cfbfa625ab2457c32",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T01:33:32.143Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fc06cfbfa625ab2457c33",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T01:33:32.166Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fc106fbfa625ab2457c34",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T01:36:06.019Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fc106fbfa625ab2457c35",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T01:36:06.139Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fc48ffbfa625ab2457c36",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T01:51:11.546Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fc627fbfa625ab2457c37",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T01:57:59.496Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fc645fbfa625ab2457c38",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T01:58:29.113Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fc6dffbfa625ab2457c39",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:01:03.840Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fc6e7fbfa625ab2457c3a",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:01:11.163Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fc6f1fbfa625ab2457c3b",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:01:21.842Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fc6f9fbfa625ab2457c3c",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:01:29.526Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fc715fbfa625ab2457c3d",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:01:57.208Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fc798fbfa625ab2457c3e",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:04:08.581Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fc7f6fbfa625ab2457c3f",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:05:42.563Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fc811fbfa625ab2457c40",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:06:09.490Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fc886fbfa625ab2457c41",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:08:06.399Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fc889fbfa625ab2457c42",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:08:09.075Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fc892fbfa625ab2457c43",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:08:18.654Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fc8c6fbfa625ab2457c44",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:09:10.571Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fc8c7fbfa625ab2457c45",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:09:11.644Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fc900fbfa625ab2457c46",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:10:08.860Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fc901fbfa625ab2457c47",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:10:09.707Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fc959fbfa625ab2457c48",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:11:37.515Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fc95bfbfa625ab2457c49",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:11:39.399Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fc9f4fbfa625ab2457c4a",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:14:12.872Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fca42fbfa625ab2457c4b",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:15:30.155Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fca4dfbfa625ab2457c4c",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:15:41.129Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fcac7fbfa625ab2457c4d",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:17:43.370Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fce67fbfa625ab2457c4e",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:33:11.244Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fce69fbfa625ab2457c4f",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:33:13.496Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fce90fbfa625ab2457c50",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:33:52.347Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fcec1fbfa625ab2457c55",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:34:41.770Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fceeefbfa625ab2457c58",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:35:26.468Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fcf2ffbfa625ab2457c59",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:36:31.439Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fcf78fbfa625ab2457c5a",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:37:44.336Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fcf79fbfa625ab2457c5b",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:37:45.219Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fcfb2fbfa625ab2457c5c",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:38:42.548Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fcfb4fbfa625ab2457c5d",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:38:44.299Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fcfc8fbfa625ab2457c5e",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:39:04.199Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fcfc8fbfa625ab2457c5f",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:39:04.869Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fd107fbfa625ab2457c60",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:44:23.794Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fd109fbfa625ab2457c61",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:44:25.114Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fd300fbfa625ab2457c62",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:52:48.548Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fd3d4fbfa625ab2457c63",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:56:20.245Z",
+    "metadata": {}
+  },
+  {
+    "id": "665fd4affbfa625ab2457c64",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T02:59:59.761Z",
+    "metadata": {}
+  },
+  {
+    "id": "666081a3a150ed73fcea6099",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T15:17:55.662Z",
+    "metadata": {}
+  },
+  {
+    "id": "66608c2da150ed73fcea609b",
+    "user_id": "65a741871d7d5851d36a1167",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T16:02:53.614Z",
+    "metadata": {}
+  },
+  {
+    "id": "66609a77a150ed73fcea60a0",
+    "user_id": "653c5a31aaea15c4a05afe52",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T17:03:51.314Z",
+    "metadata": {}
+  },
+  {
+    "id": "66609effa150ed73fcea60a1",
+    "user_id": "6654d87281767b714e7f3c20",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T17:23:11.541Z",
+    "metadata": {}
+  },
+  {
+    "id": "6660a7fda150ed73fcea60a4",
+    "user_id": "653a6847c43667c6704515e3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T18:01:33.729Z",
+    "metadata": {}
+  },
+  {
+    "id": "6660a884a150ed73fcea60a6",
+    "user_id": "6660a883a150ed73fcea60a5",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T18:03:48.626Z",
+    "metadata": {}
+  },
+  {
+    "id": "6660a8a1a150ed73fcea60a7",
+    "user_id": "6660a883a150ed73fcea60a5",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T18:04:17.220Z",
+    "metadata": {}
+  },
+  {
+    "id": "6660a924a150ed73fcea60a9",
+    "user_id": "6660a923a150ed73fcea60a8",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T18:06:28.696Z",
+    "metadata": {}
+  },
+  {
+    "id": "6660a936a150ed73fcea60aa",
+    "user_id": "6660a923a150ed73fcea60a8",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T18:06:46.717Z",
+    "metadata": {}
+  },
+  {
+    "id": "6660b3f9a150ed73fcea60ab",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T18:52:41.749Z",
+    "metadata": {}
+  },
+  {
+    "id": "6660dfe5a150ed73fcea60b0",
+    "user_id": "65a884bb1d7d5851d36a1194",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T22:00:05.641Z",
+    "metadata": {}
+  },
+  {
+    "id": "6660e233a150ed73fcea60b1",
+    "user_id": "653c5a31aaea15c4a05afe52",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-05T22:09:55.240Z",
+    "metadata": {}
+  },
+  {
+    "id": "6660fc90a150ed73fcea60c2",
+    "user_id": "65a741871d7d5851d36a1167",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T00:02:24.496Z",
+    "metadata": {}
+  },
+  {
+    "id": "66610542a150ed73fcea60c5",
+    "user_id": "6637bd93bf3880c0fbcd92b9",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T00:39:30.306Z",
+    "metadata": {}
+  },
+  {
+    "id": "66610af3a150ed73fcea60ca",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T01:03:47.067Z",
+    "metadata": {}
+  },
+  {
+    "id": "66610f7ca150ed73fcea60d9",
+    "user_id": "665c87fefbfa625ab2457a21",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T01:23:08.200Z",
+    "metadata": {}
+  },
+  {
+    "id": "66611101a150ed73fcea60da",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T01:29:37.025Z",
+    "metadata": {}
+  },
+  {
+    "id": "666111bfa150ed73fcea60db",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T01:32:47.710Z",
+    "metadata": {}
+  },
+  {
+    "id": "666111cba150ed73fcea60dc",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T01:32:59.920Z",
+    "metadata": {}
+  },
+  {
+    "id": "66611281a150ed73fcea60dd",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T01:36:01.704Z",
+    "metadata": {}
+  },
+  {
+    "id": "666113aea150ed73fcea60de",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T01:41:02.525Z",
+    "metadata": {}
+  },
+  {
+    "id": "66611404a150ed73fcea60df",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T01:42:28.490Z",
+    "metadata": {}
+  },
+  {
+    "id": "6661141fa150ed73fcea60e0",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T01:42:55.196Z",
+    "metadata": {}
+  },
+  {
+    "id": "66611542a150ed73fcea60e1",
+    "user_id": "65a884bb1d7d5851d36a1194",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T01:47:46.824Z",
+    "metadata": {}
+  },
+  {
+    "id": "66611580a150ed73fcea60e2",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T01:48:48.912Z",
+    "metadata": {}
+  },
+  {
+    "id": "666117d5a150ed73fcea60e3",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T01:58:45.978Z",
+    "metadata": {}
+  },
+  {
+    "id": "66611aaba150ed73fcea60e4",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T02:10:51.722Z",
+    "metadata": {}
+  },
+  {
+    "id": "66611b2ba150ed73fcea60e9",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T02:12:59.363Z",
+    "metadata": {}
+  },
+  {
+    "id": "66611c33a150ed73fcea60ea",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T02:17:23.052Z",
+    "metadata": {}
+  },
+  {
+    "id": "66611d8ba150ed73fcea60ed",
+    "user_id": "65a741871d7d5851d36a1167",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T02:23:07.936Z",
+    "metadata": {}
+  },
+  {
+    "id": "66611dada150ed73fcea60ee",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T02:23:41.996Z",
+    "metadata": {}
+  },
+  {
+    "id": "66611e7fa150ed73fcea60ef",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T02:27:11.265Z",
+    "metadata": {}
+  },
+  {
+    "id": "66611f6aa150ed73fcea60f0",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T02:31:06.989Z",
+    "metadata": {}
+  },
+  {
+    "id": "66611ff8a150ed73fcea60f1",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T02:33:28.739Z",
+    "metadata": {}
+  },
+  {
+    "id": "6661200aa150ed73fcea60f2",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T02:33:46.262Z",
+    "metadata": {}
+  },
+  {
+    "id": "666120dda150ed73fcea60f3",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T02:37:17.052Z",
+    "metadata": {}
+  },
+  {
+    "id": "66612194a150ed73fcea60f4",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T02:40:20.497Z",
+    "metadata": {}
+  },
+  {
+    "id": "666121a9a150ed73fcea60f5",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T02:40:41.594Z",
+    "metadata": {}
+  },
+  {
+    "id": "66612288a150ed73fcea60f6",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T02:44:24.938Z",
+    "metadata": {}
+  },
+  {
+    "id": "666122a1a150ed73fcea60f7",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T02:44:49.158Z",
+    "metadata": {}
+  },
+  {
+    "id": "666123e5a150ed73fcea60f8",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T02:50:13.126Z",
+    "metadata": {}
+  },
+  {
+    "id": "66613022a150ed73fcea60f9",
+    "user_id": "6651274581767b714e7f3a6b",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T03:42:26.243Z",
+    "metadata": {}
+  },
+  {
+    "id": "6661a6a3a150ed73fcea60fa",
+    "user_id": "653a6d9f5fc5b77e05f53aa4",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T12:08:03.929Z",
+    "metadata": {}
+  },
+  {
+    "id": "6661b7a3a150ed73fcea6111",
+    "user_id": "664e6466e57190d925cd50c0",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T13:20:35.840Z",
+    "metadata": {}
+  },
+  {
+    "id": "6661c3e7a150ed73fcea6114",
+    "user_id": "65a741871d7d5851d36a1167",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T14:12:55.074Z",
+    "metadata": {}
+  },
+  {
+    "id": "6661f311a150ed73fcea611b",
+    "user_id": "664e6466e57190d925cd50c0",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T17:34:09.621Z",
+    "metadata": {}
+  },
+  {
+    "id": "6661f4d4a150ed73fcea611d",
+    "user_id": "6661f4d3a150ed73fcea611c",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T17:41:40.811Z",
+    "metadata": {}
+  },
+  {
+    "id": "6661f4f6a150ed73fcea611e",
+    "user_id": "6661f4d3a150ed73fcea611c",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T17:42:14.016Z",
+    "metadata": {}
+  },
+  {
+    "id": "666243daa150ed73fcea6133",
+    "user_id": "653c5a31aaea15c4a05afe52",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T23:18:50.001Z",
+    "metadata": {}
+  },
+  {
+    "id": "666243fea150ed73fcea6134",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-06T23:19:26.310Z",
+    "metadata": {}
+  },
+  {
+    "id": "666255b5a150ed73fcea6135",
+    "user_id": "65a741871d7d5851d36a1167",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-07T00:35:01.588Z",
+    "metadata": {}
+  },
+  {
+    "id": "66626a19a150ed73fcea6136",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-07T02:02:01.050Z",
+    "metadata": {}
+  },
+  {
+    "id": "66626f32471d634ae307f960",
+    "user_id": "65a741871d7d5851d36a1167",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-07T02:23:46.500Z",
+    "metadata": {}
+  },
+  {
+    "id": "6662f48f471d634ae307f968",
+    "user_id": "65a741871d7d5851d36a1167",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-07T11:52:47.905Z",
+    "metadata": {}
+  },
+  {
+    "id": "6662fcb2471d634ae307f96f",
+    "user_id": "6660a923a150ed73fcea60a8",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-07T12:27:30.262Z",
+    "metadata": {}
+  },
+  {
+    "id": "6662ff9a471d634ae307f974",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-07T12:39:54.278Z",
+    "metadata": {}
+  },
+  {
+    "id": "66630017471d634ae307f977",
+    "user_id": "6651274581767b714e7f3a6b",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-07T12:41:59.519Z",
+    "metadata": {}
+  },
+  {
+    "id": "6663277e471d634ae307f97e",
+    "user_id": "65a884bb1d7d5851d36a1194",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-07T15:30:06.990Z",
+    "metadata": {}
+  },
+  {
+    "id": "66632919471d634ae307f97f",
+    "user_id": "65a741871d7d5851d36a1167",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-07T15:36:57.588Z",
+    "metadata": {}
+  },
+  {
+    "id": "66633e89471d634ae307f982",
+    "user_id": "653c5a31aaea15c4a05afe52",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-07T17:08:25.076Z",
+    "metadata": {}
+  },
+  {
+    "id": "666357bd471d634ae307f987",
+    "user_id": "6660a923a150ed73fcea60a8",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-07T18:55:57.779Z",
+    "metadata": {}
+  },
+  {
+    "id": "66636b44471d634ae307f988",
+    "user_id": "6651274581767b714e7f3a6b",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-07T20:19:16.930Z",
+    "metadata": {}
+  },
+  {
+    "id": "66637ba58ae372987c4ab9bb",
+    "user_id": "6661f4d3a150ed73fcea611c",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-07T21:29:09.148Z",
+    "metadata": {}
+  },
+  {
+    "id": "6663974b8ae372987c4ab9c4",
+    "user_id": "6637bd93bf3880c0fbcd92b9",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-07T23:27:07.371Z",
+    "metadata": {}
+  },
+  {
+    "id": "66642b218ae372987c4ab9cd",
+    "user_id": "653a688bc43667c6704515e4",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-08T09:57:53.300Z",
+    "metadata": {}
+  },
+  {
+    "id": "666435f48ae372987c4ab9d0",
+    "user_id": "653a6847c43667c6704515e3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-08T10:44:04.445Z",
+    "metadata": {}
+  },
+  {
+    "id": "66644b0e8ae372987c4ab9d1",
+    "user_id": "6651274581767b714e7f3a6b",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-08T12:14:06.666Z",
+    "metadata": {}
+  },
+  {
+    "id": "6664757e8ae372987c4ab9dc",
+    "user_id": "665c87fefbfa625ab2457a21",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-08T15:15:10.784Z",
+    "metadata": {}
+  },
+  {
+    "id": "666476098ae372987c4ab9e1",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-08T15:17:29.255Z",
+    "metadata": {}
+  },
+  {
+    "id": "666477208ae372987c4ab9e6",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-08T15:22:08.887Z",
+    "metadata": {}
+  },
+  {
+    "id": "66647d328ae372987c4ab9eb",
+    "user_id": "6651274581767b714e7f3a6b",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-08T15:48:02.449Z",
+    "metadata": {}
+  },
+  {
+    "id": "666480e28ae372987c4ab9ec",
+    "user_id": "65a884bb1d7d5851d36a1194",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-08T16:03:46.546Z",
+    "metadata": {}
+  },
+  {
+    "id": "66649a138ae372987c4ab9f7",
+    "user_id": "665c87fefbfa625ab2457a21",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-08T17:51:15.352Z",
+    "metadata": {}
+  },
+  {
+    "id": "66649d2c8ae372987c4ab9fc",
+    "user_id": "6660a923a150ed73fcea60a8",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-08T18:04:28.632Z",
+    "metadata": {}
+  },
+  {
+    "id": "66649eda8ae372987c4ab9fd",
+    "user_id": "6650773f81767b714e7f3a33",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-08T18:11:38.309Z",
+    "metadata": {}
+  },
+  {
+    "id": "6664a5548ae372987c4aba00",
+    "user_id": "665c87fefbfa625ab2457a21",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-08T18:39:16.683Z",
+    "metadata": {}
+  },
+  {
+    "id": "6664a7198ae372987c4aba01",
+    "user_id": "65a741871d7d5851d36a1167",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-08T18:46:49.450Z",
+    "metadata": {}
+  },
+  {
+    "id": "6664bad28ae372987c4aba02",
+    "user_id": "6661f4d3a150ed73fcea611c",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-08T20:10:58.836Z",
+    "metadata": {}
+  },
+  {
+    "id": "6664bbf58ae372987c4aba03",
+    "user_id": "653c5a31aaea15c4a05afe52",
+    "type": "APP_OPEN",
+    "timestamp": "2024-06-08T20:15:49.298Z",
+    "metadata": {}
+  }
+]

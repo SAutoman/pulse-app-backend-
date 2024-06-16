@@ -1,0 +1,50 @@
+[
+  {
+    "id": "6625bdbfba5a2e6c4f223745",
+    "created_at": "2024-04-22T01:30:39.410Z",
+    "name": "Triathlon",
+    "description": "Triathlon Sport : Swim, Run and Cycling"
+  },
+  {
+    "id": "6625cf42cc02e95521774a3e",
+    "created_at": "2024-04-22T02:45:22.178Z",
+    "name": "Crossfit",
+    "description": "Crossfit: A high-intensity fitness program incorporating elements from several sports and types of exercise"
+  },
+  {
+    "id": "6625cf4ecc02e95521774a3f",
+    "created_at": "2024-04-22T02:45:34.099Z",
+    "name": "Gym",
+    "description": "Gym Workout: Engaging in various physical exercises in a gym to enhance fitness and strength"
+  },
+  {
+    "id": "6625cf56cc02e95521774a40",
+    "created_at": "2024-04-22T02:45:42.568Z",
+    "name": "Cycling",
+    "description": "Cycling: A sport or activity of riding a bicycle for competition, recreation, or transportation"
+  },
+  {
+    "id": "6625cf5fcc02e95521774a41",
+    "created_at": "2024-04-22T02:45:51.976Z",
+    "name": "Running",
+    "description": "Running: The activity or sport of racing on foot, often over long distances"
+  },
+  {
+    "id": "6625cf6acc02e95521774a42",
+    "created_at": "2024-04-22T02:46:02.784Z",
+    "name": "Swimming",
+    "description": "Swimming: The sport or activity of moving through water by using the arms and legs"
+  },
+  {
+    "id": "6625cf71cc02e95521774a43",
+    "created_at": "2024-04-22T02:46:09.832Z",
+    "name": "Yoga",
+    "description": "Yoga: A mind and body practice with a 5,000-year history in ancient Indian philosophy, combining physical postures, breathing techniques, and meditation or relaxation"
+  },
+  {
+    "id": "6625cf78cc02e95521774a44",
+    "created_at": "2024-04-22T02:46:16.631Z",
+    "name": "Powerlifting",
+    "description": "Powerlifting: A strength sport that consists of three attempts at maximal weight on three lifts: squat, bench press, and deadlift"
+  }
+]

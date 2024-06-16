@@ -1,0 +1,4170 @@
+[
+  {
+    "id": "664153de840386a4f71ba39a",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "amount": -5000,
+    "type": "REWARD_REDEMPTION",
+    "description": "Redeemed Reward 10% Off Coupon (id: 663c25ecb31f0753de1e56a9)",
+    "created_at_epoch_ms": "1715557341572"
+  },
+  {
+    "id": "66418f57740a9fc25164b202",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "amount": -5000,
+    "type": "REWARD_REDEMPTION",
+    "description": "Redeemed Reward 10% Off Coupon (id: 663c25ecb31f0753de1e56a9)",
+    "created_at_epoch_ms": "1715572567041"
+  },
+  {
+    "id": "66419280740a9fc25164b204",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "amount": -300,
+    "type": "REWARD_REDEMPTION",
+    "description": "Redeemed Reward Gym Membership Discount (id: 663c29cc595a6d9b21864095)",
+    "created_at_epoch_ms": "1715573376092"
+  },
+  {
+    "id": "66419e50740a9fc25164b205",
+    "user_id": "65a884bb1d7d5851d36a1194",
+    "amount": 4078,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576400231"
+  },
+  {
+    "id": "66419e50740a9fc25164b207",
+    "user_id": "65a886c71d7d5851d36a1195",
+    "amount": 3361,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576400820"
+  },
+  {
+    "id": "66419e51740a9fc25164b209",
+    "user_id": "65a8464a1d7d5851d36a118a",
+    "amount": 2964,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576401344"
+  },
+  {
+    "id": "66419e52740a9fc25164b20b",
+    "user_id": "65a741871d7d5851d36a1167",
+    "amount": 703,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576402012"
+  },
+  {
+    "id": "66419e52740a9fc25164b20d",
+    "user_id": "65a9d88105a0c5d6b6f6b96a",
+    "amount": 526,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576402609"
+  },
+  {
+    "id": "66419e53740a9fc25164b20f",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 454,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576403200"
+  },
+  {
+    "id": "66419e53740a9fc25164b211",
+    "user_id": "653a6847c43667c6704515e3",
+    "amount": 2758,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576403661"
+  },
+  {
+    "id": "66419e54740a9fc25164b213",
+    "user_id": "65a7d9b81d7d5851d36a1171",
+    "amount": 1965,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576404117"
+  },
+  {
+    "id": "66419e54740a9fc25164b215",
+    "user_id": "65889d51f745765a16dbae76",
+    "amount": 1791,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576404704"
+  },
+  {
+    "id": "66419e55740a9fc25164b217",
+    "user_id": "65db7a74a7b5f062c2d0e666",
+    "amount": 1332,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576405177"
+  },
+  {
+    "id": "66419e55740a9fc25164b219",
+    "user_id": "65a737d01d7d5851d36a1163",
+    "amount": 943,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576405626"
+  },
+  {
+    "id": "66419e56740a9fc25164b21b",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "amount": 2741,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576406306"
+  },
+  {
+    "id": "66419e56740a9fc25164b21d",
+    "user_id": "653a688bc43667c6704515e4",
+    "amount": 2029,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576406824"
+  },
+  {
+    "id": "66419e57740a9fc25164b21f",
+    "user_id": "653a6d9f5fc5b77e05f53aa4",
+    "amount": 1950,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576407352"
+  },
+  {
+    "id": "66419e57740a9fc25164b221",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576407932"
+  },
+  {
+    "id": "66419e58740a9fc25164b223",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576408522"
+  },
+  {
+    "id": "66419e59740a9fc25164b225",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576409118"
+  },
+  {
+    "id": "66419e59740a9fc25164b227",
+    "user_id": "6637bd93bf3880c0fbcd92b9",
+    "amount": 1886,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576409571"
+  },
+  {
+    "id": "66419e5a740a9fc25164b229",
+    "user_id": "65d10f9858133f56118d6347",
+    "amount": 1684,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576410041"
+  },
+  {
+    "id": "66419e5a740a9fc25164b22b",
+    "user_id": "653c5a31aaea15c4a05afe52",
+    "amount": 1215,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576410500"
+  },
+  {
+    "id": "66419e5a740a9fc25164b22d",
+    "user_id": "65aab47a05a0c5d6b6f6b990",
+    "amount": 1094,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576410969"
+  },
+  {
+    "id": "66419e5b740a9fc25164b22f",
+    "user_id": "65d10fdf58133f56118d6348",
+    "amount": 550,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576411423"
+  },
+  {
+    "id": "66419e5b740a9fc25164b231",
+    "user_id": "65a881291d7d5851d36a1193",
+    "amount": 353,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576411879"
+  },
+  {
+    "id": "66419e5c740a9fc25164b233",
+    "user_id": "65a744ef1d7d5851d36a1168",
+    "amount": 291,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576412338"
+  },
+  {
+    "id": "66419e5c740a9fc25164b235",
+    "user_id": "6579089f432bdcce0675e53e",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576412794"
+  },
+  {
+    "id": "66419e5d740a9fc25164b237",
+    "user_id": "65790f21432bdcce0675e53f",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576413261"
+  },
+  {
+    "id": "66419e5d740a9fc25164b239",
+    "user_id": "658b3f9519c0f96fbd44ece2",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576413726"
+  },
+  {
+    "id": "66419e5e740a9fc25164b23b",
+    "user_id": "65a73acf1d7d5851d36a1164",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576414187"
+  },
+  {
+    "id": "66419e5e740a9fc25164b23d",
+    "user_id": "65a741871d7d5851d36a1167",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576414662"
+  },
+  {
+    "id": "66419e5f740a9fc25164b23f",
+    "user_id": "65a869031d7d5851d36a118d",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576415122"
+  },
+  {
+    "id": "66419e5f740a9fc25164b241",
+    "user_id": "65a9d88105a0c5d6b6f6b96a",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576415580"
+  },
+  {
+    "id": "66419e60740a9fc25164b243",
+    "user_id": "65bd15057be476159f37d3f5",
+    "amount": 1537,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576416176"
+  },
+  {
+    "id": "66419e60740a9fc25164b245",
+    "user_id": "65b14c85622bf124235b8cf7",
+    "amount": 378,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576416758"
+  },
+  {
+    "id": "66419e61740a9fc25164b247",
+    "user_id": "65a208fd482c24222818d7a6",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576417273"
+  },
+  {
+    "id": "66419e61740a9fc25164b249",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576417865"
+  },
+  {
+    "id": "66419e62740a9fc25164b24b",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576418478"
+  },
+  {
+    "id": "66419e63740a9fc25164b24d",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576419081"
+  },
+  {
+    "id": "66419e63740a9fc25164b24f",
+    "user_id": "65a876d41d7d5851d36a118e",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576419603"
+  },
+  {
+    "id": "66419e64740a9fc25164b251",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576420204"
+  },
+  {
+    "id": "66419e64740a9fc25164b253",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576420720"
+  },
+  {
+    "id": "66419e65740a9fc25164b255",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576421242"
+  },
+  {
+    "id": "66419e65740a9fc25164b257",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576421900"
+  },
+  {
+    "id": "66419e67740a9fc25164b25d",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576423655"
+  },
+  {
+    "id": "66419e68740a9fc25164b25f",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576424118"
+  },
+  {
+    "id": "66419e68740a9fc25164b261",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576424771"
+  },
+  {
+    "id": "66419e6a740a9fc25164b267",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576426536"
+  },
+  {
+    "id": "66419e6c740a9fc25164b26d",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576428556"
+  },
+  {
+    "id": "66419e6e740a9fc25164b273",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576430203"
+  },
+  {
+    "id": "66419e6f740a9fc25164b279",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576431993"
+  },
+  {
+    "id": "66419e71740a9fc25164b27f",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576433626"
+  },
+  {
+    "id": "66419e73740a9fc25164b285",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576435427"
+  },
+  {
+    "id": "66419e75740a9fc25164b28b",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576437170"
+  },
+  {
+    "id": "66419e77740a9fc25164b291",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576439131"
+  },
+  {
+    "id": "66419e78740a9fc25164b297",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576440921"
+  },
+  {
+    "id": "66419e7a740a9fc25164b29d",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576442745"
+  },
+  {
+    "id": "66419e7c740a9fc25164b2a3",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576444404"
+  },
+  {
+    "id": "66419e7e740a9fc25164b2a9",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576446179"
+  },
+  {
+    "id": "66419e7f740a9fc25164b2af",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576447808"
+  },
+  {
+    "id": "66419e81740a9fc25164b2b5",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576449590"
+  },
+  {
+    "id": "66419e83740a9fc25164b2bb",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576451278"
+  },
+  {
+    "id": "66419e85740a9fc25164b2c1",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576453334"
+  },
+  {
+    "id": "66419e87740a9fc25164b2c7",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576455104"
+  },
+  {
+    "id": "66419e88740a9fc25164b2cd",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576456859"
+  },
+  {
+    "id": "66419e8a740a9fc25164b2d3",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576458472"
+  },
+  {
+    "id": "66419e8c740a9fc25164b2d9",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576460269"
+  },
+  {
+    "id": "66419e8d740a9fc25164b2df",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576461912"
+  },
+  {
+    "id": "66419e8f740a9fc25164b2e5",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576463693"
+  },
+  {
+    "id": "66419e91740a9fc25164b2eb",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576465413"
+  },
+  {
+    "id": "66419e93740a9fc25164b2f1",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576467361"
+  },
+  {
+    "id": "66419e95740a9fc25164b2f7",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576469102"
+  },
+  {
+    "id": "66419e96740a9fc25164b2fd",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576470880"
+  },
+  {
+    "id": "66419e98740a9fc25164b303",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576472514"
+  },
+  {
+    "id": "66419e9a740a9fc25164b309",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576474265"
+  },
+  {
+    "id": "66419e9b740a9fc25164b30f",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576475926"
+  },
+  {
+    "id": "66419e9d740a9fc25164b315",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1715576477765"
+  },
+  {
+    "id": "664252f460e03bc9e4199838",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "amount": -50,
+    "type": "REWARD_REDEMPTION",
+    "description": "Redeemed Reward DUROS Trial (id: 6642470119412f75014fcd28)",
+    "created_at_epoch_ms": "1715622644041"
+  },
+  {
+    "id": "664253c22fc7d5b51e0d8f15",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "amount": -50,
+    "type": "REWARD_REDEMPTION",
+    "description": "Redeemed Reward DUROS Trial (id: 6642470119412f75014fcd28)",
+    "created_at_epoch_ms": "1715622849380"
+  },
+  {
+    "id": "66456dda97c694f9a434a4a1",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "amount": -80,
+    "type": "REWARD_REDEMPTION",
+    "description": "Redeemed Reward Free Coffee (id: 663c29a2595a6d9b21864091)",
+    "created_at_epoch_ms": "1715826137901"
+  },
+  {
+    "id": "664a415bba6c072275bab623",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "amount": -80,
+    "type": "REWARD_REDEMPTION",
+    "description": "Redeemed Reward Free Coffee (id: 663c29a2595a6d9b21864091)",
+    "created_at_epoch_ms": "1716142426762"
+  },
+  {
+    "id": "664ac92a38ff261216e09386",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "amount": -50,
+    "type": "REWARD_REDEMPTION",
+    "description": "Redeemed Reward DUROS Trial (id: 6642470119412f75014fcd28)",
+    "created_at_epoch_ms": "1716177193525"
+  },
+  {
+    "id": "664ad8d038ff261216e09387",
+    "user_id": "65a886c71d7d5851d36a1195",
+    "amount": 3497,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181200357"
+  },
+  {
+    "id": "664ad8d238ff261216e0938c",
+    "user_id": "65a884bb1d7d5851d36a1194",
+    "amount": 3468,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181202229"
+  },
+  {
+    "id": "664ad8d338ff261216e09390",
+    "user_id": "65a737d01d7d5851d36a1163",
+    "amount": 2759,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181203493"
+  },
+  {
+    "id": "664ad8d438ff261216e09394",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "amount": 1219,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181204828"
+  },
+  {
+    "id": "664ad8d638ff261216e09398",
+    "user_id": "65a8464a1d7d5851d36a118a",
+    "amount": 1156,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181206130"
+  },
+  {
+    "id": "664ad8d738ff261216e0939c",
+    "user_id": "653a6847c43667c6704515e3",
+    "amount": 637,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181207404"
+  },
+  {
+    "id": "664ad8d838ff261216e093a0",
+    "user_id": "65889d51f745765a16dbae76",
+    "amount": 2727,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181208499"
+  },
+  {
+    "id": "664ad8d938ff261216e093a4",
+    "user_id": "653a688bc43667c6704515e4",
+    "amount": 2011,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181209605"
+  },
+  {
+    "id": "664ad8da38ff261216e093a8",
+    "user_id": "65a7d9b81d7d5851d36a1171",
+    "amount": 1642,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181210722"
+  },
+  {
+    "id": "664ad8db38ff261216e093ac",
+    "user_id": "653a6d9f5fc5b77e05f53aa4",
+    "amount": 1430,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181211860"
+  },
+  {
+    "id": "664ad8dc38ff261216e093b0",
+    "user_id": "65db7a74a7b5f062c2d0e666",
+    "amount": 1308,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181212946"
+  },
+  {
+    "id": "664ad8de38ff261216e093b4",
+    "user_id": "65bd15057be476159f37d3f5",
+    "amount": 4254,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181214249"
+  },
+  {
+    "id": "664ad8de38ff261216e093b6",
+    "user_id": "65a741871d7d5851d36a1167",
+    "amount": 3441,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181214891"
+  },
+  {
+    "id": "664ad8df38ff261216e093b8",
+    "user_id": "65d10f9858133f56118d6347",
+    "amount": 3077,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181215516"
+  },
+  {
+    "id": "664ad8e038ff261216e093ba",
+    "user_id": "65a744ef1d7d5851d36a1168",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181216216"
+  },
+  {
+    "id": "664ad8e038ff261216e093bc",
+    "user_id": "65a8464a1d7d5851d36a118a",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181216921"
+  },
+  {
+    "id": "664ad8e138ff261216e093be",
+    "user_id": "65b14c85622bf124235b8cf7",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181217618"
+  },
+  {
+    "id": "664ad8e238ff261216e093c0",
+    "user_id": "65a9d88105a0c5d6b6f6b96a",
+    "amount": 1504,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181218173"
+  },
+  {
+    "id": "664ad8e238ff261216e093c2",
+    "user_id": "65d10fdf58133f56118d6348",
+    "amount": 1416,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181218728"
+  },
+  {
+    "id": "664ad8e338ff261216e093c4",
+    "user_id": "6637bd93bf3880c0fbcd92b9",
+    "amount": 1333,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181219277"
+  },
+  {
+    "id": "664ad8e338ff261216e093c6",
+    "user_id": "65a869031d7d5851d36a118d",
+    "amount": 927,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181219831"
+  },
+  {
+    "id": "664ad8e438ff261216e093c8",
+    "user_id": "653c5a31aaea15c4a05afe52",
+    "amount": 434,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181220401"
+  },
+  {
+    "id": "664ad8e438ff261216e093ca",
+    "user_id": "65aab47a05a0c5d6b6f6b990",
+    "amount": 356,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181220952"
+  },
+  {
+    "id": "664ad8e538ff261216e093cc",
+    "user_id": "65a881291d7d5851d36a1193",
+    "amount": 159,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181221519"
+  },
+  {
+    "id": "664ad8e638ff261216e093ce",
+    "user_id": "653a6847c43667c6704515e3",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181222084"
+  },
+  {
+    "id": "664ad8e638ff261216e093d0",
+    "user_id": "6579089f432bdcce0675e53e",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181222631"
+  },
+  {
+    "id": "664ad8e738ff261216e093d2",
+    "user_id": "65790f21432bdcce0675e53f",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181223188"
+  },
+  {
+    "id": "664ad8e738ff261216e093d4",
+    "user_id": "658b3f9519c0f96fbd44ece2",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181223757"
+  },
+  {
+    "id": "664ad8e838ff261216e093d6",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181224327"
+  },
+  {
+    "id": "664ad8e838ff261216e093d8",
+    "user_id": "65a208fd482c24222818d7a6",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181224883"
+  },
+  {
+    "id": "664ad8e938ff261216e093da",
+    "user_id": "65a73acf1d7d5851d36a1164",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181225444"
+  },
+  {
+    "id": "664ad8ea38ff261216e093dc",
+    "user_id": "65a744ef1d7d5851d36a1168",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181226131"
+  },
+  {
+    "id": "664ad8ea38ff261216e093de",
+    "user_id": "65a8464a1d7d5851d36a118a",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181226771"
+  },
+  {
+    "id": "664ad8eb38ff261216e093e0",
+    "user_id": "65a876d41d7d5851d36a118e",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181227541"
+  },
+  {
+    "id": "664ad8ec38ff261216e093e2",
+    "user_id": "65b14c85622bf124235b8cf7",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181228255"
+  },
+  {
+    "id": "664ad8ec38ff261216e093e4",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181228955"
+  },
+  {
+    "id": "664ad8ed38ff261216e093e6",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181229650"
+  },
+  {
+    "id": "664ad8ee38ff261216e093e8",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181230197"
+  },
+  {
+    "id": "664ad8ee38ff261216e093ea",
+    "user_id": "65b14c85622bf124235b8cf7",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181230888"
+  },
+  {
+    "id": "664ad8ef38ff261216e093ec",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181231517"
+  },
+  {
+    "id": "664ad8f038ff261216e093ee",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181232128"
+  },
+  {
+    "id": "664ad8f038ff261216e093f0",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181232875"
+  },
+  {
+    "id": "664ad8f138ff261216e093f2",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181233643"
+  },
+  {
+    "id": "664ad8f238ff261216e093f4",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181234412"
+  },
+  {
+    "id": "664ad8f338ff261216e093f6",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181235187"
+  },
+  {
+    "id": "664ad8f338ff261216e093f8",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181235900"
+  },
+  {
+    "id": "664ad8f438ff261216e093fa",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181236591"
+  },
+  {
+    "id": "664ad8f538ff261216e093fc",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181237275"
+  },
+  {
+    "id": "664ad8f538ff261216e093fe",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181237993"
+  },
+  {
+    "id": "664ad8f638ff261216e09400",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181238672"
+  },
+  {
+    "id": "664ad8f738ff261216e09402",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181239374"
+  },
+  {
+    "id": "664ad8f838ff261216e09404",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181240032"
+  },
+  {
+    "id": "664ad8f838ff261216e09406",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181240662"
+  },
+  {
+    "id": "664ad8f938ff261216e09408",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181241361"
+  },
+  {
+    "id": "664ad8fa38ff261216e0940a",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181242052"
+  },
+  {
+    "id": "664ad8fa38ff261216e0940c",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181242751"
+  },
+  {
+    "id": "664ad8fb38ff261216e0940e",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181243446"
+  },
+  {
+    "id": "664ad8fc38ff261216e09410",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181244064"
+  },
+  {
+    "id": "664ad8fc38ff261216e09412",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181244729"
+  },
+  {
+    "id": "664ad8fd38ff261216e09414",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181245422"
+  },
+  {
+    "id": "664ad8fe38ff261216e09416",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181246167"
+  },
+  {
+    "id": "664ad8fe38ff261216e09418",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181246915"
+  },
+  {
+    "id": "664ad8ff38ff261216e0941a",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181247628"
+  },
+  {
+    "id": "664ad90038ff261216e0941c",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181248249"
+  },
+  {
+    "id": "664ad90038ff261216e0941e",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181248876"
+  },
+  {
+    "id": "664ad90138ff261216e09420",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181249611"
+  },
+  {
+    "id": "664ad90238ff261216e09422",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181250367"
+  },
+  {
+    "id": "664ad90338ff261216e09424",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181251129"
+  },
+  {
+    "id": "664ad90338ff261216e09426",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181251886"
+  },
+  {
+    "id": "664ad90438ff261216e09428",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181252601"
+  },
+  {
+    "id": "664ad90538ff261216e0942a",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181253279"
+  },
+  {
+    "id": "664ad90538ff261216e0942c",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181253982"
+  },
+  {
+    "id": "664ad90638ff261216e0942e",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181254670"
+  },
+  {
+    "id": "664ad90738ff261216e09430",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181255352"
+  },
+  {
+    "id": "664ad90838ff261216e09432",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181256062"
+  },
+  {
+    "id": "664ad90838ff261216e09434",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181256674"
+  },
+  {
+    "id": "664ad90938ff261216e09436",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181257321"
+  },
+  {
+    "id": "664ad90a38ff261216e09438",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181258000"
+  },
+  {
+    "id": "664ad90a38ff261216e0943a",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181258691"
+  },
+  {
+    "id": "664ad90b38ff261216e0943c",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181259393"
+  },
+  {
+    "id": "664ad90c38ff261216e0943e",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181260118"
+  },
+  {
+    "id": "664ad90c38ff261216e09440",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181260740"
+  },
+  {
+    "id": "664ad90d38ff261216e09442",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181261374"
+  },
+  {
+    "id": "664ad90e38ff261216e09444",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181262094"
+  },
+  {
+    "id": "664ad90e38ff261216e09446",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181262785"
+  },
+  {
+    "id": "664ad90f38ff261216e09448",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181263498"
+  },
+  {
+    "id": "664ad91038ff261216e0944a",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181264202"
+  },
+  {
+    "id": "664ad91038ff261216e0944c",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181264862"
+  },
+  {
+    "id": "664ad91138ff261216e0944e",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181265618"
+  },
+  {
+    "id": "664ad91238ff261216e09450",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181266418"
+  },
+  {
+    "id": "664ad91338ff261216e09452",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181267171"
+  },
+  {
+    "id": "664ad91338ff261216e09454",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181267909"
+  },
+  {
+    "id": "664ad91438ff261216e09456",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181268661"
+  },
+  {
+    "id": "664ad91538ff261216e09458",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181269348"
+  },
+  {
+    "id": "664ad91638ff261216e0945a",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181270030"
+  },
+  {
+    "id": "664ad91638ff261216e0945c",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181270725"
+  },
+  {
+    "id": "664ad91738ff261216e0945e",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181271415"
+  },
+  {
+    "id": "664ad91838ff261216e09460",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181272123"
+  },
+  {
+    "id": "664ad91838ff261216e09462",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181272815"
+  },
+  {
+    "id": "664ad91938ff261216e09464",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181273429"
+  },
+  {
+    "id": "664ad91a38ff261216e09466",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181274054"
+  },
+  {
+    "id": "664ad91a38ff261216e09468",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181274763"
+  },
+  {
+    "id": "664ad91b38ff261216e0946a",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181275457"
+  },
+  {
+    "id": "664ad91c38ff261216e0946c",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181276190"
+  },
+  {
+    "id": "664ad91c38ff261216e0946e",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181276888"
+  },
+  {
+    "id": "664ad91d38ff261216e09470",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181277521"
+  },
+  {
+    "id": "664ad91e38ff261216e09472",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181278131"
+  },
+  {
+    "id": "664ad91e38ff261216e09474",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181278813"
+  },
+  {
+    "id": "664ad91f38ff261216e09476",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181279527"
+  },
+  {
+    "id": "664ad92038ff261216e09478",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181280221"
+  },
+  {
+    "id": "664ad92038ff261216e0947a",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181280915"
+  },
+  {
+    "id": "664ad92138ff261216e0947c",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181281539"
+  },
+  {
+    "id": "664ad92238ff261216e0947e",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181282160"
+  },
+  {
+    "id": "664ad92238ff261216e09480",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181282944"
+  },
+  {
+    "id": "664ad92338ff261216e09482",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181283697"
+  },
+  {
+    "id": "664ad92438ff261216e09484",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181284446"
+  },
+  {
+    "id": "664ad92538ff261216e09486",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181285205"
+  },
+  {
+    "id": "664ad92538ff261216e09488",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181285886"
+  },
+  {
+    "id": "664ad92638ff261216e0948a",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181286570"
+  },
+  {
+    "id": "664ad92738ff261216e0948c",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181287267"
+  },
+  {
+    "id": "664ad92738ff261216e0948e",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181287946"
+  },
+  {
+    "id": "664ad92838ff261216e09490",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181288629"
+  },
+  {
+    "id": "664ad92938ff261216e09492",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181289325"
+  },
+  {
+    "id": "664ad92938ff261216e09494",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181289953"
+  },
+  {
+    "id": "664ad92a38ff261216e09496",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181290585"
+  },
+  {
+    "id": "664ad92b38ff261216e09498",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181291275"
+  },
+  {
+    "id": "664ad92b38ff261216e0949a",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181291975"
+  },
+  {
+    "id": "664ad92c38ff261216e0949c",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181292675"
+  },
+  {
+    "id": "664ad92d38ff261216e0949e",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181293387"
+  },
+  {
+    "id": "664ad92e38ff261216e094a0",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181294028"
+  },
+  {
+    "id": "664ad92e38ff261216e094a2",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181294657"
+  },
+  {
+    "id": "664ad92f38ff261216e094a4",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181295347"
+  },
+  {
+    "id": "664ad93038ff261216e094a6",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181296051"
+  },
+  {
+    "id": "664ad93038ff261216e094a8",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181296757"
+  },
+  {
+    "id": "664ad93138ff261216e094aa",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181297458"
+  },
+  {
+    "id": "664ad93238ff261216e094ac",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181298072"
+  },
+  {
+    "id": "664ad93238ff261216e094ae",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716181298698"
+  },
+  {
+    "id": "664bbf4038ff261216e094dd",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "amount": -50,
+    "type": "REWARD_REDEMPTION",
+    "description": "Redeemed Reward DUROS Trial (id: 6642470119412f75014fcd28)",
+    "created_at_epoch_ms": "1716240191579"
+  },
+  {
+    "id": "664d3cdb7a28532c859d46f1",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "amount": -50,
+    "type": "REWARD_REDEMPTION",
+    "description": "Redeemed Reward DUROS Trial (id: 6642470119412f75014fcd28)",
+    "created_at_epoch_ms": "1716337883147"
+  },
+  {
+    "id": "664d4fc02be9bf441963fe59",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "amount": -50,
+    "type": "REWARD_REDEMPTION",
+    "description": "Redeemed Reward DUROS Trial (id: 6642470119412f75014fcd28)",
+    "created_at_epoch_ms": "1716342720100"
+  },
+  {
+    "id": "664d50522be9bf441963fe5b",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "amount": -50,
+    "type": "REWARD_REDEMPTION",
+    "description": "Redeemed Reward DUROS Trial (id: 6642470119412f75014fcd28)",
+    "created_at_epoch_ms": "1716342866372"
+  },
+  {
+    "id": "664d507b2be9bf441963fe5d",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "amount": -50,
+    "type": "REWARD_REDEMPTION",
+    "description": "Redeemed Reward DUROS Trial (id: 6642470119412f75014fcd28)",
+    "created_at_epoch_ms": "1716342907420"
+  },
+  {
+    "id": "664d508d2be9bf441963fe5f",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "amount": -50,
+    "type": "REWARD_REDEMPTION",
+    "description": "Redeemed Reward DUROS Trial (id: 6642470119412f75014fcd28)",
+    "created_at_epoch_ms": "1716342924466"
+  },
+  {
+    "id": "664d77d6e57190d925cd506a",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "amount": -50,
+    "type": "REWARD_REDEMPTION",
+    "description": "Redeemed Reward DUROS Trial (id: 6642470119412f75014fcd28)",
+    "created_at_epoch_ms": "1716352982226"
+  },
+  {
+    "id": "6654135081767b714e7f3aec",
+    "user_id": "65a7d9b81d7d5851d36a1171",
+    "amount": 3257,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786000181"
+  },
+  {
+    "id": "6654135181767b714e7f3aef",
+    "user_id": "653a6d9f5fc5b77e05f53aa4",
+    "amount": 2525,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786001547"
+  },
+  {
+    "id": "6654135281767b714e7f3af1",
+    "user_id": "65bd15057be476159f37d3f5",
+    "amount": 2440,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786002206"
+  },
+  {
+    "id": "6654135381767b714e7f3af5",
+    "user_id": "65a737d01d7d5851d36a1163",
+    "amount": 1406,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786003394"
+  },
+  {
+    "id": "6654135481767b714e7f3af7",
+    "user_id": "653a688bc43667c6704515e4",
+    "amount": 1336,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786004118"
+  },
+  {
+    "id": "6654135481767b714e7f3af9",
+    "user_id": "65a741871d7d5851d36a1167",
+    "amount": 484,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786004849"
+  },
+  {
+    "id": "6654135581767b714e7f3afd",
+    "user_id": "65a884bb1d7d5851d36a1194",
+    "amount": 2353,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786005955"
+  },
+  {
+    "id": "6654135681767b714e7f3aff",
+    "user_id": "65a886c71d7d5851d36a1195",
+    "amount": 2314,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786006601"
+  },
+  {
+    "id": "6654135781767b714e7f3b01",
+    "user_id": "65d10f9858133f56118d6347",
+    "amount": 1979,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786007193"
+  },
+  {
+    "id": "6654135881767b714e7f3b05",
+    "user_id": "65889d51f745765a16dbae76",
+    "amount": 1816,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786008226"
+  },
+  {
+    "id": "6654135881767b714e7f3b07",
+    "user_id": "65db7a74a7b5f062c2d0e666",
+    "amount": 1408,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786008814"
+  },
+  {
+    "id": "6654135981767b714e7f3b09",
+    "user_id": "653a6847c43667c6704515e3",
+    "amount": 3491,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786009602"
+  },
+  {
+    "id": "6654135a81767b714e7f3b0b",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "amount": 1783,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786010190"
+  },
+  {
+    "id": "6654135a81767b714e7f3b0d",
+    "user_id": "6637bd93bf3880c0fbcd92b9",
+    "amount": 1208,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786010787"
+  },
+  {
+    "id": "6654135b81767b714e7f3b0f",
+    "user_id": "65a744ef1d7d5851d36a1168",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786011441"
+  },
+  {
+    "id": "6654135c81767b714e7f3b11",
+    "user_id": "65a876d41d7d5851d36a118e",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786012105"
+  },
+  {
+    "id": "6654135c81767b714e7f3b13",
+    "user_id": "65a881291d7d5851d36a1193",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786012761"
+  },
+  {
+    "id": "6654135d81767b714e7f3b15",
+    "user_id": "65a8464a1d7d5851d36a118a",
+    "amount": 1146,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786013302"
+  },
+  {
+    "id": "6654135d81767b714e7f3b17",
+    "user_id": "653c5a31aaea15c4a05afe52",
+    "amount": 1142,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786013831"
+  },
+  {
+    "id": "6654135e81767b714e7f3b19",
+    "user_id": "65d10fdf58133f56118d6348",
+    "amount": 1104,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786014359"
+  },
+  {
+    "id": "6654135e81767b714e7f3b1b",
+    "user_id": "65aab47a05a0c5d6b6f6b990",
+    "amount": 664,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786014899"
+  },
+  {
+    "id": "6654135f81767b714e7f3b1d",
+    "user_id": "65a9d88105a0c5d6b6f6b96a",
+    "amount": 591,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786015428"
+  },
+  {
+    "id": "6654135f81767b714e7f3b1f",
+    "user_id": "65a869031d7d5851d36a118d",
+    "amount": 344,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786015957"
+  },
+  {
+    "id": "6654136081767b714e7f3b21",
+    "user_id": "653a688bc43667c6704515e4",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786016485"
+  },
+  {
+    "id": "6654136181767b714e7f3b23",
+    "user_id": "6579089f432bdcce0675e53e",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786017017"
+  },
+  {
+    "id": "6654136181767b714e7f3b25",
+    "user_id": "65790f21432bdcce0675e53f",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786017551"
+  },
+  {
+    "id": "6654136281767b714e7f3b27",
+    "user_id": "658b3f9519c0f96fbd44ece2",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786018096"
+  },
+  {
+    "id": "6654136281767b714e7f3b29",
+    "user_id": "65a208fd482c24222818d7a6",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786018628"
+  },
+  {
+    "id": "6654136381767b714e7f3b2b",
+    "user_id": "65a737d01d7d5851d36a1163",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786019153"
+  },
+  {
+    "id": "6654136381767b714e7f3b2d",
+    "user_id": "65a73acf1d7d5851d36a1164",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786019682"
+  },
+  {
+    "id": "6654136481767b714e7f3b2f",
+    "user_id": "65a741871d7d5851d36a1167",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786020207"
+  },
+  {
+    "id": "6654136481767b714e7f3b31",
+    "user_id": "65b14c85622bf124235b8cf7",
+    "amount": 847,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786020877"
+  },
+  {
+    "id": "6654136581767b714e7f3b33",
+    "user_id": "65a744ef1d7d5851d36a1168",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786021468"
+  },
+  {
+    "id": "6654136681767b714e7f3b35",
+    "user_id": "65a876d41d7d5851d36a118e",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786022063"
+  },
+  {
+    "id": "6654136681767b714e7f3b37",
+    "user_id": "65a881291d7d5851d36a1193",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786022717"
+  },
+  {
+    "id": "6654136781767b714e7f3b39",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786023379"
+  },
+  {
+    "id": "6654136881767b714e7f3b3b",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786024034"
+  },
+  {
+    "id": "6654136881767b714e7f3b3d",
+    "user_id": "65a881291d7d5851d36a1193",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786024706"
+  },
+  {
+    "id": "6654136981767b714e7f3b3f",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786025297"
+  },
+  {
+    "id": "6654136981767b714e7f3b41",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786025891"
+  },
+  {
+    "id": "6654136b81767b714e7f3b43",
+    "user_id": "65a881291d7d5851d36a1193",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786027045"
+  },
+  {
+    "id": "6654136b81767b714e7f3b45",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786027779"
+  },
+  {
+    "id": "6654136c81767b714e7f3b47",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786028495"
+  },
+  {
+    "id": "6654136d81767b714e7f3b49",
+    "user_id": "65a881291d7d5851d36a1193",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786029222"
+  },
+  {
+    "id": "6654136d81767b714e7f3b4b",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786029874"
+  },
+  {
+    "id": "6654136e81767b714e7f3b4d",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786030541"
+  },
+  {
+    "id": "6654136f81767b714e7f3b4f",
+    "user_id": "65a881291d7d5851d36a1193",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786031195"
+  },
+  {
+    "id": "6654136f81767b714e7f3b51",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786031856"
+  },
+  {
+    "id": "6654137081767b714e7f3b53",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786032519"
+  },
+  {
+    "id": "6654137181767b714e7f3b55",
+    "user_id": "65a881291d7d5851d36a1193",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786033192"
+  },
+  {
+    "id": "6654137181767b714e7f3b57",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786033787"
+  },
+  {
+    "id": "6654137281767b714e7f3b59",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786034382"
+  },
+  {
+    "id": "6654137381767b714e7f3b5b",
+    "user_id": "65a881291d7d5851d36a1193",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786035037"
+  },
+  {
+    "id": "6654137381767b714e7f3b5d",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786035700"
+  },
+  {
+    "id": "6654137481767b714e7f3b5f",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786036352"
+  },
+  {
+    "id": "6654137581767b714e7f3b61",
+    "user_id": "65a881291d7d5851d36a1193",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786037017"
+  },
+  {
+    "id": "6654137581767b714e7f3b63",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786037605"
+  },
+  {
+    "id": "6654137681767b714e7f3b65",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786038200"
+  },
+  {
+    "id": "6654137681767b714e7f3b67",
+    "user_id": "65a881291d7d5851d36a1193",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786038854"
+  },
+  {
+    "id": "6654137781767b714e7f3b69",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786039530"
+  },
+  {
+    "id": "6654137881767b714e7f3b6b",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786040191"
+  },
+  {
+    "id": "6654137881767b714e7f3b6d",
+    "user_id": "65a881291d7d5851d36a1193",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786040857"
+  },
+  {
+    "id": "6654137981767b714e7f3b6f",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786041450"
+  },
+  {
+    "id": "6654137a81767b714e7f3b71",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786042046"
+  },
+  {
+    "id": "6654137a81767b714e7f3b73",
+    "user_id": "65a881291d7d5851d36a1193",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786042759"
+  },
+  {
+    "id": "6654137b81767b714e7f3b75",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786043481"
+  },
+  {
+    "id": "6654137c81767b714e7f3b77",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786044197"
+  },
+  {
+    "id": "6654137c81767b714e7f3b79",
+    "user_id": "65a881291d7d5851d36a1193",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786044923"
+  },
+  {
+    "id": "6654137d81767b714e7f3b7b",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786045587"
+  },
+  {
+    "id": "6654137e81767b714e7f3b7d",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786046246"
+  },
+  {
+    "id": "6654137e81767b714e7f3b7f",
+    "user_id": "65a881291d7d5851d36a1193",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786046901"
+  },
+  {
+    "id": "6654137f81767b714e7f3b81",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786047562"
+  },
+  {
+    "id": "6654138081767b714e7f3b83",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786048221"
+  },
+  {
+    "id": "6654138081767b714e7f3b85",
+    "user_id": "65a881291d7d5851d36a1193",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786048881"
+  },
+  {
+    "id": "6654138181767b714e7f3b87",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786049471"
+  },
+  {
+    "id": "6654138281767b714e7f3b89",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786050073"
+  },
+  {
+    "id": "6654138281767b714e7f3b8b",
+    "user_id": "65a881291d7d5851d36a1193",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786050725"
+  },
+  {
+    "id": "6654138381767b714e7f3b8d",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786051384"
+  },
+  {
+    "id": "6654138481767b714e7f3b8f",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786052036"
+  },
+  {
+    "id": "6654138481767b714e7f3b91",
+    "user_id": "65a881291d7d5851d36a1193",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786052701"
+  },
+  {
+    "id": "6654138581767b714e7f3b93",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786053289"
+  },
+  {
+    "id": "6654138581767b714e7f3b95",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786053887"
+  },
+  {
+    "id": "6654138681767b714e7f3b97",
+    "user_id": "65a881291d7d5851d36a1193",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786054543"
+  },
+  {
+    "id": "6654138781767b714e7f3b99",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786055200"
+  },
+  {
+    "id": "6654138781767b714e7f3b9b",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786055852"
+  },
+  {
+    "id": "6654138881767b714e7f3b9d",
+    "user_id": "65a881291d7d5851d36a1193",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786056512"
+  },
+  {
+    "id": "6654138981767b714e7f3b9f",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786057106"
+  },
+  {
+    "id": "6654138981767b714e7f3ba1",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786057706"
+  },
+  {
+    "id": "6654138a81767b714e7f3ba3",
+    "user_id": "65a881291d7d5851d36a1193",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786058422"
+  },
+  {
+    "id": "6654138b81767b714e7f3ba5",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786059151"
+  },
+  {
+    "id": "6654138b81767b714e7f3ba7",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786059864"
+  },
+  {
+    "id": "6654138c81767b714e7f3ba9",
+    "user_id": "65a881291d7d5851d36a1193",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786060597"
+  },
+  {
+    "id": "6654138d81767b714e7f3bab",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786061258"
+  },
+  {
+    "id": "6654138d81767b714e7f3bad",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786061930"
+  },
+  {
+    "id": "6654138e81767b714e7f3baf",
+    "user_id": "65a881291d7d5851d36a1193",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786062586"
+  },
+  {
+    "id": "6654138f81767b714e7f3bb1",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786063256"
+  },
+  {
+    "id": "6654138f81767b714e7f3bb3",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786063910"
+  },
+  {
+    "id": "6654139081767b714e7f3bb5",
+    "user_id": "65a881291d7d5851d36a1193",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786064572"
+  },
+  {
+    "id": "6654139181767b714e7f3bb7",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786065169"
+  },
+  {
+    "id": "6654139181767b714e7f3bb9",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786065762"
+  },
+  {
+    "id": "6654139281767b714e7f3bbb",
+    "user_id": "65a881291d7d5851d36a1193",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786066414"
+  },
+  {
+    "id": "6654139381767b714e7f3bbd",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786067075"
+  },
+  {
+    "id": "6654139381767b714e7f3bbf",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786067727"
+  },
+  {
+    "id": "6654139481767b714e7f3bc1",
+    "user_id": "65a881291d7d5851d36a1193",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786068388"
+  },
+  {
+    "id": "6654139481767b714e7f3bc3",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786068974"
+  },
+  {
+    "id": "6654139581767b714e7f3bc5",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786069591"
+  },
+  {
+    "id": "6654139681767b714e7f3bc7",
+    "user_id": "65a881291d7d5851d36a1193",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786070244"
+  },
+  {
+    "id": "6654139681767b714e7f3bc9",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786070910"
+  },
+  {
+    "id": "6654139781767b714e7f3bcb",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786071567"
+  },
+  {
+    "id": "6654139881767b714e7f3bcd",
+    "user_id": "65a881291d7d5851d36a1193",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786072237"
+  },
+  {
+    "id": "6654139881767b714e7f3bcf",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786072827"
+  },
+  {
+    "id": "6654139981767b714e7f3bd1",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786073453"
+  },
+  {
+    "id": "6654139a81767b714e7f3bd3",
+    "user_id": "65a881291d7d5851d36a1193",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786074181"
+  },
+  {
+    "id": "6654139a81767b714e7f3bd5",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786074918"
+  },
+  {
+    "id": "6654139b81767b714e7f3bd7",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786075630"
+  },
+  {
+    "id": "6654139c81767b714e7f3bd9",
+    "user_id": "65a881291d7d5851d36a1193",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786076358"
+  },
+  {
+    "id": "6654139d81767b714e7f3bdb",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786077012"
+  },
+  {
+    "id": "6654139d81767b714e7f3bdd",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786077673"
+  },
+  {
+    "id": "6654139e81767b714e7f3bdf",
+    "user_id": "65a881291d7d5851d36a1193",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786078339"
+  },
+  {
+    "id": "6654139f81767b714e7f3be1",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786079023"
+  },
+  {
+    "id": "6654139f81767b714e7f3be3",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786079701"
+  },
+  {
+    "id": "665413a081767b714e7f3be5",
+    "user_id": "65a881291d7d5851d36a1193",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786080367"
+  },
+  {
+    "id": "665413a081767b714e7f3be7",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786080955"
+  },
+  {
+    "id": "665413a181767b714e7f3be9",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786081553"
+  },
+  {
+    "id": "665413a281767b714e7f3beb",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786082206"
+  },
+  {
+    "id": "665413a281767b714e7f3bed",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786082866"
+  },
+  {
+    "id": "665413a381767b714e7f3bef",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786083518"
+  },
+  {
+    "id": "665413a481767b714e7f3bf1",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 637,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786084180"
+  },
+  {
+    "id": "665413a481767b714e7f3bf3",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786084768"
+  },
+  {
+    "id": "665413a581767b714e7f3bf5",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786085365"
+  },
+  {
+    "id": "665413a681767b714e7f3bf7",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786086022"
+  },
+  {
+    "id": "665413a681767b714e7f3bf9",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786086683"
+  },
+  {
+    "id": "665413a781767b714e7f3bfb",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786087344"
+  },
+  {
+    "id": "665413a881767b714e7f3bfd",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 1658,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786088013"
+  },
+  {
+    "id": "665413a881767b714e7f3bff",
+    "user_id": "6650773f81767b714e7f3a33",
+    "amount": 316,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786088604"
+  },
+  {
+    "id": "665413a981767b714e7f3c01",
+    "user_id": "664e6466e57190d925cd50c0",
+    "amount": 162,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786089197"
+  },
+  {
+    "id": "665413a981767b714e7f3c03",
+    "user_id": "662af28cbf3880c0fbcd9186",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786089852"
+  },
+  {
+    "id": "665413aa81767b714e7f3c05",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786090512"
+  },
+  {
+    "id": "665413ab81767b714e7f3c07",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786091163"
+  },
+  {
+    "id": "665413ab81767b714e7f3c09",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786091692"
+  },
+  {
+    "id": "665413ac81767b714e7f3c0b",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786092216"
+  },
+  {
+    "id": "665413ac81767b714e7f3c0d",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1716786092743"
+  },
+  {
+    "id": "665d4dcffbfa625ab2457a51",
+    "user_id": "65a7d9b81d7d5851d36a1171",
+    "amount": 3914,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390799866"
+  },
+  {
+    "id": "665d4dd1fbfa625ab2457a54",
+    "user_id": "65a884bb1d7d5851d36a1194",
+    "amount": 3133,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390801241"
+  },
+  {
+    "id": "665d4dd1fbfa625ab2457a56",
+    "user_id": "659df9aa5dcfb2ca3084cce3",
+    "amount": 2781,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390801917"
+  },
+  {
+    "id": "665d4dd2fbfa625ab2457a58",
+    "user_id": "65db7a74a7b5f062c2d0e666",
+    "amount": 1290,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390802669"
+  },
+  {
+    "id": "665d4dd3fbfa625ab2457a5a",
+    "user_id": "6637bd93bf3880c0fbcd92b9",
+    "amount": 489,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390803407"
+  },
+  {
+    "id": "665d4dd4fbfa625ab2457a5e",
+    "user_id": "65d10f9858133f56118d6347",
+    "amount": 230,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390804599"
+  },
+  {
+    "id": "665d4dd5fbfa625ab2457a60",
+    "user_id": "653a6847c43667c6704515e3",
+    "amount": 2626,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390805216"
+  },
+  {
+    "id": "665d4dd5fbfa625ab2457a62",
+    "user_id": "65889d51f745765a16dbae76",
+    "amount": 2505,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390805815"
+  },
+  {
+    "id": "665d4dd6fbfa625ab2457a64",
+    "user_id": "653a6d9f5fc5b77e05f53aa4",
+    "amount": 2273,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390806415"
+  },
+  {
+    "id": "665d4dd7fbfa625ab2457a66",
+    "user_id": "65a886c71d7d5851d36a1195",
+    "amount": 1905,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390807014"
+  },
+  {
+    "id": "665d4dd7fbfa625ab2457a68",
+    "user_id": "65bd15057be476159f37d3f5",
+    "amount": 1691,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390807614"
+  },
+  {
+    "id": "665d4dd8fbfa625ab2457a6a",
+    "user_id": "65a737d01d7d5851d36a1163",
+    "amount": 4490,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390808409"
+  },
+  {
+    "id": "665d4dd9fbfa625ab2457a6c",
+    "user_id": "65aa70ea05a0c5d6b6f6b97c",
+    "amount": 3165,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390809014"
+  },
+  {
+    "id": "665d4dd9fbfa625ab2457a6e",
+    "user_id": "653c5a31aaea15c4a05afe52",
+    "amount": 2420,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390809613"
+  },
+  {
+    "id": "665d4ddafbfa625ab2457a70",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390810299"
+  },
+  {
+    "id": "665d4ddafbfa625ab2457a72",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390810965"
+  },
+  {
+    "id": "665d4ddbfbfa625ab2457a74",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390811636"
+  },
+  {
+    "id": "665d4ddcfbfa625ab2457a76",
+    "user_id": "65a9d88105a0c5d6b6f6b96a",
+    "amount": 1771,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390812173"
+  },
+  {
+    "id": "665d4ddcfbfa625ab2457a78",
+    "user_id": "65a8464a1d7d5851d36a118a",
+    "amount": 1622,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390812711"
+  },
+  {
+    "id": "665d4dddfbfa625ab2457a7a",
+    "user_id": "653a688bc43667c6704515e4",
+    "amount": 1427,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390813245"
+  },
+  {
+    "id": "665d4dddfbfa625ab2457a7c",
+    "user_id": "65a869031d7d5851d36a118d",
+    "amount": 1424,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390813781"
+  },
+  {
+    "id": "665d4ddefbfa625ab2457a7e",
+    "user_id": "65d10fdf58133f56118d6348",
+    "amount": 966,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390814319"
+  },
+  {
+    "id": "665d4ddefbfa625ab2457a80",
+    "user_id": "65a881291d7d5851d36a1193",
+    "amount": 624,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390814856"
+  },
+  {
+    "id": "665d4ddffbfa625ab2457a82",
+    "user_id": "6654d87281767b714e7f3c20",
+    "amount": 605,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390815390"
+  },
+  {
+    "id": "665d4ddffbfa625ab2457a84",
+    "user_id": "65aab47a05a0c5d6b6f6b990",
+    "amount": 367,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390815929"
+  },
+  {
+    "id": "665d4de0fbfa625ab2457a86",
+    "user_id": "6650773f81767b714e7f3a33",
+    "amount": 260,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390816464"
+  },
+  {
+    "id": "665d4de1fbfa625ab2457a88",
+    "user_id": "6579089f432bdcce0675e53e",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390817004"
+  },
+  {
+    "id": "665d4de1fbfa625ab2457a8a",
+    "user_id": "65790f21432bdcce0675e53f",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390817539"
+  },
+  {
+    "id": "665d4de2fbfa625ab2457a8c",
+    "user_id": "658b3f9519c0f96fbd44ece2",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390818077"
+  },
+  {
+    "id": "665d4de2fbfa625ab2457a8e",
+    "user_id": "65a208fd482c24222818d7a6",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390818616"
+  },
+  {
+    "id": "665d4de3fbfa625ab2457a90",
+    "user_id": "65a73acf1d7d5851d36a1164",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390819151"
+  },
+  {
+    "id": "665d4de3fbfa625ab2457a92",
+    "user_id": "65a741871d7d5851d36a1167",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390819690"
+  },
+  {
+    "id": "665d4de4fbfa625ab2457a94",
+    "user_id": "65a744ef1d7d5851d36a1168",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390820228"
+  },
+  {
+    "id": "665d4de4fbfa625ab2457a96",
+    "user_id": "65a876d41d7d5851d36a118e",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390820762"
+  },
+  {
+    "id": "665d4de5fbfa625ab2457a98",
+    "user_id": "65b14c85622bf124235b8cf7",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390821303"
+  },
+  {
+    "id": "665d4de5fbfa625ab2457a9a",
+    "user_id": "65d10f9858133f56118d6347",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390821842"
+  },
+  {
+    "id": "665d4de6fbfa625ab2457a9c",
+    "user_id": "65db7a74a7b5f062c2d0e666",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390822380"
+  },
+  {
+    "id": "665d4de6fbfa625ab2457a9e",
+    "user_id": "65e358485a3a84dff3acbd5b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390822917"
+  },
+  {
+    "id": "665d4de7fbfa625ab2457aa0",
+    "user_id": "65f43412e51fa821ea9ed181",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390823452"
+  },
+  {
+    "id": "665d4de7fbfa625ab2457aa2",
+    "user_id": "65f590c1e51fa821ea9ed1a0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390823988"
+  },
+  {
+    "id": "665d4de8fbfa625ab2457aa4",
+    "user_id": "6637bd93bf3880c0fbcd92b9",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390824524"
+  },
+  {
+    "id": "665d4de9fbfa625ab2457aa6",
+    "user_id": "664e6466e57190d925cd50c0",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390825066"
+  },
+  {
+    "id": "665d4de9fbfa625ab2457aa8",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390825741"
+  },
+  {
+    "id": "665d4deafbfa625ab2457aaa",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390826338"
+  },
+  {
+    "id": "665d4deafbfa625ab2457aac",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390826943"
+  },
+  {
+    "id": "665d4debfbfa625ab2457aae",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390827609"
+  },
+  {
+    "id": "665d4decfbfa625ab2457ab0",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390828277"
+  },
+  {
+    "id": "665d4decfbfa625ab2457ab2",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390828940"
+  },
+  {
+    "id": "665d4dedfbfa625ab2457ab4",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390829613"
+  },
+  {
+    "id": "665d4deefbfa625ab2457ab6",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390830215"
+  },
+  {
+    "id": "665d4deefbfa625ab2457ab8",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390830817"
+  },
+  {
+    "id": "665d4deffbfa625ab2457aba",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390831556"
+  },
+  {
+    "id": "665d4df0fbfa625ab2457abc",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390832307"
+  },
+  {
+    "id": "665d4df1fbfa625ab2457abe",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390833034"
+  },
+  {
+    "id": "665d4df1fbfa625ab2457ac0",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390833767"
+  },
+  {
+    "id": "665d4df2fbfa625ab2457ac2",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390834429"
+  },
+  {
+    "id": "665d4df3fbfa625ab2457ac4",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390835103"
+  },
+  {
+    "id": "665d4df3fbfa625ab2457ac6",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390835765"
+  },
+  {
+    "id": "665d4df4fbfa625ab2457ac8",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390836432"
+  },
+  {
+    "id": "665d4df5fbfa625ab2457aca",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390837095"
+  },
+  {
+    "id": "665d4df5fbfa625ab2457acc",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390837764"
+  },
+  {
+    "id": "665d4df6fbfa625ab2457ace",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390838363"
+  },
+  {
+    "id": "665d4df6fbfa625ab2457ad0",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390838967"
+  },
+  {
+    "id": "665d4df7fbfa625ab2457ad2",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390839638"
+  },
+  {
+    "id": "665d4df8fbfa625ab2457ad4",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390840307"
+  },
+  {
+    "id": "665d4df8fbfa625ab2457ad6",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390840971"
+  },
+  {
+    "id": "665d4df9fbfa625ab2457ad8",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390841641"
+  },
+  {
+    "id": "665d4dfafbfa625ab2457ada",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390842243"
+  },
+  {
+    "id": "665d4dfafbfa625ab2457adc",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390842844"
+  },
+  {
+    "id": "665d4dfbfbfa625ab2457ade",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390843511"
+  },
+  {
+    "id": "665d4dfcfbfa625ab2457ae0",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390844185"
+  },
+  {
+    "id": "665d4dfcfbfa625ab2457ae2",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390844851"
+  },
+  {
+    "id": "665d4dfdfbfa625ab2457ae4",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390845520"
+  },
+  {
+    "id": "665d4dfefbfa625ab2457ae6",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390846119"
+  },
+  {
+    "id": "665d4dfefbfa625ab2457ae8",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390846723"
+  },
+  {
+    "id": "665d4dfffbfa625ab2457aea",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390847454"
+  },
+  {
+    "id": "665d4e00fbfa625ab2457aec",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390848192"
+  },
+  {
+    "id": "665d4e00fbfa625ab2457aee",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390848919"
+  },
+  {
+    "id": "665d4e01fbfa625ab2457af0",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390849657"
+  },
+  {
+    "id": "665d4e02fbfa625ab2457af2",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390850321"
+  },
+  {
+    "id": "665d4e02fbfa625ab2457af4",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390850994"
+  },
+  {
+    "id": "665d4e03fbfa625ab2457af6",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390851660"
+  },
+  {
+    "id": "665d4e04fbfa625ab2457af8",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390852329"
+  },
+  {
+    "id": "665d4e05fbfa625ab2457afa",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390853125"
+  },
+  {
+    "id": "665d4e05fbfa625ab2457afc",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390853800"
+  },
+  {
+    "id": "665d4e06fbfa625ab2457afe",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390854401"
+  },
+  {
+    "id": "665d4e07fbfa625ab2457b00",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390855004"
+  },
+  {
+    "id": "665d4e07fbfa625ab2457b02",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390855666"
+  },
+  {
+    "id": "665d4e08fbfa625ab2457b04",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390856335"
+  },
+  {
+    "id": "665d4e09fbfa625ab2457b06",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390857005"
+  },
+  {
+    "id": "665d4e09fbfa625ab2457b08",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390857679"
+  },
+  {
+    "id": "665d4e0afbfa625ab2457b0a",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390858293"
+  },
+  {
+    "id": "665d4e0afbfa625ab2457b0c",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390858901"
+  },
+  {
+    "id": "665d4e0bfbfa625ab2457b0e",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390859572"
+  },
+  {
+    "id": "665d4e0cfbfa625ab2457b10",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390860256"
+  },
+  {
+    "id": "665d4e0cfbfa625ab2457b12",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390860922"
+  },
+  {
+    "id": "665d4e0dfbfa625ab2457b14",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390861602"
+  },
+  {
+    "id": "665d4e0efbfa625ab2457b16",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390862214"
+  },
+  {
+    "id": "665d4e0efbfa625ab2457b18",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390862825"
+  },
+  {
+    "id": "665d4e0ffbfa625ab2457b1a",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390863569"
+  },
+  {
+    "id": "665d4e10fbfa625ab2457b1c",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390864316"
+  },
+  {
+    "id": "665d4e11fbfa625ab2457b1e",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390865046"
+  },
+  {
+    "id": "665d4e11fbfa625ab2457b20",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390865786"
+  },
+  {
+    "id": "665d4e12fbfa625ab2457b22",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390866453"
+  },
+  {
+    "id": "665d4e13fbfa625ab2457b24",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390867126"
+  },
+  {
+    "id": "665d4e13fbfa625ab2457b26",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390867799"
+  },
+  {
+    "id": "665d4e14fbfa625ab2457b28",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390868474"
+  },
+  {
+    "id": "665d4e15fbfa625ab2457b2a",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390869140"
+  },
+  {
+    "id": "665d4e15fbfa625ab2457b2c",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390869818"
+  },
+  {
+    "id": "665d4e16fbfa625ab2457b2e",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390870419"
+  },
+  {
+    "id": "665d4e17fbfa625ab2457b30",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390871023"
+  },
+  {
+    "id": "665d4e17fbfa625ab2457b32",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390871688"
+  },
+  {
+    "id": "665d4e18fbfa625ab2457b34",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390872361"
+  },
+  {
+    "id": "665d4e19fbfa625ab2457b36",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390873025"
+  },
+  {
+    "id": "665d4e19fbfa625ab2457b38",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390873696"
+  },
+  {
+    "id": "665d4e1afbfa625ab2457b3a",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390874298"
+  },
+  {
+    "id": "665d4e1afbfa625ab2457b3c",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390874904"
+  },
+  {
+    "id": "665d4e1bfbfa625ab2457b3e",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390875568"
+  },
+  {
+    "id": "665d4e1cfbfa625ab2457b40",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390876241"
+  },
+  {
+    "id": "665d4e1cfbfa625ab2457b42",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390876919"
+  },
+  {
+    "id": "665d4e1dfbfa625ab2457b44",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390877591"
+  },
+  {
+    "id": "665d4e1efbfa625ab2457b46",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390878198"
+  },
+  {
+    "id": "665d4e1efbfa625ab2457b48",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390878800"
+  },
+  {
+    "id": "665d4e1ffbfa625ab2457b4a",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390879526"
+  },
+  {
+    "id": "665d4e20fbfa625ab2457b4c",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390880263"
+  },
+  {
+    "id": "665d4e20fbfa625ab2457b4e",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390880996"
+  },
+  {
+    "id": "665d4e21fbfa625ab2457b50",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390881741"
+  },
+  {
+    "id": "665d4e22fbfa625ab2457b52",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390882413"
+  },
+  {
+    "id": "665d4e23fbfa625ab2457b54",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390883091"
+  },
+  {
+    "id": "665d4e23fbfa625ab2457b56",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390883758"
+  },
+  {
+    "id": "665d4e24fbfa625ab2457b58",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390884434"
+  },
+  {
+    "id": "665d4e25fbfa625ab2457b5a",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390885102"
+  },
+  {
+    "id": "665d4e25fbfa625ab2457b5c",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390885781"
+  },
+  {
+    "id": "665d4e26fbfa625ab2457b5e",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390886394"
+  },
+  {
+    "id": "665d4e27fbfa625ab2457b60",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390887006"
+  },
+  {
+    "id": "665d4e27fbfa625ab2457b62",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390887687"
+  },
+  {
+    "id": "665d4e28fbfa625ab2457b64",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390888380"
+  },
+  {
+    "id": "665d4e29fbfa625ab2457b66",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390889072"
+  },
+  {
+    "id": "665d4e29fbfa625ab2457b68",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390889754"
+  },
+  {
+    "id": "665d4e2afbfa625ab2457b6a",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390890361"
+  },
+  {
+    "id": "665d4e2afbfa625ab2457b6c",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390890974"
+  },
+  {
+    "id": "665d4e2bfbfa625ab2457b6e",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390891643"
+  },
+  {
+    "id": "665d4e2cfbfa625ab2457b70",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390892320"
+  },
+  {
+    "id": "665d4e2cfbfa625ab2457b72",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390892988"
+  },
+  {
+    "id": "665d4e2dfbfa625ab2457b74",
+    "user_id": "665c87fefbfa625ab2457a21",
+    "amount": 413,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390893667"
+  },
+  {
+    "id": "665d4e2efbfa625ab2457b76",
+    "user_id": "65f42e89e51fa821ea9ed180",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390894267"
+  },
+  {
+    "id": "665d4e2efbfa625ab2457b78",
+    "user_id": "65f4e8e6e51fa821ea9ed195",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390894875"
+  },
+  {
+    "id": "665d4e2ffbfa625ab2457b7a",
+    "user_id": "664e757be57190d925cd50dc",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390895542"
+  },
+  {
+    "id": "665d4e30fbfa625ab2457b7c",
+    "user_id": "6651274581767b714e7f3a6b",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390896222"
+  },
+  {
+    "id": "665d4e30fbfa625ab2457b7e",
+    "user_id": "6657a98ffbfa625ab24578f5",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390896893"
+  },
+  {
+    "id": "665d4e31fbfa625ab2457b80",
+    "user_id": "662af28cbf3880c0fbcd9186",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390897430"
+  },
+  {
+    "id": "665d4e31fbfa625ab2457b82",
+    "user_id": "664e74cee57190d925cd50cd",
+    "amount": 0,
+    "type": "WEEKLY_POINTS",
+    "description": "Weekly points conversion to coins",
+    "created_at_epoch_ms": "1717390897965"
+  }
+]

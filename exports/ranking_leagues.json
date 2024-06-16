@@ -1,0 +1,102 @@
+[
+  {
+    "id": "663be72a2bf659f3caf8f9cb",
+    "level": 1,
+    "category_id": "663be263c789a8cf624b67fc"
+  },
+  {
+    "id": "663be72b2bf659f3caf8f9cc",
+    "level": 2,
+    "category_id": "663be263c789a8cf624b67fc"
+  },
+  {
+    "id": "663be72b2bf659f3caf8f9cd",
+    "level": 3,
+    "category_id": "663be263c789a8cf624b67fc"
+  },
+  {
+    "id": "663be72b2bf659f3caf8f9ce",
+    "level": 4,
+    "category_id": "663be263c789a8cf624b67fc"
+  },
+  {
+    "id": "663be72c2bf659f3caf8f9cf",
+    "level": 1,
+    "category_id": "663be292c789a8cf624b67fd"
+  },
+  {
+    "id": "663be72c2bf659f3caf8f9d0",
+    "level": 2,
+    "category_id": "663be292c789a8cf624b67fd"
+  },
+  {
+    "id": "663be72c2bf659f3caf8f9d1",
+    "level": 3,
+    "category_id": "663be292c789a8cf624b67fd"
+  },
+  {
+    "id": "663be72c2bf659f3caf8f9d2",
+    "level": 4,
+    "category_id": "663be292c789a8cf624b67fd"
+  },
+  {
+    "id": "663be72d2bf659f3caf8f9d3",
+    "level": 1,
+    "category_id": "663be2a0c789a8cf624b67fe"
+  },
+  {
+    "id": "663be72d2bf659f3caf8f9d4",
+    "level": 2,
+    "category_id": "663be2a0c789a8cf624b67fe"
+  },
+  {
+    "id": "663be72d2bf659f3caf8f9d5",
+    "level": 3,
+    "category_id": "663be2a0c789a8cf624b67fe"
+  },
+  {
+    "id": "663be72e2bf659f3caf8f9d6",
+    "level": 4,
+    "category_id": "663be2a0c789a8cf624b67fe"
+  },
+  {
+    "id": "663be72e2bf659f3caf8f9d7",
+    "level": 1,
+    "category_id": "663be2a8c789a8cf624b67ff"
+  },
+  {
+    "id": "663be72e2bf659f3caf8f9d8",
+    "level": 2,
+    "category_id": "663be2a8c789a8cf624b67ff"
+  },
+  {
+    "id": "663be72e2bf659f3caf8f9d9",
+    "level": 3,
+    "category_id": "663be2a8c789a8cf624b67ff"
+  },
+  {
+    "id": "663be72f2bf659f3caf8f9da",
+    "level": 4,
+    "category_id": "663be2a8c789a8cf624b67ff"
+  },
+  {
+    "id": "663be72f2bf659f3caf8f9db",
+    "level": 1,
+    "category_id": "663be2ccc789a8cf624b6801"
+  },
+  {
+    "id": "663be72f2bf659f3caf8f9dc",
+    "level": 2,
+    "category_id": "663be2ccc789a8cf624b6801"
+  },
+  {
+    "id": "663be72f2bf659f3caf8f9dd",
+    "level": 3,
+    "category_id": "663be2ccc789a8cf624b6801"
+  },
+  {
+    "id": "663be7302bf659f3caf8f9de",
+    "level": 4,
+    "category_id": "663be2ccc789a8cf624b6801"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "663be263c789a8cf624b67fc",
+    "name": "LEGEND",
+    "order": 1
+  },
+  {
+    "id": "663be292c789a8cf624b67fd",
+    "name": "CHAMPION",
+    "order": 2
+  },
+  {
+    "id": "663be2a0c789a8cf624b67fe",
+    "name": "ELITE",
+    "order": 3
+  },
+  {
+    "id": "663be2a8c789a8cf624b67ff",
+    "name": "CHALLENGER",
+    "order": 4
+  },
+  {
+    "id": "663be2ccc789a8cf624b6801",
+    "name": "NOVICE",
+    "order": 5
+  }
+]
